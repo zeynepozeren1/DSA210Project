@@ -1,6 +1,6 @@
 # DSA210Project
 
-# Graduate Admission Prediction using GradCafe Data Enriched with QS Rankings
+# Graduate Admission Prediction 
 
 ## Project Overview
 This project aims to build a predictive model that estimates the chance of graduate school admission based on applicant profiles collected from **TheGradCafe.com**. 

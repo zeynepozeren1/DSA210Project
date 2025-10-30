@@ -105,7 +105,7 @@ This study also offers a practical contribution: it can serve as a transparent, 
 ---
 
 ## Limitations and Future Work
-- GradCafe data may not represent all applicants (self-selection bias).
+- GradCafe data may not represent all applicants.
 - Future work may integrate textual analysis of applicant comments or funding outcomes for deeper insights.
 
 

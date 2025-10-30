@@ -38,12 +38,12 @@ This study also offers a practical contribution: it can serve as a transparent, 
 - **Tool:** Selenium with ChromeDriver 
 - **Process:**  
   - Automatically load each page of GradCafe results filtered for *Computer Science* and *Masters*.
-  - Extract structured data fields (program, degree, GPA, decision, university, term, ethnicity...).
+  - Extract structured data fields (program, degree, GPA, decision, university, term, nationality...).
   - Export collected data.
 
 ### Step 2: Data Cleaning
 - Remove rows with missing GPA or unclear decision results.
-- Remove rows with missing ethnicity.
+- Remove rows with missing nationality.
 - Remove rows with decision= "Other on" since they usually are comments, suggestions... something that won't be related with my project.
 - Standardize decision labels (“Accepted”, “Rejected”, “Waitlisted”).
 - Normalize university names (case, punctuation, abbreviations).

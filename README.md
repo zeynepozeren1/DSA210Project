@@ -7,7 +7,7 @@ This project aims to build a predictive model that estimates the chance of gradu
 
 To enrich this dataset, I will be also using **QS World University Rankings by Subject 2025: Computer Science and Information Systems**. 
 
-By combining applicant-level data with institutional quality metrics, this project seeks to identify the key factors that most strongly influence graduate admission outcomes and predict whether a student will be accepted to their target school. Moreover I believe that over a sginificant threshold, GPA doesn't have it's assumed impact on the applications as it does under the threshold. I am interested in finding the threshold.
+By combining applicant-level data with institutional quality metrics, this project seeks to identify the key factors that most strongly influence graduate admission outcomes and predict whether a student will be accepted to their target school. Moreover I believe that over a siginificant threshold, GPA doesn't have it's assumed impact on the applications as it does under the threshold. I am interested in finding the threshold.
 
 ---
 
@@ -50,7 +50,7 @@ As a Computer Sceince major who severly thinks about applying for a master's deg
 - Handle missing GRE scores.
 
 ### Step 3: Data Enrichment
-- Merge GradCafe dataset with QS dataset using approximate string matching since “UCLA”, “Univ. of California Los Angeles”, “University of California at LA” are acctualy all same.
+- Merge GradCafe dataset with QS dataset using approximate string matching since “UCLA”, “Univ. of California Los Angeles”, “University of California at LA” are actually all same.
 - Convert qualitative ranks (“21+”, “201+”) into numeric bounds.
 - Handle missing QS features.
 
@@ -111,7 +111,7 @@ As a Computer Sceince major who severly thinks about applying for a master's deg
 ## Expected Challenges
 - Name inconsistencies between GradCafe and QS data.
 - Missing or biased user-reported entries on GradCafe.
-- Balancing class distribution (more rejections than acceptances, more international than american appliciants).
+- Balancing class distribution (more rejections than acceptances, more international than american applicants).
 
 ---
 

@@ -32,29 +32,49 @@ As a Computer Sceince major who severly thinks about applying for a master's deg
 
 ## Data Collection and Preprocessing
 
-
-### Step 1: Web Scraping
+### Step 1: Data Collection of GradCafe
 - **Tool:** Selenium with ChromeDriver 
 - **Process:**  
-  - Automatically load each page of GradCafe results filtered for *Computer Science* and *Masters*.
-  - Extract structured data fields (program, degree, GPA, decision, university, term, nationality...).
-  - Export collected data.
+  - Automatically load each page of GradCafe results filtered for *Computer Science* and *Masters*. Done in 2 parts since there is a filter for decision, I filtered the results as accepted and rejected. Then I did web scraping and merged them later.
+  - Extracted structured data fields: university,program,decision,term,citizenship,gpa_raw,gre_total,gre_q,gre_v,gre_aw.
+  
 
-### Step 2: Data Cleaning
-- Remove rows with missing GPA or handle with mean/median.
-- Remove rows with unclear decision results.
-- Remove rows with missing nationality.
-- Remove rows with decision= "Other on" since they usually are comments, suggestions... something that won't be related with my project.
-- Standardize decision labels (“Accepted”, “Rejected”, “Waitlisted”).
+### Step 1: Data Collection of QS world ranking
+- **Process:**  
+  - There is no need for any tool. You can download it as excel from the website.
+
+### Step 2: Data Cleaning: GradCafe
+
+- Constructed a mising data test for gradcafe merged data. Results:
+     Column       Non-Null Count  Dtype  
+---  ------       --------------  -----  
+ 0   university   16231 non-null  object 
+ 1   program      16246 non-null  object 
+ 2   decision     16246 non-null  object 
+ 3   term         15317 non-null  object 
+ 4   citizenship  14912 non-null  object 
+ 5   gpa_raw      8416 non-null   float64
+ 6   gre_total    7380 non-null   float64
+ 7   gre_q        0 non-null      float64
+ 8   gre_v        7187 non-null   float64
+ 9   gre_aw       6952 non-null   float64
+
+- As it is seen I have enough data, I decided to remove rows with missing university, term, citizenship and gpa. I considered to handle missing gpa values by mean/mediean but due to gpa being one of the most important attributes, size of gpa handled data would be bigger than the size of original gpa data and having enough big data even after removing missing gpa rows I decided to deleting the rows with missing gpa value. After dropping rows with missing university, term, citizenship and gpa I had a dataframe with size approximetly 7000. I again conducted a missing test and exmaine that gre total has 5828 non-null rows. I dropped the rows with missing gre_total. Moreover, other attributes related with gre will also be dropped to prevent unneeded complexity.
+- I don't have any missing data in decision column since I have filtered it before scraping.
 - Normalize university names (case, punctuation, abbreviations).
+- Standardized terms. There are different formats as F19, Fall 2019...
 - Handle missing GRE scores.
+- Outlier check
+- Histograms, acceptance rate by year change, domestic vs international, Correlation heatmap.
 
-### Step 3: Data Enrichment
+### Step 2: Data Cleaning: QS world ranking
+
+### Step 4: Data Enrichment
 - Merge GradCafe dataset with QS dataset using approximate string matching since “UCLA”, “Univ. of California Los Angeles”, “University of California at LA” are actually all same.
 - Convert qualitative ranks (“21+”, “201+”) into numeric bounds.
 - Handle missing QS features.
 
-### Step 4: Feature Engineering
+### Step 5: Feature Engineering
 - Encode categorical variables (degree type, term).
 - Scale numerical features (GPA, ranking scores).
 - Create binary target variable: `International = 1`, `American = 0`.

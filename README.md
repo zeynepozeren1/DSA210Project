@@ -7,14 +7,13 @@ This project aims to build a predictive model that estimates the chance of gradu
 
 To enrich this dataset, I will be also using **QS World University Rankings by Subject 2025: Computer Science and Information Systems**. 
 
-By combining applicant-level data with institutional quality metrics, this project seeks to identify the key factors that most strongly influence graduate admission outcomes and predict whether a student will be accepted to their target school. Moreover I believe that over a sginificant threshold, GPA doesn't have it's assumed impact on the applicaitons as it does under the threshold. I am intrested in finding the threshold.
+By combining applicant-level data with institutional quality metrics, this project seeks to identify the key factors that most strongly influence graduate admission outcomes and predict whether a student will be accepted to their target school. Moreover I believe that over a sginificant threshold, GPA doesn't have it's assumed impact on the applications as it does under the threshold. I am interested in finding the threshold.
 
 ---
 
 ## Motivation
-As a Computer Sceince major who severly thinks about applying for a master's degree, the data I will examine through this project are what I am searching on regularly. I used to enjoy to watch an instagram acount called limmytalks. Limmy has around 1000 posts on evaluating applications of students for college and tyring to guess their results. I wish he would do the same content for masters applications too. But since he doesn't I will do my own masters limmytalks project. As I stated, I am searching for masters programs to apply and I usually compare myself to the student records I find in internet that accepted. At the end of this projects we will have a very detailed outcome of my chance for a masters program in Computer Science based on data rather than just surfing in internet.
+As a Computer Sceince major who severly thinks about applying for a master's degree, the data I will examine through this project are what I am searching on regularly. I used to enjoy to watch an instagram account called limmytalks. Limmy has around 1000 posts on evaluating applications of students for college and trying to guess their results. I wish he would do the same content for masters applications too. But since he doesn't I will do my own masters limmytalks project. As I stated, I am searching for masters programs to apply and I usually compare myself to the student records I find in internet that accepted. At the end of this projects we will have a very detailed outcome of my chance for a masters program in Computer Science based on data rather than just surfing in internet.This personal motivation directly leads to the core research question of this project: whether GPA reaches a saturation point in admission decisions, and how institutional prestige interacts with applicant profiles.
 
-This study also offers a practical contribution: it can serve as a transparent, data-backed tool for students making strategic decisions about where to apply, and for universities aiming to understand how their global standing correlates with acceptance trends.
 
 ---
 
@@ -42,7 +41,8 @@ This study also offers a practical contribution: it can serve as a transparent, 
   - Export collected data.
 
 ### Step 2: Data Cleaning
-- Remove rows with missing GPA or unclear decision results.
+- Remove rows with missing GPA or handle with mean/median.
+- Remove rows with unclear decision results.
 - Remove rows with missing nationality.
 - Remove rows with decision= "Other on" since they usually are comments, suggestions... something that won't be related with my project.
 - Standardize decision labels (“Accepted”, “Rejected”, “Waitlisted”).
@@ -64,14 +64,34 @@ This study also offers a practical contribution: it can serve as a transparent, 
 ## Analysis Plan
 
 ### Exploratory Data Analysis (EDA)
-- Visualize GPA and acceptance distributions.
-- Analyze acceptance rates by program, term, and university tier.
-- Examine correlations between QS indicators and acceptance outcomes.
+- Examine overall data structure, missing values, duplicates, and outliers
+- Visualize GPA, GRE, QS Rank, and other numerical features using histograms, density plots, and boxplots.
+- Compare GPA and GRE distributions for accepted vs rejected applicants.
+- Analyze the GPA to acceptance relationship with binned acceptance rates, moving averages, and non-linear smoothing to identify a potential GPA saturation threshold.
+- Investigate QS Rank effects via scatterplots, rank bins, and Pearson/Spearman correlation analysis.
+- Compare domestic vs international applicants across GPA, GRE, acceptance rates, and target school rank profiles.
+- Explore temporal trends by examining acceptance rates, GPA trends, and QS Rank targets over application years.
+- Conduct multivariate analysis using pairplots and correlation heatmaps to evaluate interactions among GPA, GRE, QS indicators, and outcomes.
+
+### Hypotheses
+
+- GPA SATURATION EFFECT
+- Null Hypothesis (H0): Increases in GPA continue to significantly increase the probability of acceptance across the full GPA range.
+- Alternative Hypothesis (H1): There exists a GPA threshold τ beyond which additional increases in GPA do not significantly increase the probability of acceptance.
+
+
+- UNIVERSITY RANK INFLUENCE
+- Null Hypothesis (H0): University QS Rank has no significant association with admission outcomes.
+- Alternative Hypothesis (H1): University QS Rank is significantly associated with admission outcomes, such that better-ranked universities exhibit higher acceptance probabilities.
 
 ### Statistical Analysis
-- Evaluate whether GPA and university rank significantly affect admission outcomes.
-- Use correlation matrices and chi-square tests for categorical relationships.
-- **H: – GPA Saturation Hypothesis:**  Beyond a certain threshold (approximately GPA > 3.8), increases in GPA do not significantly increase the likelihood of acceptance.
+
+- Test whether GPA and university QS Rank significantly influence admission outcomes in alignment with the project’s two main hypotheses.
+- Apply piecewise logistic regression and changepoint detection methods to evaluate the GPA Saturation Hypothesis and statistically estimate the threshold τ, where increases in GPA no longer contribute meaningfully to acceptance probability.
+- Use generalized additive models (GAM) or non-linear smoothing techniques to examine whether the GPA–acceptance curve flattens beyond the threshold τ.
+- Analyze the impact of university prestige by evaluating the relationship between QS Rank and admission outcomes using logistic regression coefficient significance tests and Spearman rank correlation.
+- Perform chi-square tests of independence for categorical comparisons when appropriate, following the course’s hypothesis-testing framework.
+- Report p-values, confidence intervals, and effect sizes, and make decisions on rejecting or failing to reject each null hypothesis under a standard significance level (α = 0.05).
 
 ### Predictive Modeling
 - Develop classification models to predict admission results.

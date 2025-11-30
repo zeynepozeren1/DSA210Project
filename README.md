@@ -139,6 +139,9 @@ Rejected  2077.0  233.527203  186.506644  3.0  164.0  168.0  170.0  800.0
 - GPA Distribution: Accepted vs Rejected:
 ![GPA Distribution](gpa_distribution.png)
 
+- GRE Distribution: Accepted vs Rejected:
+![GRE Distribution](gre_distribution.png)
+
 ### Exploratory Data Analysis (EDA): QS Wolrd Ranking
 
 

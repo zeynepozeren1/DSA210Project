@@ -48,6 +48,7 @@ As a Computer Sceince major who severly thinks about applying for a master's deg
 ### Step 2: Data Cleaning: GradCafe
 
 - Constructed a mising data test for gradcafe merged data. Results:
+```text
      Column       Non-Null Count  Dtype  
 ---  ------       --------------  -----  
  0   university   16231 non-null  object 
@@ -60,7 +61,7 @@ As a Computer Sceince major who severly thinks about applying for a master's deg
  7   gre_q        0 non-null      float64
  8   gre_v        7187 non-null   float64
  9   gre_aw       6952 non-null   float64
-
+```
 - As it is seen I have enough data, I decided to remove rows with missing university, term, citizenship and gpa. I considered to handle missing gpa values by mean/mediean but due to gpa being one of the most important attributes, size of gpa handled data would be bigger than the size of original gpa data and having enough big data even after removing missing gpa rows I decided to deleting the rows with missing gpa value. After dropping rows with missing university, term, citizenship and gpa I had a dataframe with size approximetly 7000. I again conducted a missing test and exmaine that gre total has 5828 non-null rows. I dropped the rows with missing gre_total. Moreover, other attributes related with gre will also be dropped to prevent unneeded complexity.
 - I don't have any missing data in decision column since I have filtered it before scraping.
 - Normalize university names (case, punctuation, abbreviations).
@@ -71,6 +72,7 @@ As a Computer Sceince major who severly thinks about applying for a master's deg
 
 ### Step 2: Data Cleaning: QS world ranking
 - Constructed a mising data test. Results:
+```text
 === Missing Value Summary (QS Dataset) ===
                      missing_count  missing_percent
 Score                          650            76.47
@@ -91,7 +93,7 @@ Academic                         0             0.00
 Country / Territory              0             0.00
 Institution                      0             0.00
 institution_clean                0             0.00
-
+```
 - Since these fields contain substantial or non-negligible levels of missing data, and because they are not essential for the merging process with the GradCafe dataset, they will be removed from further analysis. All remaining variables have 0% missingness and can be safely retained.
 
 
@@ -109,7 +111,7 @@ institution_clean                0             0.00
 
 ## Analysis Plan
 
-### Exploratory Data Analysis (EDA)
+### Exploratory Data Analysis Plan (EDA)
 - Examine overall data structure, missing values, duplicates, and outliers
 - Visualize GPA, GRE, QS Rank, and other numerical features using histograms, density plots, and boxplots.
 - Compare GPA and GRE distributions for accepted vs rejected applicants.
@@ -118,6 +120,27 @@ institution_clean                0             0.00
 - Compare domestic vs international applicants across GPA, GRE, acceptance rates, and target school rank profiles.
 - Explore temporal trends by examining acceptance rates, GPA trends, and QS Rank targets over application years.
 - Conduct multivariate analysis using pairplots and correlation heatmaps to evaluate interactions among GPA, GRE, QS indicators, and outcomes.
+
+### Exploratory Data Analysis (EDA): GradCafe
+- Summary statistics of Gradcafe:
+```text
+=== GPA Summary Statistics by Decision ===
+           count      mean       std   min   25%   50%   75%   max
+decision                                                          
+Accepted  3751.0  4.002586  1.362908  0.90  3.50  3.72  3.90  9.99
+Rejected  2077.0  3.989350  1.379099  2.19  3.46  3.70  3.86  9.99
+
+=== GRE Summary Statistics by Decision ===
+           count        mean         std  min    25%    50%    75%    max
+decision                                                                 
+Accepted  3751.0  226.552119  175.687389  1.0  164.0  168.0  170.0  800.0
+Rejected  2077.0  233.527203  186.506644  3.0  164.0  168.0  170.0  800.0
+```
+- GPA Distribution: Accepted vs Rejected:
+![GPA Distribution](gpa_distribution.png)
+
+### Exploratory Data Analysis (EDA): QS Wolrd Ranking
+
 
 ### Hypotheses
 

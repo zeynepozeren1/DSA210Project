@@ -37,11 +37,13 @@ As a Computer Sceince major who severly thinks about applying for a master's deg
 - **Process:**  
   - Automatically load each page of GradCafe results filtered for *Computer Science* and *Masters*. Done in 2 parts since there is a filter for decision, I filtered the results as accepted and rejected. Then I did web scraping and merged them later.
   - Extracted structured data fields: university,program,decision,term,citizenship,gpa_raw,gre_total,gre_q,gre_v,gre_aw.
+  - Did university name normalization to be able to merge with QS data.
   
 
 ### Step 1: Data Collection of QS world ranking
 - **Process:**  
   - There is no need for any tool. You can download it as excel from the website.
+  - In the QS_Cleaning.py script, we preprocess the QS World Ranking dataset to make it suitable for analysis. The script converts non-standard rank formats (such as “=2”, “201–250”, or “201+”) into consistent numeric values, normalizes decimal notation by replacing commas with periods, and ensures all score-related columns are properly cast as numeric types. It also standardizes university names through text normalization to support reliable merging with the GradCafe dataset. Finally, the cleaned and structured dataset is exported as qs_ranking_clean.csv for further analysis.
 
 ### Step 2: Data Cleaning: GradCafe
 
@@ -68,6 +70,30 @@ As a Computer Sceince major who severly thinks about applying for a master's deg
 - Histograms, acceptance rate by year change, domestic vs international, Correlation heatmap.
 
 ### Step 2: Data Cleaning: QS world ranking
+- Constructed a mising data test. Results:
+=== Missing Value Summary (QS Dataset) ===
+                     missing_count  missing_percent
+Score                          650            76.47
+2024                           133            15.65
+Rank2024                       133            15.65
+2025                             0             0.00
+Rank2025                         0             0.00
+IRN Rank                         0             0.00
+IRN                              0             0.00
+H Rank                           0             0.00
+H                                0             0.00
+CPP Rank                         0             0.00
+Citations                        0             0.00
+ER Rank                          0             0.00
+Employer                         0             0.00
+AR rank                          0             0.00
+Academic                         0             0.00
+Country / Territory              0             0.00
+Institution                      0             0.00
+institution_clean                0             0.00
+
+- Since these fields contain substantial or non-negligible levels of missing data, and because they are not essential for the merging process with the GradCafe dataset, they will be removed from further analysis. All remaining variables have 0% missingness and can be safely retained.
+
 
 ### Step 4: Data Enrichment
 - Merge GradCafe dataset with QS dataset using approximate string matching since “UCLA”, “Univ. of California Los Angeles”, “University of California at LA” are actually all same.

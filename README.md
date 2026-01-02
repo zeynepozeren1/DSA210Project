@@ -125,16 +125,16 @@ institution_clean                0             0.00
 - Summary statistics of Gradcafe:
 ```text
 === GPA Summary Statistics by Decision ===
-           count      mean       std   min   25%   50%   75%   max
-decision                                                          
-Accepted  3751.0  4.002586  1.362908  0.90  3.50  3.72  3.90  9.99
-Rejected  2077.0  3.989350  1.379099  2.19  3.46  3.70  3.86  9.99
+           count      mean       std   min   25%   50%   75%  max
+decision                                                         
+Accepted  3495.0  3.648466  0.278167  0.90  3.50  3.70  3.86  4.0
+Rejected  1920.0  3.609307  0.282759  2.19  3.42  3.68  3.82  4.0
 
 === GRE Summary Statistics by Decision ===
            count        mean         std  min    25%    50%    75%    max
 decision                                                                 
-Accepted  3751.0  226.552119  175.687389  1.0  164.0  168.0  170.0  800.0
-Rejected  2077.0  233.527203  186.506644  3.0  164.0  168.0  170.0  800.0
+Accepted  3495.0  230.170529  180.673939  1.0  164.0  168.0  170.0  800.0
+Rejected  1920.0  237.345833  191.523309  3.0  164.0  168.0  170.0  800.0
 ```
 - GPA Distribution: Accepted vs Rejected:
 ![GPA Distribution](gpa_distribution.png)

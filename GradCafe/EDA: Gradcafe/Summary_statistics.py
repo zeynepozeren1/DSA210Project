@@ -1,5 +1,5 @@
 import pandas as pd
-
+from pathlib import Path
 def summary_stats_gradcafe(input_path):
     df = pd.read_csv(input_path)
 
@@ -15,4 +15,5 @@ def summary_stats_gradcafe(input_path):
 
 
 if __name__ == "__main__":
-    summary_stats_gradcafe("gradcafe_eda.csv")
+    BASE_DIR = Path(__file__).resolve().parent
+    summary_stats_gradcafe(BASE_DIR / "gradcafe_eda.csv")

@@ -137,10 +137,10 @@ Accepted  3495.0  230.170529  180.673939  1.0  164.0  168.0  170.0  800.0
 Rejected  1920.0  237.345833  191.523309  3.0  164.0  168.0  170.0  800.0
 ```
 - GPA Distribution: Accepted vs Rejected:
-![GPA Distribution](gpa_distribution.png)
+![GPA Distribution](Images/gpa_distribution.png)
 
 - GRE Distribution: Accepted vs Rejected:
-![GRE Distribution](gre_distribution.png)
+![GRE Distribution](Images/gre_distribution.png)
 
 - Mean Comparison:
 ```text

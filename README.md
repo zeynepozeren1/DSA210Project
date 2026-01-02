@@ -165,6 +165,17 @@ GRE t-test: TtestResult(statistic=np.float64(-1.3683575253402944), pvalue=np.flo
 - Null Hypothesis (H0): Increases in GPA continue to significantly increase the probability of acceptance across the full GPA range.
 - Alternative Hypothesis (H1): There exists a GPA threshold τ beyond which additional increases in GPA do not significantly increase the probability of acceptance.
 
+### Hypotheses Testing: GPA SATURATION EFFECT
+To capture a possible “breakpoint,” I used a piecewise logistic regression. Because τ is unknown, I performed a grid search over τ ∈ [2.50, 3.95] (step 0.05) and selected the best τ based on AIC (lower is better). The full search results are stored in results_hyp1/tau_search.csv.
+
+For each candidate threshold τ, I defined a post-threshold term gpa_over=max(0,GPA−τ) and fit: logit(P(Accepted))=β0​+β1​⋅GPA+β2⋅gpa_over+controls​.
+
+If saturation exists, the post-threshold effect β₂ should be near zero and mathematically insignificant. 
+
+- Acceptance rate binned:
+![acceptance rate binned](results_hyp1/acceptance_rate_binned.png)
+
+The best breakpoint was τ = 3.2 (AIC ≈ 4762.60, n = 3790). Importantly, the post-threshold term remained positive and statistically significant, meaning GPA increases after 3.2 are still associated with higher acceptance probability. Therefore, I do not find evidence of saturation and fail to support H1; the results are more consistent with H0, where GPA continues to matter even it gets too close to 4.
 
 - UNIVERSITY RANK INFLUENCE
 - Null Hypothesis (H0): University QS Rank has no significant association with admission outcomes.

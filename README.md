@@ -43,7 +43,7 @@ As a Computer Sceince major who severly thinks about applying for a master's deg
 ### Step 1: Data Collection of QS world ranking
 - **Process:**  
   - There is no need for any tool. You can download it as excel from the website.
-  - In the QS_Cleaning.py script, we preprocess the QS World Ranking dataset to make it suitable for analysis. The script converts non-standard rank formats (such as “=2”, “201–250”, or “201+”) into consistent numeric values, normalizes decimal notation by replacing commas with periods, and ensures all score-related columns are properly cast as numeric types. It also standardizes university names through text normalization to support reliable merging with the GradCafe dataset. Finally, the cleaned and structured dataset is exported as qs_ranking_clean.csv for further analysis.
+  - In the QS_Cleaning.py script, I preprocess the QS World Ranking dataset to make it suitable for analysis. The script converts non-standard rank formats (such as “=2”, “201–250”, or “201+”) into consistent numeric values, normalizes decimal notation by replacing commas with periods, and ensures all score-related columns are properly cast as numeric types. It also standardizes university names through text normalization to support reliable merging with the GradCafe dataset. Finally, the cleaned and structured dataset is exported as qs_ranking_clean.csv for further analysis.
 
 ### Step 2: Data Cleaning: GradCafe
 
@@ -172,7 +172,7 @@ For each candidate threshold τ, I defined a post-threshold term gpa_over=max(0,
 
 If saturation exists, the post-threshold effect β₂ should be near zero and mathematically insignificant. 
 
-- Acceptance rate binned:
+- Acceptance rate binned: GPA
 ![acceptance rate binned](results_hyp1/acceptance_rate_binned.png)
 
 The best breakpoint was τ = 3.2 (AIC ≈ 4762.60, n = 3790). Importantly, the post-threshold term remained positive and statistically significant, meaning GPA increases after 3.2 are still associated with higher acceptance probability. Therefore, I do not find evidence of saturation and fail to support H1; the results are more consistent with H0, where GPA continues to matter even it gets too close to 4.
@@ -180,6 +180,16 @@ The best breakpoint was τ = 3.2 (AIC ≈ 4762.60, n = 3790). Importantly, the p
 - UNIVERSITY RANK INFLUENCE
 - Null Hypothesis (H0): University QS Rank has no significant association with admission outcomes.
 - Alternative Hypothesis (H1): University QS Rank is significantly associated with admission outcomes, such that better-ranked universities exhibit higher acceptance probabilities.
+
+### Hypotheses Testing: UNIVERSITY RANK INFLUENCE
+
+I tested whether QS Rank2025 is related to admission decisions in the merged dataset. Because rank values are skewed, I used log_rank = log(Rank2025) and ran logistic regression (Accepted=1, Rejected=0). The model outputs are in results_hyp2/rank_models_summary.txt.
+
+Result: log_rank is significant (p < 0.001), so QS rank is associated with outcomes. However, the coefficient is positive, meaning worse rank (higher number) → higher acceptance probability in our data. This also appears in the binned plot/table: acceptance increases from about 0.53 (rank 1–10) to about 0.76 (rank 501+).
+So I reject H0, but the direction is the opposite of the original expectation—likely because applicants treat lower-ranked schools as “safer” options and GradCafe reports are not a perfectly balanced sample.
+
+- Acceptance rate binned: QS rank
+![rank binned acceptance](results_hyp2/rank_binned_acceptance.png)
 
 ### Statistical Analysis
 

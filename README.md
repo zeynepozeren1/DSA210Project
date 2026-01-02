@@ -164,8 +164,8 @@ GRE t-test: TtestResult(statistic=np.float64(-1.3683575253402944), pvalue=np.flo
 - GPA SATURATION EFFECT
 - Null Hypothesis (H0): Increases in GPA continue to significantly increase the probability of acceptance across the full GPA range.
 - Alternative Hypothesis (H1): There exists a GPA threshold τ beyond which additional increases in GPA do not significantly increase the probability of acceptance.
-
-### Hypotheses Testing: GPA SATURATION EFFECT
+---
+Hypotheses Testing: GPA SATURATION EFFECT
 To capture a possible “breakpoint,” I used a piecewise logistic regression. Because τ is unknown, I performed a grid search over τ ∈ [2.50, 3.95] (step 0.05) and selected the best τ based on AIC (lower is better). The full search results are stored in results_hyp1/tau_search.csv.
 
 For each candidate threshold τ, I defined a post-threshold term gpa_over=max(0,GPA−τ) and fit: logit(P(Accepted))=β0​+β1​⋅GPA+β2⋅gpa_over+controls​.
@@ -177,11 +177,13 @@ If saturation exists, the post-threshold effect β₂ should be near zero and ma
 
 The best breakpoint was τ = 3.2 (AIC ≈ 4762.60, n = 3790). Importantly, the post-threshold term remained positive and statistically significant, meaning GPA increases after 3.2 are still associated with higher acceptance probability. Therefore, I do not find evidence of saturation and fail to support H1; the results are more consistent with H0, where GPA continues to matter even it gets too close to 4.
 
+---
+
 - UNIVERSITY RANK INFLUENCE
 - Null Hypothesis (H0): University QS Rank has no significant association with admission outcomes.
 - Alternative Hypothesis (H1): University QS Rank is significantly associated with admission outcomes, such that better-ranked universities exhibit higher acceptance probabilities.
 
-### Hypotheses Testing: UNIVERSITY RANK INFLUENCE
+Hypotheses Testing: UNIVERSITY RANK INFLUENCE
 
 I tested whether QS Rank2025 is related to admission decisions in the merged dataset. Because rank values are skewed, I used log_rank = log(Rank2025) and ran logistic regression (Accepted=1, Rejected=0). The model outputs are in results_hyp2/rank_models_summary.txt.
 
@@ -191,27 +193,11 @@ So I reject H0, but the direction is the opposite of the original expectation—
 - Acceptance rate binned: QS rank
 ![rank binned acceptance](results_hyp2/rank_binned_acceptance.png)
 
-### Statistical Analysis
-
-- Test whether GPA and university QS Rank significantly influence admission outcomes in alignment with the project’s two main hypotheses.
-- Apply piecewise logistic regression and changepoint detection methods to evaluate the GPA Saturation Hypothesis and statistically estimate the threshold τ, where increases in GPA no longer contribute meaningfully to acceptance probability.
-- Use generalized additive models (GAM) or non-linear smoothing techniques to examine whether the GPA–acceptance curve flattens beyond the threshold τ.
-- Analyze the impact of university prestige by evaluating the relationship between QS Rank and admission outcomes using logistic regression coefficient significance tests and Spearman rank correlation.
-- Perform chi-square tests of independence for categorical comparisons when appropriate, following the course’s hypothesis-testing framework.
-- Report p-values, confidence intervals, and effect sizes, and make decisions on rejecting or failing to reject each null hypothesis under a standard significance level (α = 0.05).
-
 ### Predictive Modeling
 - Develop classification models to predict admission results.
 - Possible Algorithms: Logistic Regression, Random Forest, XGBoost etc.
 - Evaluate with accuracy, precision-recall, F1 score, and ROC-AUC.
 - Use SHAP analysis to interpret feature importance and model decisions.
-
-### Deliverables
-- Cleaned and merged dataset
-- EDA visualizations
-- Trained predictive models
-- Model interpretability analysis
-- Final written report and GitHub repository with documentation
 
 ---
 

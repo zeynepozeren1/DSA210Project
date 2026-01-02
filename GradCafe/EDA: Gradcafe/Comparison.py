@@ -1,5 +1,7 @@
 import pandas as pd
 from scipy.stats import ttest_ind
+from pathlib import Path
+
 
 def compare_distributions(input_path):
     df = pd.read_csv(input_path)
@@ -33,4 +35,6 @@ def compare_distributions(input_path):
 
 
 if __name__ == "__main__":
-    compare_distributions("gradcafe_eda.csv")
+    BASE_DIR = Path(__file__).resolve().parent
+    compare_distributions(BASE_DIR / "gradcafe_eda.csv")
+

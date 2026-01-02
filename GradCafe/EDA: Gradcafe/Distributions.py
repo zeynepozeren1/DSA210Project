@@ -1,6 +1,6 @@
 import pandas as pd
 import matplotlib.pyplot as plt
-
+from pathlib import Path
 def plot_histograms(input_path):
     df = pd.read_csv(input_path)
 
@@ -33,4 +33,6 @@ def plot_histograms(input_path):
 
 
 if __name__ == "__main__":
-    plot_histograms("gradcafe_eda.csv")
+
+    BASE_DIR = Path(__file__).resolve().parent
+    plot_histograms(BASE_DIR / "gradcafe_eda.csv")

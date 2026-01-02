@@ -105,7 +105,7 @@ institution_clean                0             0.00
 ### Step 5: Feature Engineering
 - Encode categorical variables (degree type, term).
 - Scale numerical features (GPA, ranking scores).
-- Create binary target variable: `International = 1`, `American = 0`.
+- Create binary variable: `International = 1`, `American = 0`.
 
 ---
 
@@ -144,15 +144,16 @@ Rejected  2077.0  233.527203  186.506644  3.0  164.0  168.0  170.0  800.0
 
 - Mean Comparison:
 ```text
+
 === GPA Mean Comparison ===
-Accepted: 4.002585977072781
-Rejected: 3.989350024073183
-GPA t-test: TtestResult(statistic=np.float64(0.35357316976772674), pvalue=np.float64(0.7236715780589752), df=np.float64(5826.0))
+Accepted: 3.6484663805436335
+Rejected: 3.609307291666667
+GPA t-test: TtestResult(statistic=np.float64(4.926675996473234), pvalue=np.float64(8.612983526220928e-07), df=np.float64(5413.0))
 
 === GRE Mean Comparison ===
-Accepted: 226.55211943481737
-Rejected: 233.52720269619644
-GRE t-test: TtestResult(statistic=np.float64(-1.419819004678595), pvalue=np.float64(0.15571388587323945), df=np.float64(5826.0))
+Accepted: 230.17052932761086
+Rejected: 237.34583333333333
+GRE t-test: TtestResult(statistic=np.float64(-1.3683575253402944), pvalue=np.float64(0.17125698363362132), df=np.float64(5413.0))
 ```
 
 ### Exploratory Data Analysis (EDA): QS Wolrd Ranking

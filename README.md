@@ -160,6 +160,7 @@ For each candidate threshold τ, I defined a post-threshold term gpa_over=max(0,
 If saturation exists, the post-threshold effect β₂ should be near zero and mathematically insignificant. 
 
 - Acceptance rate binned: GPA
+
 ![acceptance rate binned](/Hypothesis/results_hyp1/acceptance_rate_binned.png)
 
 The best breakpoint was τ = 3.2 (AIC ≈ 4762.60, n = 3790). Importantly, the post-threshold term remained positive and statistically significant, meaning GPA increases after 3.2 are still associated with higher acceptance probability. Therefore, I do not find evidence of saturation and fail to support H1; the results are more consistent with H0, where GPA continues to matter even it gets too close to 4.
@@ -178,11 +179,13 @@ Result: log_rank is significant (p < 0.001), so QS rank is associated with outco
 So I reject H0, but the direction is the opposite of the original expectation—likely because applicants treat lower-ranked schools as “safer” options and GradCafe reports are not a perfectly balanced sample.
 
 - Acceptance rate binned: QS rank
+
 ![rank binned acceptance](/Hypothesis/results_hyp2/rank_binned_acceptance.png)
 
 ### Predictive Modeling
 Calibrated Logistic Regression achieved the best results with Accuracy = 0.731, F1 = 0.809, and ROC-AUC = 0.761, making it the most reliable model in terms of balanced classification and probability quality. Calibrated Linear SVM followed closely (Acc = 0.726, F1 = 0.808, ROC-AUC = 0.757). Tree-based models (Gradient Boosting / Random Forest / HistGradientBoosting) performed competitively but slightly behind in ROC-AUC and F1. Based on these comparisons, the project continues with Calibrated Logistic Regression as the main predictive model.
 - ML Models: QS rank
+
 ![ML scores](Images/MLscores1.png)
 
 To make the prediction part easy to use, I built a small Streamlit interface that loads our trained best model (saved_model_hgb/best_model_hgb.joblib) and predicts the probability of acceptance, P(ACCEPT), based on a user profile. User provides GPA, GRE, citizenship,intended application term (e.g., F20, S24), and then chooses a mode. In One University mode, the user selects a single university from a dropdown list and the app returns the predicted acceptance probability for that school. In Top-K mode, the app scores all universities listed in uni_table.csv, sorts them by predicted probability, and displays the top results in a table.

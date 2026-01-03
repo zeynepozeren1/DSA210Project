@@ -1,0 +1,15 @@
+{
+  "features": [
+    "gpa_raw",
+    "gre_total",
+    "institution_clean",
+    "program",
+    "term"
+  ],
+  "n_rows_used": 3304,
+  "target_mapping": {
+    "accepted": 1,
+    "rejected": 0
+  },
+  "model": "HistGradientBoostingClassifier"
+}

@@ -14,7 +14,6 @@ By combining applicant-level data with institutional quality metrics, this proje
 ## Motivation
 As a Computer Sceince major who severly thinks about applying for a master's degree, the data I will examine through this project are what I am searching on regularly. I used to enjoy to watch an instagram account called limmytalks. Limmy has around 1000 posts on evaluating applications of students for college and trying to guess their results. I wish he would do the same content for masters applications too. But since he doesn't I will do my own masters limmytalks project. As I stated, I am searching for masters programs to apply and I usually compare myself to the student records I find in internet that accepted. At the end of this projects we will have a very detailed outcome of my chance for a masters program in Computer Science based on data rather than just surfing in internet.This personal motivation directly leads to the core research question of this project: whether GPA reaches a saturation point in admission decisions, and how institutional prestige interacts with applicant profiles.
 
-
 ---
 
 ## Data Sources
@@ -96,7 +95,6 @@ institution_clean                0             0.00
 ```
 - Since these fields contain substantial or non-negligible levels of missing data, and because they are not essential for the merging process with the GradCafe dataset, they will be removed from further analysis. All remaining variables have 0% missingness and can be safely retained.
 
-
 ### Step 4: Data Enrichment
 - Merge GradCafe dataset with QS dataset using approximate string matching since “UCLA”, “Univ. of California Los Angeles”, “University of California at LA” are actually all same.
 - Convert qualitative ranks (“21+”, “201+”) into numeric bounds.
@@ -108,18 +106,6 @@ institution_clean                0             0.00
 - Create binary variable: `International = 1`, `American = 0`.
 
 ---
-
-## Analysis Plan
-
-### Exploratory Data Analysis Plan (EDA)
-- Examine overall data structure, missing values, duplicates, and outliers
-- Visualize GPA, GRE, QS Rank, and other numerical features using histograms, density plots, and boxplots.
-- Compare GPA and GRE distributions for accepted vs rejected applicants.
-- Analyze the GPA to acceptance relationship with binned acceptance rates, moving averages, and non-linear smoothing to identify a potential GPA saturation threshold.
-- Investigate QS Rank effects via scatterplots, rank bins, and Pearson/Spearman correlation analysis.
-- Compare domestic vs international applicants across GPA, GRE, acceptance rates, and target school rank profiles.
-- Explore temporal trends by examining acceptance rates, GPA trends, and QS Rank targets over application years.
-- Conduct multivariate analysis using pairplots and correlation heatmaps to evaluate interactions among GPA, GRE, QS indicators, and outcomes.
 
 ### Exploratory Data Analysis (EDA): GradCafe
 - Summary statistics of Gradcafe:
@@ -139,8 +125,9 @@ Rejected  1920.0  237.345833  191.523309  3.0  164.0  168.0  170.0  800.0
 - GPA Distribution: Accepted vs Rejected:
 ![GPA Distribution](Images/gpa_distribution.png)
 
-- GRE Distribution: Accepted vs Rejected:
+- GRE Distribution: Accepted vs Rejected: noticed gre_total values are highky variable due to: normally gre scores are between 130-170 but some students took more than 1 gre test so they wrote the total of the test scores so ı decided to remove the rows with gre higher than 170.
 ![GRE Distribution](Images/gre_distribution.png)
+
 
 - Mean Comparison:
 ```text
@@ -155,9 +142,9 @@ Accepted: 230.17052932761086
 Rejected: 237.34583333333333
 GRE t-test: TtestResult(statistic=np.float64(-1.3683575253402944), pvalue=np.float64(0.17125698363362132), df=np.float64(5413.0))
 ```
+### Exploratory Data Analysis (EDA): QS Rank
 
-### Exploratory Data Analysis (EDA): QS Wolrd Ranking
-
+No eda was needed for QS ranking data. I just did preprocessing and then merged with Gradcafe data.
 
 ### Hypotheses
 
@@ -194,14 +181,11 @@ So I reject H0, but the direction is the opposite of the original expectation—
 ![rank binned acceptance](results_hyp2/rank_binned_acceptance.png)
 
 ### Predictive Modeling
-- Develop classification models to predict admission results.
-- Possible Algorithms: Logistic Regression, Random Forest, XGBoost etc.
-- Evaluate with accuracy, precision-recall, F1 score, and ROC-AUC.
-- Use SHAP analysis to interpret feature importance and model decisions.
-
+Calibrated Logistic Regression achieved the best results with Accuracy = 0.731, F1 = 0.809, and ROC-AUC = 0.761, making it the most reliable model in terms of balanced classification and probability quality. Calibrated Linear SVM followed closely (Acc = 0.726, F1 = 0.808, ROC-AUC = 0.757). Tree-based models (Gradient Boosting / Random Forest / HistGradientBoosting) performed competitively but slightly behind in ROC-AUC and F1. Based on these comparisons, the project continues with Calibrated Logistic Regression as the main predictive model.
+![ML scores1](Images/MLscores1.png)
 ---
 
-## Expected Challenges
+## Challenges Encountered
 - Name inconsistencies between GradCafe and QS data.
 - Missing or biased user-reported entries on GradCafe.
 - Balancing class distribution (more rejections than acceptances, more international than american applicants).

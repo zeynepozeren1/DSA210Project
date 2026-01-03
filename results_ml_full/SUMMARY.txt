@@ -1,0 +1,8 @@
+ accuracy  precision   recall       f1  roc_auc   pr_auc                        model  n_test
+ 0.730711   0.745059 0.884977 0.809013 0.760783 0.830634 CalibratedLogisticRegression     661
+ 0.685325   0.809659 0.669014 0.732648 0.760578 0.831374           LogisticRegression     661
+ 0.726172   0.737864 0.892019 0.807651 0.757327 0.833927          CalibratedLinearSVM     661
+ 0.714070   0.728324 0.887324 0.800000 0.756318 0.832034             GradientBoosting     661
+ 0.721634   0.758547 0.833333 0.794183 0.752053 0.831499                 RandomForest     661
+ 0.711044   0.758242 0.809859 0.783201 0.744991 0.823984         HistGradientBoosting     661
+ 0.709531   0.762332 0.798122 0.779817 0.721631 0.796105                   ExtraTrees     661

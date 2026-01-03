@@ -30,7 +30,6 @@ University of Alberta,Computer Science Masters,Accepted,F19,International,3.91,1
 ีUniversity Of Southern California (USC) - Viterbi School Of Engineering,Computer Science Masters,Accepted,F17,American,3.87,159.0,university of southern california,49,University of Southern California,United States of America,49.0
 Carnegie Mellon University,Computer Science Masters,Accepted,F19,International,3.88,170.0,carnegie mellon university,3,Carnegie Mellon University,United States of America,3.0
 University of Michigan,Computer Science And Engineering (CSE) Masters,Accepted,F16,American,3.3,169.0,michigan state university,=136,Michigan State University,United States of America,136.0
-Stanford University,Computer Science Masters,Accepted,F15,International,3.8,176.0,stanford university,2,Stanford University,United States of America,2.0
 Columbia University,Computer Science Software Systems Masters,Accepted,F16,International,3.9,165.0,columbia university,=27,Columbia University,United States of America,27.0
 University of Southern California,Computer Science Masters,Accepted,F16,International,3.85,164.0,university of southern california,49,University of Southern California,United States of America,49.0
 Simon Fraser University,Computer Science Masters,Accepted,F18,International,3.6,168.0,simon fraser university,201-250,Simon Fraser University,Canada,225.5
@@ -125,7 +124,6 @@ University of Southern California,Computer Science MS Masters,Accepted,F18,Ameri
 Georgia Institute of Technology,Computer Science Information Security Masters,Accepted,F16,International,3.6,152.0,georgia institute of technology,40,Georgia Institute of Technology,United States of America,40.0
 Stony Brook University,Computer Science Masters,Accepted,F16,International,3.93,170.0,stony brook university state university of new york,351-400,Stony Brook University. State University of New York,United States of America,375.5
 Arizona State University,Computer Science Masters,Accepted,F15,International,3.86,165.0,arizona state university,=134,Arizona State University,United States of America,134.0
-University of Massachusetts Amherst,Computer Science Masters,Accepted,F15,International,3.83,800.0,university of massachusetts amherst,=127,University of Massachusetts Amherst,United States of America,127.0
 ETH Zurich,Computer Science (Visual Computing Track) Masters,Accepted,F16,International,3.8,167.0,eth zurich,10,ETH Zurich - Swiss Federal Institute of Technology,Switzerland,10.0
 Arizona State University,Computer Science Masters,Accepted,F15,International,3.4,164.0,arizona state university,=134,Arizona State University,United States of America,134.0
 University of Alberta,Computer Science Masters,Accepted,F18,International,3.65,170.0,university of alberta,=105,University of Alberta,Canada,105.0
@@ -165,7 +163,6 @@ Columbia College,Computer Science Masters,Accepted,F18,International,3.5,170.0,c
 Columbia College,Computer Science Masters,Accepted,F19,American,3.7,169.0,columbia university,=27,Columbia University,United States of America,27.0
 "University of California, Irvine",Computer Science Masters,Accepted,F20,International,3.82,170.0,university of california irvine,=122,University of California. Irvine,United States of America,122.0
 Stony Brook University,Computer Science Masters,Accepted,F15,International,3.75,170.0,stony brook university state university of new york,351-400,Stony Brook University. State University of New York,United States of America,375.5
-University of Massachusetts Amherst,Computer Science Masters,Accepted,F19,International,3.9,330.0,university of massachusetts amherst,=127,University of Massachusetts Amherst,United States of America,127.0
 The University Of Pennsylvaia (UPenn),Computer Science and Engineering Masters,Accepted,F16,International,3.6,166.0,university of pennsylvania,=41,University of Pennsylvania,United States of America,41.0
 University of Southern California,Computer Science - Scientists And Engineers Masters,Accepted,S17,American,3.73,167.0,university of southern california,49,University of Southern California,United States of America,49.0
 University of Delaware,Computer Science Masters,Accepted,F15,International,3.75,170.0,university of delaware,701-750,University of Delaware,United States of America,725.5
@@ -283,88 +280,35 @@ Columbia College,Computer Science Masters,Accepted,F19,International,3.75,168.0,
 Carnegie Mellon University,Computer Science MIIS Masters,Accepted,F16,International,3.74,168.0,carnegie mellon university,3,Carnegie Mellon University,United States of America,3.0
 University of Southern California,Computer Science Masters,Accepted,F19,International,3.58,157.0,university of southern california,49,University of Southern California,United States of America,49.0
 University of Pennsylvania,Computer Science Masters,Accepted,F15,International,3.98,166.0,university of pennsylvania,=41,University of Pennsylvania,United States of America,41.0
-KU Leuven,Computer Science Masters,Accepted,Fall 2026,American,3.85,330.0,ku leuven,51,KU Leuven,Belgium,51.0
 Arizona State University,Computer Science Masters,Accepted,Fall 2026,International,3.0,161.0,arizona state university,=134,Arizona State University,United States of America,134.0
-University of Southern California,Computer Science Masters,Accepted,Fall 2025,International,3.9,316.0,university of southern california,49,University of Southern California,United States of America,49.0
-University of Pennsylvania,Computer Science Masters,Accepted,Fall 2025,American,3.97,330.0,university of pennsylvania,=41,University of Pennsylvania,United States of America,41.0
-University of Southern California,Computer Science Masters,Accepted,Fall 2025,International,3.8,320.0,university of southern california,49,University of Southern California,United States of America,49.0
-Georgia Institute of Technology,Computer Science Masters,Accepted,Fall 2025,International,3.8,336.0,georgia institute of technology,40,Georgia Institute of Technology,United States of America,40.0
 Georgia Institute of Technology,Computer Science Masters,Accepted,Fall 2025,International,3.3,167.0,georgia institute of technology,40,Georgia Institute of Technology,United States of America,40.0
 Georgia Institute of Technology,Computer Science Masters,Accepted,Fall 2025,International,3.97,169.0,georgia institute of technology,40,Georgia Institute of Technology,United States of America,40.0
-University of California (UCSC),Computer Science Masters,Accepted,Fall 2025,International,3.8,326.0,university of california santa cruz,501-550,University of California. Santa Cruz,United States of America,525.5
-University of Southern California,Computer Science Masters,Accepted,Fall 2025,International,3.8,326.0,university of southern california,49,University of Southern California,United States of America,49.0
 Stony Brook University,Computer Science Masters,Accepted,Fall 2025,International,3.72,168.0,stony brook university state university of new york,351-400,Stony Brook University. State University of New York,United States of America,375.5
 Rensselaer Polytechnic Institute,Computer Science Masters,Accepted,Fall 2025,American,3.55,161.0,rensselaer polytechnic institute,501-550,Rensselaer Polytechnic Institute,United States of America,525.5
 Boston University,Computer Science Masters,Accepted,Fall 2025,American,3.55,161.0,boston university,=107,Boston University,United States of America,107.0
 ETH Zurich,Computer Science Masters,Accepted,Fall 2025,International,4.0,170.0,eth zurich,10,ETH Zurich - Swiss Federal Institute of Technology,Switzerland,10.0
-Stony Brook University,Computer Science Masters,Accepted,Fall 2025,International,3.5,316.0,stony brook university state university of new york,351-400,Stony Brook University. State University of New York,United States of America,375.5
 University of Wisconsin - Madison,Computer Science Masters,Accepted,Fall 2025,International,3.6,170.0,university of wisconsin,=110,University of Wisconsin-Madison,United States of America,110.0
-Simon Fraser University,Computer Science Masters,Accepted,Fall 2025,International,3.4,327.0,simon fraser university,201-250,Simon Fraser University,Canada,225.5
 Stony Brook University,Computer Science Masters,Accepted,Fall 2025,International,3.82,170.0,stony brook university state university of new york,351-400,Stony Brook University. State University of New York,United States of America,375.5
-Boston University,Computer Science Masters,Accepted,Fall 2025,American,3.96,333.0,boston university,=107,Boston University,United States of America,107.0
-University of Florida,Computer Science Masters,Accepted,Fall 2025,International,3.7,321.0,university of florida,=161,University of Florida,United States of America,161.0
-Rice University,Computer Science Masters,Accepted,Fall 2025,International,3.7,321.0,rice university,201-250,Rice University,United States of America,225.5
 University of Southern California,Computer Science Masters,Accepted,Fall 2025,International,3.58,170.0,university of southern california,49,University of Southern California,United States of America,49.0
-McGill University,Computer Science Masters,Accepted,Fall 2025,American,3.95,335.0,mcgill university,48,McGill University,Canada,48.0
-Stanford University,Computer Science Masters,Accepted,Fall 2025,International,4.0,331.0,stanford university,2,Stanford University,United States of America,2.0
-University of Colorado Boulder,Computer Science Masters,Accepted,Fall 2025,International,3.0,323.0,university of colorado boulder,351-400,University of Colorado Boulder,United States of America,375.5
-University of Colorado Boulder,Computer Science Masters,Accepted,Fall 2025,International,3.53,325.0,university of colorado boulder,351-400,University of Colorado Boulder,United States of America,375.5
-University of Florida,Computer Science Masters,Accepted,Fall 2025,International,3.76,324.0,university of florida,=161,University of Florida,United States of America,161.0
-University of Colorado Boulder,Computer Science Masters,Accepted,Fall 2025,International,3.37,318.0,university of colorado boulder,351-400,University of Colorado Boulder,United States of America,375.5
-Yale University,Computer Science Masters,Accepted,Fall 2025,International,3.94,334.0,yale university,26,Yale University,United States of America,26.0
 Columbia University,Computer Science Masters,Accepted,Fall 2025,International,3.86,168.0,columbia university,=27,Columbia University,United States of America,27.0
-University of Florida,Computer Science Masters,Accepted,Fall 2025,International,3.6,320.0,university of florida,=161,University of Florida,United States of America,161.0
-Arizona State University,Computer Science Masters,Accepted,Fall 2025,International,3.87,336.0,arizona state university,=134,Arizona State University,United States of America,134.0
-Yale University,Computer Science Masters,Accepted,Fall 2025,American,3.96,337.0,yale university,26,Yale University,United States of America,26.0
 Columbia University,Computer Science Masters,Accepted,Fall 2025,International,3.91,170.0,columbia university,=27,Columbia University,United States of America,27.0
-Columbia University,Computer Science Masters,Accepted,Fall 2025,International,3.67,323.0,columbia university,=27,Columbia University,United States of America,27.0
 Carnegie Mellon,Computer Science Masters,Accepted,Fall 2025,International,3.91,170.0,carnegie mellon university,3,Carnegie Mellon University,United States of America,3.0
 Columbia University,Computer Science Masters,Accepted,Fall 2025,American,3.84,170.0,columbia university,=27,Columbia University,United States of America,27.0
-Boston University,Computer Science Masters,Accepted,Fall 2025,International,3.91,316.0,boston university,=107,Boston University,United States of America,107.0
 Carnegie Mellon University,Computer Science Masters,Accepted,Fall 2025,International,3.92,170.0,carnegie mellon university,3,Carnegie Mellon University,United States of America,3.0
-"University of California, Irvine",Computer Science Masters,Accepted,Fall 2025,American,3.98,309.0,university of california irvine,=122,University of California. Irvine,United States of America,122.0
-Carnegie Mellon University,Computer Science Masters,Accepted,Fall 2025,International,4.0,331.0,carnegie mellon university,3,Carnegie Mellon University,United States of America,3.0
-Arizona State University,Computer Science Masters,Accepted,Fall 2025,International,3.89,322.0,arizona state university,=134,Arizona State University,United States of America,134.0
-University of Pittsburgh,Computer Science Masters,Accepted,Fall 2025,International,3.9,322.0,university of pittsburgh,251-300,University of Pittsburgh,United States of America,275.5
-University of Pittsburgh,Computer Science Masters,Accepted,Fall 2025,International,3.7,340.0,university of pittsburgh,251-300,University of Pittsburgh,United States of America,275.5
 Carnegie Mellon University,Computer Science Masters,Accepted,Fall 2025,International,3.86,170.0,carnegie mellon university,3,Carnegie Mellon University,United States of America,3.0
-Columbia University,Computer Science Masters,Accepted,Fall 2025,American,3.85,334.0,columbia university,=27,Columbia University,United States of America,27.0
-Boston University,Computer Science Masters,Accepted,Fall 2025,International,2.8,320.0,boston university,=107,Boston University,United States of America,107.0
-University of Pittsburgh,Computer Science Masters,Accepted,Fall 2025,International,3.7,340.0,university of pittsburgh,251-300,University of Pittsburgh,United States of America,275.5
-Columbia University,Computer Science Masters,Accepted,Fall 2025,International,3.72,328.0,columbia university,=27,Columbia University,United States of America,27.0
-Columbia University,Computer Science Masters,Accepted,Fall 2025,International,3.72,328.0,columbia university,=27,Columbia University,United States of America,27.0
-Carnegie Mellon University,Computer Science Masters,Accepted,Fall 2025,International,3.83,321.0,carnegie mellon university,3,Carnegie Mellon University,United States of America,3.0
 University of Pennsylvania,Computer Science Masters,Accepted,Fall 2025,American,3.86,168.0,university of pennsylvania,=41,University of Pennsylvania,United States of America,41.0
 Columbia University,Computer Science Masters,Accepted,Fall 2025,American,3.86,168.0,columbia university,=27,Columbia University,United States of America,27.0
 University of Chicago,Computer Science Masters,Accepted,Fall 2025,American,3.86,168.0,university of chicago,50,University of Chicago,United States of America,50.0
-Carnegie Mellon University,Computer Science Masters,Accepted,Fall 2025,International,3.86,329.0,carnegie mellon university,3,Carnegie Mellon University,United States of America,3.0
-Columbia University,Computer Science Masters,Accepted,Fall 2025,International,3.63,322.0,columbia university,=27,Columbia University,United States of America,27.0
-Columbia University,Computer Science Masters,Accepted,Fall 2025,American,3.55,324.0,columbia university,=27,Columbia University,United States of America,27.0
-Carnegie Mellon,Computer Science Masters,Accepted,Fall 2025,American,3.98,309.0,carnegie mellon university,3,Carnegie Mellon University,United States of America,3.0
-Carnegie Mellon,Computer Science Masters,Accepted,Fall 2025,International,3.84,330.0,carnegie mellon university,3,Carnegie Mellon University,United States of America,3.0
-Arizona State University,Computer Science Masters,Accepted,Fall 2025,International,3.39,315.0,arizona state university,=134,Arizona State University,United States of America,134.0
 North Carolina State University,Computer Science Masters,Accepted,Fall 2025,International,3.7,170.0,north carolina state university,201-250,North Carolina State University,United States of America,225.5
 Northeastern University,Computer Science Masters,Accepted,Fall 2025,International,3.97,169.0,northeastern university,=197,Northeastern University,United States of America,197.0
-Politecnico di Milano,Computer Science Masters,Accepted,Fall 2025,International,3.86,323.0,politecnico di milano,=53,Politecnico di Milano,Italy,53.0
-University of Southern California,Computer Science Masters,Accepted,Fall 2025,American,3.6,336.0,university of southern california,49,University of Southern California,United States of America,49.0
-University of Central Florida,Computer Science Masters,Accepted,Fall 2025,International,2.8,328.0,university of central florida,301-350,University of Central Florida,United States of America,325.5
 University of Central Florida,Computer Science Masters,Accepted,Fall 2025,International,3.7,161.0,university of central florida,301-350,University of Central Florida,United States of America,325.5
-Arizona State University,Computer Science Masters,Accepted,Fall 2025,International,3.0,330.0,arizona state university,=134,Arizona State University,United States of America,134.0
 Arizona State University,Computer Science Masters,Accepted,Fall 2025,International,3.39,158.0,arizona state university,=134,Arizona State University,United States of America,134.0
 Arizona State University,Computer Science Masters,Accepted,Fall 2025,International,3.5,162.0,arizona state university,=134,Arizona State University,United States of America,134.0
-Arizona State University,Computer Science Masters,Accepted,Fall 2025,International,3.22,320.0,arizona state university,=134,Arizona State University,United States of America,134.0
 Arizona State University,Computer Science Masters,Accepted,Fall 2025,International,3.4,161.0,arizona state university,=134,Arizona State University,United States of America,134.0
 University of Texas at Austin,Computer Science Masters,Accepted,Fall 2025,American,2.1,150.0,university of texas at austin,=41,University of Texas at Austin,United States of America,41.0
 University of Pennsylvania,Computer Science Masters,Accepted,Fall 2025,International,4.0,168.0,university of pennsylvania,=41,University of Pennsylvania,United States of America,41.0
-Northeastern University,Computer Science Masters,Accepted,Fall 2025,International,3.29,318.0,northeastern university,=197,Northeastern University,United States of America,197.0
-Northeastern University,Computer Science Masters,Accepted,Fall 2025,International,3.75,310.0,northeastern university,=197,Northeastern University,United States of America,197.0
-Northeastern University,Computer Science Masters,Accepted,Fall 2025,International,3.75,310.0,northeastern university,=197,Northeastern University,United States of America,197.0
 University of Pennsylvania,Computer Science Masters,Accepted,Fall 2025,American,3.86,168.0,university of pennsylvania,=41,University of Pennsylvania,United States of America,41.0
-Northeastern University,Computer Science Masters,Accepted,Fall 2025,International,3.6,321.0,northeastern university,=197,Northeastern University,United States of America,197.0
-Arizona State University,Computer Science Masters,Accepted,Fall 2025,International,3.72,318.0,arizona state university,=134,Arizona State University,United States of America,134.0
-Northeastern University,Computer Science Masters,Accepted,Fall 2025,International,3.72,318.0,northeastern university,=197,Northeastern University,United States of America,197.0
 SUNY Stony Brook,Computer Science Masters,Accepted,Fall 2024,International,3.7,164.0,stony brook university state university of new york,351-400,Stony Brook University. State University of New York,United States of America,375.5
-Arizona State University,Computer Science Masters,Accepted,Fall 2025,International,3.6,322.0,arizona state university,=134,Arizona State University,United States of America,134.0
 Texas Tech University,Computer Science Masters,Accepted,Fall 2025,International,2.75,163.0,texas tech university,601-650,Texas Tech University,United States of America,625.5
 Princeton University,Computer Science Masters,Accepted,Fall 2025,International,3.75,160.0,princeton university,13,Princeton University,United States of America,13.0
 North Carolina State University,Computer Science Masters,Accepted,Fall 2025,International,4.0,165.0,north carolina state university,201-250,North Carolina State University,United States of America,225.5
@@ -381,7 +325,6 @@ Georgia Institute Of Technology,Computer Science Masters,Accepted,Fall 2024,Inte
 Georgia Institute Of Technology,Computer Science Masters,Accepted,Fall 2024,International,3.86,170.0,georgia institute of technology,40,Georgia Institute of Technology,United States of America,40.0
 Georgia Institute Of Technology,Computer Science Masters,Accepted,Fall 2024,American,4.0,168.0,georgia institute of technology,40,Georgia Institute of Technology,United States of America,40.0
 Northeastern University,Computer Science Masters,Accepted,Fall 2024,International,3.5,163.0,northeastern university,=197,Northeastern University,United States of America,197.0
-University of California (UCSB),Computer Science Masters,Accepted,Fall 2024,International,3.73,331.0,university of california santa barbara ucsb,201-250,University of California. Santa Barbara (UCSB),United States of America,225.5
 Purdue University,Computer Science Masters,Accepted,Fall 2024,International,3.34,165.0,purdue university,73,Purdue University,United States of America,73.0
 University Of Virginia,Computer Science Masters,Accepted,Fall 2024,International,3.3,170.0,university of virginia,201-250,University of Virginia,United States of America,225.5
 Duke University,Computer Science Masters,Accepted,Fall 2024,American,3.5,170.0,duke university,72,Duke University,United States of America,72.0
@@ -436,14 +379,12 @@ ETH Zurich,Computer Science Masters,Accepted,Fall 2024,International,3.84,170.0,
 Texas A&M University,Computer Science Masters,Accepted,Fall 2024,American,4.0,168.0,texas am university,=146,Texas A&M University,United States of America,146.0
 University of Southern California,Computer Science Masters,Accepted,Fall 2024,International,3.7,170.0,university of southern california,49,University of Southern California,United States of America,49.0
 Purdue University,Computer Science Masters,Accepted,Fall 2024,International,3.7,170.0,purdue university,73,Purdue University,United States of America,73.0
-Rice University,Computer Science Masters,Accepted,Fall 2024,International,3.84,180.0,rice university,201-250,Rice University,United States of America,225.5
 University of Massachusetts Amherst,Computer Science Masters,Accepted,Fall 2024,International,3.5,168.0,university of massachusetts amherst,=127,University of Massachusetts Amherst,United States of America,127.0
 Columbia University,Computer Science Masters,Accepted,Fall 2024,International,3.88,170.0,columbia university,=27,Columbia University,United States of America,27.0
 Carnegie Mellon University,Computer Science Masters,Accepted,Fall 2024,International,3.93,170.0,carnegie mellon university,3,Carnegie Mellon University,United States of America,3.0
 Columbia University,Computer Science Masters,Accepted,Fall 2024,International,4.0,169.0,columbia university,=27,Columbia University,United States of America,27.0
 Carnegie Mellon University,Computer Science Masters,Accepted,Fall 2024,International,3.63,170.0,carnegie mellon university,3,Carnegie Mellon University,United States of America,3.0
 Carnegie Mellon University,Computer Science Masters,Accepted,Fall 2024,American,4.0,168.0,carnegie mellon university,3,Carnegie Mellon University,United States of America,3.0
-Northwestern University,Computer Science Masters,Accepted,Fall 2024,International,3.84,180.0,northwestern university,118,Northwestern University,United States of America,118.0
 University of Central Florida,Computer Science Masters,Accepted,Fall 2024,American,3.13,161.0,university of central florida,301-350,University of Central Florida,United States of America,325.5
 Arizona State University,Computer Science Masters,Accepted,Fall 2024,International,3.99,166.0,arizona state university,=134,Arizona State University,United States of America,134.0
 University of Colorado Boulder,Computer Science Masters,Accepted,Fall 2024,International,3.83,165.0,university of colorado boulder,351-400,University of Colorado Boulder,United States of America,375.5
@@ -474,13 +415,10 @@ University of Southern California,Computer Science Masters,Accepted,Fall 2023,In
 Northwestern University,Computer Science Masters,Accepted,Fall 2023,International,3.88,170.0,northwestern university,118,Northwestern University,United States of America,118.0
 Northeastern University,Computer Science Masters,Accepted,Fall 2023,International,3.82,165.0,northeastern university,=197,Northeastern University,United States of America,197.0
 University of Southern California,Computer Science Masters,Accepted,Fall 2023,American,3.67,169.0,university of southern california,49,University of Southern California,United States of America,49.0
-University of Southern California,Computer Science Masters,Accepted,Fall 2023,International,3.8,331.0,university of southern california,49,University of Southern California,United States of America,49.0
-University of Chicago,Computer Science Masters,Accepted,Fall 2023,International,3.8,331.0,university of chicago,50,University of Chicago,United States of America,50.0
 University of Chicago,Computer Science Masters,Accepted,Fall 2023,International,3.5,168.0,university of chicago,50,University of Chicago,United States of America,50.0
 Vanderbilt University,Computer Science Masters,Accepted,Fall 2023,American,3.66,162.0,vanderbilt university,301-350,Vanderbilt University,United States of America,325.5
 University of Chicago,Computer Science Masters,Accepted,Fall 2023,American,3.87,170.0,university of chicago,50,University of Chicago,United States of America,50.0
 University of Southern California,Computer Science Masters,Accepted,Fall 2023,International,3.8,165.0,university of southern california,49,University of Southern California,United States of America,49.0
-University of Southern California,Computer Science Masters,Accepted,Fall 2023,International,3.6,360.0,university of southern california,49,University of Southern California,United States of America,49.0
 University of Southern California,Computer Science Masters,Accepted,Fall 2023,American,3.85,160.0,university of southern california,49,University of Southern California,United States of America,49.0
 University of Southern California,Computer Science Masters,Accepted,Fall 2023,International,3.7,155.0,university of southern california,49,University of Southern California,United States of America,49.0
 University of Southern California,Computer Science Masters,Accepted,Fall 2023,International,3.65,158.0,university of southern california,49,University of Southern California,United States of America,49.0
@@ -510,7 +448,6 @@ Arizona State University,Computer Science Masters,Accepted,Fall 2023,Internation
 University of Wisconsin,Computer Science Masters,Accepted,Fall 2023,American,3.99,168.0,university of wisconsin,=110,University of Wisconsin-Madison,United States of America,110.0
 University of Wisconsin,Computer Science Masters,Accepted,Fall 2023,International,3.9,170.0,university of wisconsin,=110,University of Wisconsin-Madison,United States of America,110.0
 University Of Waterloo,Computer Science Masters,Accepted,Fall 2023,International,4.0,169.0,university of waterloo,33,University of Waterloo,Canada,33.0
-University Of Waterloo,Computer Science Masters,Accepted,Fall 2023,International,4.0,331.0,university of waterloo,33,University of Waterloo,Canada,33.0
 Massachusetts Institute of Technology (MIT),Computer Science Masters,Accepted,Fall 2023,International,4.0,169.0,massachusetts institute of technology mit,1,Massachusetts Institute of Technology (MIT),United States of America,1.0
 New York University Tandon,Computer Science Masters,Accepted,Fall 2023,International,3.6,163.0,new york university nyu,17,New York University (NYU),United States of America,17.0
 Carnegie Mellon University,Computer Science Masters,Accepted,Fall 2023,International,3.2,165.0,carnegie mellon university,3,Carnegie Mellon University,United States of America,3.0
@@ -523,7 +460,6 @@ Arizona State University,Computer Science Masters,Accepted,Fall 2023,Internation
 University of Southern California,Computer Science Masters,Accepted,Fall 2023,International,3.98,170.0,university of southern california,49,University of Southern California,United States of America,49.0
 North Carolina State University,Computer Science Masters,Accepted,Fall 2023,International,3.9,167.0,north carolina state university,201-250,North Carolina State University,United States of America,225.5
 Arizona State University,Computer Science Masters,Accepted,Fall 2023,International,3.58,167.0,arizona state university,=134,Arizona State University,United States of America,134.0
-"University of California, Irvine",Computer Science Masters,Accepted,Fall 2023,International,3.66,324.0,university of california irvine,=122,University of California. Irvine,United States of America,122.0
 "University of California, Irvine",Computer Science Masters,Accepted,Fall 2023,International,3.83,169.0,university of california irvine,=122,University of California. Irvine,United States of America,122.0
 "University of California, Irvine",Computer Science Masters,Accepted,Fall 2023,International,3.84,170.0,university of california irvine,=122,University of California. Irvine,United States of America,122.0
 National Chung Cheng University,Computer Science Masters,Accepted,Fall 2023,International,3.84,170.0,national chung cheng university,751-850,National Chung Cheng University,Taiwan,800.5
@@ -644,7 +580,6 @@ SUNY Stony Brook,Computer Science Masters,Accepted,Fall 2022,International,3.45,
 University of Massachusetts Amherst,Computer Science Masters,Accepted,Fall 2022,International,3.66,166.0,university of massachusetts amherst,=127,University of Massachusetts Amherst,United States of America,127.0
 "University of California, Irvine",Computer Science Masters,Accepted,Fall 2022,International,3.78,167.0,university of california irvine,=122,University of California. Irvine,United States of America,122.0
 Carnegie Mellon University,Computer Science Masters,Accepted,Fall 2022,International,3.78,167.0,carnegie mellon university,3,Carnegie Mellon University,United States of America,3.0
-Syracuse University,Computer Science Masters,Accepted,Fall 2022,International,3.75,305.0,syracuse university,501-550,Syracuse University,United States of America,525.5
 SUNY Stony Brook,Computer Science Masters,Accepted,Fall 2022,International,3.32,169.0,stony brook university state university of new york,351-400,Stony Brook University. State University of New York,United States of America,375.5
 SUNY Stony Brook,Computer Science Masters,Accepted,Fall 2022,International,3.63,170.0,stony brook university state university of new york,351-400,Stony Brook University. State University of New York,United States of America,375.5
 Texas A&M University,Computer Science Masters,Accepted,Fall 2022,International,3.3,165.0,texas am university,=146,Texas A&M University,United States of America,146.0
@@ -689,7 +624,6 @@ ETH Zurich,Computer Science Masters,Accepted,Fall 2022,International,3.95,169.0,
 ETH Zurich,Computer Science Masters,Accepted,Fall 2022,International,4.0,169.0,eth zurich,10,ETH Zurich - Swiss Federal Institute of Technology,Switzerland,10.0
 ETH Zurich,Computer Science Masters,Accepted,Fall 2022,International,3.99,170.0,eth zurich,10,ETH Zurich - Swiss Federal Institute of Technology,Switzerland,10.0
 Carnegie Mellon University,Computer Science Masters,Accepted,Fall 2022,International,3.67,170.0,carnegie mellon university,3,Carnegie Mellon University,United States of America,3.0
-"University of California, Irvine",Computer Science Masters,Accepted,Fall 2022,International,3.8,326.0,university of california irvine,=122,University of California. Irvine,United States of America,122.0
 Penn State University,Computer Science Masters,Accepted,Fall 2021,International,3.81,166.0,pennsylvania state university,=102,Pennsylvania State University,United States of America,102.0
 Penn State University,Computer Science Masters,Accepted,Fall 2022,International,3.74,166.0,pennsylvania state university,=102,Pennsylvania State University,United States of America,102.0
 "University of California, Irvine",Computer Science Masters,Accepted,Fall 2022,American,3.9,167.0,university of california irvine,=122,University of California. Irvine,United States of America,122.0
@@ -731,7 +665,6 @@ University of Massachusetts Amherst,Computer Science Masters,Accepted,Fall 2022,
 North Carolina State University,Computer Science Masters,Accepted,Fall 2022,International,3.86,170.0,north carolina state university,201-250,North Carolina State University,United States of America,225.5
 North Carolina State University,Computer Science Masters,Accepted,Fall 2022,International,3.95,167.0,north carolina state university,201-250,North Carolina State University,United States of America,225.5
 University of Southern California,Computer Science Masters,Accepted,Fall 2022,International,4.0,169.0,university of southern california,49,University of Southern California,United States of America,49.0
-North Carolina State University,Computer Science Masters,Accepted,Fall 2022,International,3.8,319.0,north carolina state university,201-250,North Carolina State University,United States of America,225.5
 North Carolina State University,Computer Science Masters,Accepted,Fall 2022,International,3.94,170.0,north carolina state university,201-250,North Carolina State University,United States of America,225.5
 Syracuse University,Computer Science Masters,Accepted,Fall 2022,International,3.74,166.0,syracuse university,501-550,Syracuse University,United States of America,525.5
 University Of Alberta,Computer Science Masters,Accepted,Fall 2022,International,3.76,158.0,university of alberta,=105,University of Alberta,Canada,105.0
@@ -770,7 +703,6 @@ University of Wisconsin,Computer Science Masters,Accepted,Fall 2022,American,3.5
 University of Wisconsin,Computer Science Masters,Accepted,Fall 2022,International,3.75,164.0,university of wisconsin,=110,University of Wisconsin-Madison,United States of America,110.0
 University of Pennsylvania,Computer Science Masters,Accepted,Fall 2022,International,3.36,170.0,university of pennsylvania,=41,University of Pennsylvania,United States of America,41.0
 Arizona State University,Computer Science Masters,Accepted,Fall 2022,International,3.6,167.0,arizona state university,=134,Arizona State University,United States of America,134.0
-Arizona State University,Computer Science Masters,Accepted,Fall 2022,International,3.8,319.0,arizona state university,=134,Arizona State University,United States of America,134.0
 University of Southern California,Computer Science Masters,Accepted,Fall 2022,International,3.8,170.0,university of southern california,49,University of Southern California,United States of America,49.0
 Carnegie Mellon University,Computer Science Masters,Accepted,Fall 2022,International,3.9,170.0,carnegie mellon university,3,Carnegie Mellon University,United States of America,3.0
 Arizona State University,Computer Science Masters,Accepted,Fall 2022,International,3.6,167.0,arizona state university,=134,Arizona State University,United States of America,134.0
@@ -823,7 +755,6 @@ University of Pennsylvania,Computer Science Masters,Accepted,Fall 2022,Internati
 Arizona State University,Computer Science MS Masters,Accepted,Fall 2022,International,3.5,165.0,arizona state university,=134,Arizona State University,United States of America,134.0
 Arizona State University,Computer Science Masters,Accepted,Fall 2022,International,3.7,166.0,arizona state university,=134,Arizona State University,United States of America,134.0
 Arizona State University,Computer Science Masters,Accepted,Fall 2022,International,3.72,170.0,arizona state university,=134,Arizona State University,United States of America,134.0
-North Carolina State University,Computer Science Masters,Accepted,Fall 2022,International,3.6,329.0,north carolina state university,201-250,North Carolina State University,United States of America,225.5
 Northwestern University,Computer Science Masters,Accepted,Fall 2022,International,3.78,167.0,northwestern university,118,Northwestern University,United States of America,118.0
 University of Pennsylvania,Computer Science Masters,Accepted,Fall 2022,International,3.73,167.0,university of pennsylvania,=41,University of Pennsylvania,United States of America,41.0
 University of Pennsylvania,Computer Science Masters,Accepted,Fall 2022,International,3.99,170.0,university of pennsylvania,=41,University of Pennsylvania,United States of America,41.0
@@ -1037,22 +968,16 @@ Carnegie Mellon University,Computer Science MSAII Masters,Accepted,Fall 2021,Int
 University of Southern California,Computer Science Masters,Accepted,Fall 2021,American,3.5,162.0,university of southern california,49,University of Southern California,United States of America,49.0
 Carnegie Mellon University,"Computer Science, MSAII Masters",Accepted,Fall 2021,American,3.85,165.0,carnegie mellon university,3,Carnegie Mellon University,United States of America,3.0
 Carnegie Mellon University,Computer Science Masters,Accepted,Fall 2021,International,4.0,170.0,carnegie mellon university,3,Carnegie Mellon University,United States of America,3.0
-Rice University,Computer Science Masters,Accepted,Fall 2021,International,3.71,329.0,rice university,201-250,Rice University,United States of America,225.5
-Rice University,Computer Science Masters,Accepted,Fall 2021,International,3.71,329.0,rice university,201-250,Rice University,United States of America,225.5
 Carnegie Mellon University,Computer Science MSAII Masters,Accepted,Fall 2021,American,3.96,170.0,carnegie mellon university,3,Carnegie Mellon University,United States of America,3.0
 University Of Alberta,Computer Science Masters,Accepted,Fall 2021,International,3.53,170.0,university of alberta,=105,University of Alberta,Canada,105.0
 Carnegie Mellon University,"Computer Science, MSAII Masters",Accepted,Fall 2021,International,3.9,165.0,carnegie mellon university,3,Carnegie Mellon University,United States of America,3.0
-Emory University,Computer Science Masters,Accepted,Fall 2021,International,3.71,329.0,emory university,401-450,Emory University,United States of America,425.5
-University of Southern California,Computer Science Masters,Accepted,Fall 2021,International,3.71,329.0,university of southern california,49,University of Southern California,United States of America,49.0
 Northeastern University,Computer Science Masters,Accepted,Fall 2021,International,3.49,170.0,northeastern university,=197,Northeastern University,United States of America,197.0
 University of Southern California,Computer Science (Data Science) Masters,Accepted,Fall 2021,International,3.98,168.0,university of southern california,49,University of Southern California,United States of America,49.0
 University Of Southern California (USC),Computer Science Masters,Accepted,Fall 2021,International,3.83,167.0,university of southern california,49,University of Southern California,United States of America,49.0
-University of Southern California,Computer Science Masters,Accepted,Fall 2021,International,3.71,329.0,university of southern california,49,University of Southern California,United States of America,49.0
 "University Of California, Los Angeles",Computer Science Masters,Accepted,Fall 2021,International,3.79,170.0,university of california ucla,16,University of California. Los Angeles (UCLA),United States of America,16.0
 University of Southern California,Computer Science Masters,Accepted,Fall 2021,International,3.9,170.0,university of southern california,49,University of Southern California,United States of America,49.0
 University of Southern California,Computer Science Masters,Accepted,Fall 2021,International,3.7,167.0,university of southern california,49,University of Southern California,United States of America,49.0
 Carnegie Mellon University,Computer Science Masters,Accepted,Fall 2021,International,3.71,170.0,carnegie mellon university,3,Carnegie Mellon University,United States of America,3.0
-Emory University,Computer Science Masters,Accepted,Fall 2021,International,3.71,329.0,emory university,401-450,Emory University,United States of America,425.5
 University of Southern California,Computer Science Masters,Accepted,Fall 2021,International,3.92,161.0,university of southern california,49,University of Southern California,United States of America,49.0
 Rice University,Computer Science Masters,Accepted,Fall 2021,International,3.26,165.0,rice university,201-250,Rice University,United States of America,225.5
 University of Southern California,Computer Science Masters,Accepted,Fall 2021,International,3.7,160.0,university of southern california,49,University of Southern California,United States of America,49.0
@@ -1355,7 +1280,6 @@ Georgia Institute of Technology,Computer Science Masters,Accepted,F14,Internatio
 University of Southern California,Computer Science Masters,Accepted,F14,International,3.6,145.0,university of southern california,49,University of Southern California,United States of America,49.0
 New York University (NYU),Computer Science Masters,Accepted,F14,International,3.5,156.0,new york university nyu,17,New York University (NYU),United States of America,17.0
 New York University (NYU),Computer Science Masters,Accepted,F14,International,3.91,166.0,new york university nyu,17,New York University (NYU),United States of America,17.0
-USC,Computer Science - Intelligent Robotics Masters,Accepted,F14,International,3.6,800.0,university of southern california,49,University of Southern California,United States of America,49.0
 Northeastern University,Computer Science Masters,Accepted,F14,American,3.5,170.0,northeastern university,=197,Northeastern University,United States of America,197.0
 University of Kentucky,Computer Science Masters,Accepted,F14,International,3.47,158.0,university of kentucky,551-600,University of Kentucky,United States of America,575.5
 University Of Minnesota- Twin Cities,Computer Science Masters,Accepted,F14,International,3.76,167.0,university of minnesota twin cities,201-250,University of Minnesota Twin Cities,United States of America,225.5
@@ -1428,12 +1352,10 @@ Stanford University,Computer Science Masters,Accepted,F14,American,3.94,170.0,st
 Stanford University,Computer Science Masters,Accepted,F14,American,3.75,169.0,stanford university,2,Stanford University,United States of America,2.0
 Columbia University,Computer Science Masters,Accepted,F14,International,3.72,168.0,columbia university,=27,Columbia University,United States of America,27.0
 Georgia Institute of Technology,Computer Science Masters,Accepted,F14,American,3.6,163.0,georgia institute of technology,40,Georgia Institute of Technology,United States of America,40.0
-University of Colorado Boulder,Computer Science Masters,Accepted,F14,International,3.8,750.0,university of colorado boulder,351-400,University of Colorado Boulder,United States of America,375.5
 Columbia University,Computer Science Masters,Accepted,F14,International,3.9,166.0,columbia university,=27,Columbia University,United States of America,27.0
 University Of Calgary,Computer Science Masters,Accepted,F14,International,3.5,169.0,university of calgary,201-250,University of Calgary,Canada,225.5
 University of Colorado Boulder,Computer Science Masters,Accepted,F14,International,3.89,157.0,university of colorado boulder,351-400,University of Colorado Boulder,United States of America,375.5
 University of Southern California,Computer Science Masters,Accepted,F14,International,3.8,164.0,university of southern california,49,University of Southern California,United States of America,49.0
-University of Wisconsin,Computer Science Masters,Accepted,F14,American,3.5,800.0,university of wisconsin,=110,University of Wisconsin-Madison,United States of America,110.0
 University of Central Florida,Computer Science Masters,Accepted,F14,International,3.02,168.0,university of central florida,301-350,University of Central Florida,United States of America,325.5
 University of Southern California,Computer Science Masters,Accepted,F14,International,3.76,167.0,university of southern california,49,University of Southern California,United States of America,49.0
 Georgia Institute Of Technology,Computer Science Masters,Accepted,F14,International,3.7,158.0,georgia institute of technology,40,Georgia Institute of Technology,United States of America,40.0
@@ -1454,7 +1376,6 @@ North Carolina State University,Computer Science Masters,Accepted,F14,Internatio
 Georgia Institute of Technology,Computer Science Masters,Accepted,F14,American,3.72,163.0,georgia institute of technology,40,Georgia Institute of Technology,United States of America,40.0
 University of Southern California,Computer Science Masters,Accepted,F14,International,3.6,163.0,university of southern california,49,University of Southern California,United States of America,49.0
 North Carolina State University,Computer Science Masters,Accepted,F14,International,3.3,168.0,north carolina state university,201-250,North Carolina State University,United States of America,225.5
-University of Southern California,Computer Science Masters,Accepted,F14,International,3.67,800.0,university of southern california,49,University of Southern California,United States of America,49.0
 George Washington University,Computer Science Masters,Accepted,F14,American,3.71,163.0,george washington university,301-350,George Washington University,United States of America,325.5
 University Of Alberta,Computer Science Masters,Accepted,F14,International,3.5,159.0,university of alberta,=105,University of Alberta,Canada,105.0
 University of Oregon,Computer Science Masters,Accepted,F14,International,3.8,163.0,university of oregon,651-700,University of Oregon,United States of America,675.5
@@ -1479,7 +1400,6 @@ University of Wisconsin,Computer Science Masters,Accepted,F14,International,3.8,
 North Carolina State University,Computer Science - Computer Networks Masters,Accepted,F14,International,3.33,165.0,north carolina state university,201-250,North Carolina State University,United States of America,225.5
 University Of Bristol,Computer Science (Conversion) Masters,Accepted,F14,American,3.55,158.0,university of bristol,=134,University of Bristol,United Kingdom,134.0
 North Carolina State University,Computer Science - Computer Networking Masters,Accepted,F14,International,3.96,167.0,north carolina state university,201-250,North Carolina State University,United States of America,225.5
-Cornell College,Computer Science Masters,Accepted,F14,American,3.7,780.0,cornell university,18,Cornell University,United States of America,18.0
 Cornell College,Computer Science Masters,Accepted,F14,American,3.88,163.0,cornell university,18,Cornell University,United States of America,18.0
 University of Pennsylvania,Computer Science Masters,Accepted,F14,International,3.7,166.0,university of pennsylvania,=41,University of Pennsylvania,United States of America,41.0
 Worcester Polytechnic Institute,Computer Science Masters,Accepted,F14,International,3.2,164.0,worcester polytechnic institute,751-850,Worcester Polytechnic Institute,United States of America,800.5
@@ -1536,7 +1456,6 @@ Michigan State University,Computer Science Masters,Accepted,F13,International,3.
 University Of Waterloo,Computer Science Masters,Accepted,F13,International,3.48,165.0,university of waterloo,33,University of Waterloo,Canada,33.0
 University Of Southern California (USC),Computer Science (Intelligent Robotics) Masters,Accepted,F13,International,3.86,169.0,university of southern california,49,University of Southern California,United States of America,49.0
 University Of Waterloo,Computer Science Masters,Accepted,F13,International,3.0,169.0,university of waterloo,33,University of Waterloo,Canada,33.0
-Stanford University,Computer Science Masters,Accepted,F13,International,3.89,800.0,stanford university,2,Stanford University,United States of America,2.0
 Brown University,Computer Science Masters,Accepted,F13,American,3.4,170.0,brown university,=107,Brown University,United States of America,107.0
 University Of Waterloo,Computer Science Masters,Accepted,F13,International,3.67,169.0,university of waterloo,33,University of Waterloo,Canada,33.0
 University of Florida,Computer Science Masters,Accepted,F13,International,3.08,170.0,university of florida,=161,University of Florida,United States of America,161.0
@@ -1544,19 +1463,12 @@ University of Florida,Computer Science Masters,Accepted,F13,International,3.66,1
 Georgia State University,Computer Science Masters,Accepted,F13,International,3.5,154.0,georgia state university,351-400,Georgia State University,United States of America,375.5
 Wayne State University,Computer Science Masters,Accepted,F13,International,3.5,154.0,wayne state university,751-850,Wayne State University,United States of America,800.5
 Purdue University,Computer Science Masters,Accepted,F13,International,3.5,170.0,purdue university,73,Purdue University,United States of America,73.0
-Columbia University,Computer Science Masters,Accepted,F13,International,3.5,680.0,columbia university,=27,Columbia University,United States of America,27.0
-University Of Pennsylvania (UPenn),Computer Science Masters,Accepted,F13,American,3.65,800.0,university of pennsylvania,=41,University of Pennsylvania,United States of America,41.0
 SUNY Stony Brook,Computer Science Masters,Accepted,F13,American,3.5,170.0,stony brook university state university of new york,351-400,Stony Brook University. State University of New York,United States of America,375.5
-University of Michigan,Computer Science Masters,Accepted,F13,American,3.65,800.0,michigan state university,=136,Michigan State University,United States of America,136.0
 University of Southern California,Computer Science Masters,Accepted,F13,International,3.7,162.0,university of southern california,49,University of Southern California,United States of America,49.0
 SUNY Stony Brook,Computer Science Masters,Accepted,F13,International,3.35,166.0,stony brook university state university of new york,351-400,Stony Brook University. State University of New York,United States of America,375.5
 University of Michigan,Computer Science Masters,Accepted,F13,International,3.6,167.0,michigan state university,=136,Michigan State University,United States of America,136.0
 University of Rochester,Computer Science Masters,Accepted,F13,International,3.44,170.0,university of rochester,301-350,University of Rochester,United States of America,325.5
-University of Florida,Computer Science (CISE) Masters,Accepted,F13,International,3.73,800.0,university of florida,=161,University of Florida,United States of America,161.0
-SUNY Stony Brook,Computer Science Masters,Accepted,F13,International,3.73,800.0,stony brook university state university of new york,351-400,Stony Brook University. State University of New York,United States of America,375.5
-University of California (UCSC),Computer Science Masters,Accepted,F13,International,3.0,800.0,university of california santa cruz,501-550,University of California. Santa Cruz,United States of America,525.5
 SUNY Stony Brook,Computer Science Masters,Accepted,F13,International,2.9,166.0,stony brook university state university of new york,351-400,Stony Brook University. State University of New York,United States of America,375.5
-UT Dallas,Computer Science Masters,Accepted,F13,American,3.76,600.0,university of texas dallas,251-300,University of Texas Dallas,United States of America,275.5
 University Of British Columbia,Computer Science Masters,Accepted,F13,American,3.35,163.0,university of british columbia,=31,University of British Columbia,Canada,31.0
 SUNY Stony Brook,Computer Science Masters,Accepted,F13,International,3.08,170.0,stony brook university state university of new york,351-400,Stony Brook University. State University of New York,United States of America,375.5
 Boston University,Computer Science Masters,Accepted,F13,International,3.72,162.0,boston university,=107,Boston University,United States of America,107.0
@@ -1599,14 +1511,12 @@ University of Colorado Boulder,Computer Science Masters,Accepted,F13,American,3.
 Cornell College,Computer Science Masters,Accepted,F13,International,3.0,164.0,cornell university,18,Cornell University,United States of America,18.0
 Stanford University,Computer Science Masters,Accepted,F13,International,4.0,166.0,stanford university,2,Stanford University,United States of America,2.0
 Stanford University,Computer Science Masters,Accepted,F13,International,3.6,163.0,stanford university,2,Stanford University,United States of America,2.0
-Stanford University,Computer Science Masters,Accepted,F13,American,3.75,800.0,stanford university,2,Stanford University,United States of America,2.0
 Stanford University,Computer Science Masters,Accepted,F13,International,3.91,169.0,stanford university,2,Stanford University,United States of America,2.0
 Stanford University,Computer Science Masters,Accepted,F13,American,3.8,92.0,stanford university,2,Stanford University,United States of America,2.0
 Stanford University,Computer Science Masters,Accepted,F13,American,3.81,170.0,stanford university,2,Stanford University,United States of America,2.0
 Stanford University,Computer Science Masters,Accepted,F13,International,3.76,170.0,stanford university,2,Stanford University,United States of America,2.0
 Stanford University,Computer Science Masters,Accepted,F13,International,3.76,150.0,stanford university,2,Stanford University,United States of America,2.0
 Stanford University,Computer Science Masters,Accepted,F13,American,3.85,162.0,stanford university,2,Stanford University,United States of America,2.0
-Stanford University,Computer Science Masters,Accepted,F13,International,3.68,570.0,stanford university,2,Stanford University,United States of America,2.0
 "University of California, Irvine",Computer Science Masters,Accepted,F13,International,3.47,161.0,university of california irvine,=122,University of California. Irvine,United States of America,122.0
 Stanford University,Computer Science Masters,Accepted,F13,American,3.98,170.0,stanford university,2,Stanford University,United States of America,2.0
 University Of Utah,Computer Science Masters,Accepted,F13,International,3.82,164.0,university of utah,301-350,University of Utah,United States of America,325.5
@@ -1614,7 +1524,6 @@ ETH Zurich,Computer Science Masters,Accepted,F13,International,3.57,163.0,eth zu
 Arizona State University,Computer Science Masters,Accepted,F13,International,3.23,160.0,arizona state university,=134,Arizona State University,United States of America,134.0
 Carnegie Mellon University,Computer Science Masters,Accepted,S13,International,3.7,170.0,carnegie mellon university,3,Carnegie Mellon University,United States of America,3.0
 University of Kentucky,Computer Science Masters,Accepted,F13,International,3.54,165.0,university of kentucky,551-600,University of Kentucky,United States of America,575.5
-"University Of California, San Diego (UCSD)",Computer Science Masters,Accepted,F13,International,3.6,790.0,university of california san diego ucsd,=37,University of California. San Diego (UCSD),United States of America,37.0
 George Mason University,Computer Science Masters,Accepted,F13,International,3.67,162.0,george mason university,501-550,George Mason University,United States of America,525.5
 University of California (UCSB),Computer Science Masters,Accepted,F13,American,3.85,162.0,university of california santa barbara ucsb,201-250,University of California. Santa Barbara (UCSB),United States of America,225.5
 University of California (UCSB),Computer Science Masters,Accepted,F13,International,3.84,165.0,university of california santa barbara ucsb,201-250,University of California. Santa Barbara (UCSB),United States of America,225.5
@@ -1623,18 +1532,15 @@ University of California (UCSB),Computer Science Masters,Accepted,F13,American,3
 Carnegie Mellon University,Computer Science Masters,Accepted,F13,International,3.72,165.0,carnegie mellon university,3,Carnegie Mellon University,United States of America,3.0
 University of California (UCLA),Computer Science Masters,Accepted,F13,American,3.65,168.0,university of california ucla,16,University of California. Los Angeles (UCLA),United States of America,16.0
 Cornell University,Computer Science Masters,Accepted,F13,International,3.4,167.0,cornell university,18,Cornell University,United States of America,18.0
-Cornell College,Computer Science Masters,Accepted,F13,International,3.92,680.0,cornell university,18,Cornell University,United States of America,18.0
 Cornell College,Computer Science Masters,Accepted,F13,American,3.67,166.0,cornell university,18,Cornell University,United States of America,18.0
 Simon Fraser University,Computer Science Masters,Accepted,F13,International,3.24,169.0,simon fraser university,201-250,Simon Fraser University,Canada,225.5
 University of California (UCLA),Computer Science Masters,Accepted,F13,American,3.85,162.0,university of california ucla,16,University of California. Los Angeles (UCLA),United States of America,16.0
 USC,Computer Science Masters,Accepted,F13,American,3.98,165.0,university of southern california,49,University of Southern California,United States of America,49.0
 University Of Massachusetts Amherst,Computer Science Masters,Accepted,F13,American,3.98,165.0,university of massachusetts amherst,=127,University of Massachusetts Amherst,United States of America,127.0
 Purdue University,Computer Science Masters,Accepted,F13,American,3.98,165.0,purdue university,73,Purdue University,United States of America,73.0
-Carnegie Mellon,Computer Science Learning Science And Engineer Masters,Accepted,F13,American,3.52,780.0,carnegie mellon university,3,Carnegie Mellon University,United States of America,3.0
 Cornell University,Computer Science Masters,Accepted,F13,American,4.0,168.0,cornell university,18,Cornell University,United States of America,18.0
 Carnegie Mellon University,"Computer Science, Masters In Robotics Masters",Accepted,F13,International,4.0,167.0,carnegie mellon university,3,Carnegie Mellon University,United States of America,3.0
 University of California (UCLA),Computer Science Masters,Accepted,F13,American,4.0,168.0,university of california ucla,16,University of California. Los Angeles (UCLA),United States of America,16.0
-University of Southern California,Computer Science Masters,Accepted,F13,International,3.66,800.0,university of southern california,49,University of Southern California,United States of America,49.0
 University Of Alberta,Computer Science Masters,Accepted,F13,International,3.8,170.0,university of alberta,=105,University of Alberta,Canada,105.0
 University Of Alberta,Computer Science Masters,Accepted,F13,International,3.7,170.0,university of alberta,=105,University of Alberta,Canada,105.0
 Georgetown University,Computer Science Masters,Accepted,F13,International,3.87,164.0,georgetown university,501-550,Georgetown University,United States of America,525.5
@@ -1645,12 +1551,9 @@ Arizona State University,Computer Science Masters,Accepted,F13,International,3.3
 Carnegie Mellon,Computer Science Masters,Accepted,F13,American,3.81,170.0,carnegie mellon university,3,Carnegie Mellon University,United States of America,3.0
 North Carolina State University,Computer Science Masters,Accepted,F13,International,3.9,165.0,north carolina state university,201-250,North Carolina State University,United States of America,225.5
 Brown University,Computer Science Masters,Accepted,F13,American,3.08,158.0,brown university,=107,Brown University,United States of America,107.0
-Brown University,Computer Science Masters,Accepted,F13,American,3.74,730.0,brown university,=107,Brown University,United States of America,107.0
-Carnegie Mellon University,Computer Science Masters,Accepted,F13,International,3.8,600.0,carnegie mellon university,3,Carnegie Mellon University,United States of America,3.0
 Brown University,Computer Science Masters,Accepted,F13,American,3.64,168.0,brown university,=107,Brown University,United States of America,107.0
 Brown University,Computer Science Masters,Accepted,F13,International,3.77,163.0,brown university,=107,Brown University,United States of America,107.0
 Carnegie Mellon University,Computer Science Masters,Accepted,F13,International,3.65,170.0,carnegie mellon university,3,Carnegie Mellon University,United States of America,3.0
-Illinois Institute of Technology,Computer Science Masters,Accepted,F13,International,3.3,790.0,illinois institute of technology,301-350,Illinois Institute of Technology,United States of America,325.5
 University of Texas at Austin,Computer Science Masters,Accepted,F13,International,3.6,163.0,university of texas at austin,=41,University of Texas at Austin,United States of America,41.0
 Mcgill University,Computer Science Masters,Accepted,F13,International,3.72,170.0,mcgill university,48,McGill University,Canada,48.0
 University Of Alberta,Computer Science Masters,Accepted,F13,International,3.72,170.0,university of alberta,=105,University of Alberta,Canada,105.0
@@ -1666,14 +1569,10 @@ University of Chicago,Computer Science Masters,Accepted,F13,American,3.38,165.0,
 University of Southern California,Computer Science Masters,Accepted,F13,American,3.9,158.0,university of southern california,49,University of Southern California,United States of America,49.0
 Iowa State University,Computer Science Masters,Accepted,S13,International,3.1,168.0,iowa state university,351-400,Iowa State University,United States of America,375.5
 ETH Zurich,Computer Science Masters,Accepted,F13,International,3.62,170.0,eth zurich,10,ETH Zurich - Swiss Federal Institute of Technology,Switzerland,10.0
-Wisconsin Madison,Computer Science Masters,Accepted,F13,International,3.79,770.0,university of wisconsin,=110,University of Wisconsin-Madison,United States of America,110.0
 Rensselaer Polytechnic Institute,Computer Science Masters,Accepted,F13,International,3.84,165.0,rensselaer polytechnic institute,501-550,Rensselaer Polytechnic Institute,United States of America,525.5
-Colorado State University,Computer Science Masters,Accepted,F13,International,3.62,800.0,colorado state university,701-750,Colorado State University,United States of America,725.5
 University Of Calgary,Computer Science Masters,Accepted,F13,International,3.68,161.0,university of calgary,201-250,University of Calgary,Canada,225.5
 University of Massachusetts Amherst,Computer Science Masters,Accepted,F13,International,3.8,164.0,university of massachusetts amherst,=127,University of Massachusetts Amherst,United States of America,127.0
 Princeton University,Computer Science Masters,Accepted,F13,American,3.8,170.0,princeton university,13,Princeton University,United States of America,13.0
-University of Massachusetts Amherst,Computer Science Masters,Accepted,F13,International,3.3,590.0,university of massachusetts amherst,=127,University of Massachusetts Amherst,United States of America,127.0
-Worcester Polytechnic Institute,Computer Science Masters,Accepted,F13,American,3.74,730.0,worcester polytechnic institute,751-850,Worcester Polytechnic Institute,United States of America,800.5
 Colorado State University,Computer Science Masters,Accepted,F13,International,3.36,165.0,colorado state university,701-750,Colorado State University,United States of America,725.5
 Brown University,Computer Science Masters,Accepted,F13,International,3.86,160.0,brown university,=107,Brown University,United States of America,107.0
 Brown University,Computer Science Masters,Accepted,F13,International,3.87,167.0,brown university,=107,Brown University,United States of America,107.0
@@ -1692,8 +1591,6 @@ UW Madison,Computer Science Masters,Accepted,F13,International,3.9,163.0,univers
 University of Wisconsin,Computer Science Masters,Accepted,F13,International,3.6,161.0,university of wisconsin,=110,University of Wisconsin-Madison,United States of America,110.0
 University Of Waterloo,Computer Science Masters,Accepted,F13,International,3.61,165.0,university of waterloo,33,University of Waterloo,Canada,33.0
 "University of California, Irvine",Computer Science Masters,Accepted,F13,American,3.37,163.0,university of california irvine,=122,University of California. Irvine,United States of America,122.0
-UT Dallas,Computer Science Masters,Accepted,F13,American,3.76,600.0,university of texas dallas,251-300,University of Texas Dallas,United States of America,275.5
-Yale University,Computer Science Masters,Accepted,F13,International,3.87,600.0,yale university,26,Yale University,United States of America,26.0
 Carnegie Mellon,Computer Science Masters,Accepted,F13,American,3.81,164.0,carnegie mellon university,3,Carnegie Mellon University,United States of America,3.0
 Carnegie Mellon,Computer Science Masters,Accepted,F13,International,4.0,159.0,carnegie mellon university,3,Carnegie Mellon University,United States of America,3.0
 ETH Zurich,Computer Science Masters,Accepted,F13,International,4.0,168.0,eth zurich,10,ETH Zurich - Swiss Federal Institute of Technology,Switzerland,10.0
@@ -1703,7 +1600,6 @@ University of Delaware,Computer Science Masters,Accepted,F13,International,3.6,1
 Drexel University,Computer Science Masters,Accepted,F13,International,3.6,158.0,drexel university,651-700,Drexel University,United States of America,675.5
 Temple University,Computer Science Masters,Accepted,F13,International,3.43,163.0,temple university,451-500,Temple University,United States of America,475.5
 ETH Zurich,Computer Science Masters,Accepted,F13,International,3.9,162.0,eth zurich,10,ETH Zurich - Swiss Federal Institute of Technology,Switzerland,10.0
-ETHZ,Computer Science Masters,Accepted,F13,International,3.5,800.0,eth zurich,10,ETH Zurich - Swiss Federal Institute of Technology,Switzerland,10.0
 ETH Zurich,Computer Science Masters,Accepted,F13,International,3.67,169.0,eth zurich,10,ETH Zurich - Swiss Federal Institute of Technology,Switzerland,10.0
 "University of California, Irvine",Computer Science Masters,Accepted,F13,American,3.04,159.0,university of california irvine,=122,University of California. Irvine,United States of America,122.0
 University of Massachusetts Amherst,Computer Science Masters,Accepted,F13,International,3.65,155.0,university of massachusetts amherst,=127,University of Massachusetts Amherst,United States of America,127.0
@@ -1723,252 +1619,58 @@ Columbia University,Computer Science Masters,Accepted,S13,American,4.0,170.0,col
 University of Pennsylvania,Computer Science Masters,Accepted,F13,International,3.52,169.0,university of pennsylvania,=41,University of Pennsylvania,United States of America,41.0
 University of Pennsylvania,Computer Science Masters,Accepted,F13,International,3.61,165.0,university of pennsylvania,=41,University of Pennsylvania,United States of America,41.0
 Cornell University,Computer Science Masters,Accepted,F13,International,3.6,165.0,cornell university,18,Cornell University,United States of America,18.0
-University of Southern California,Computer Science Masters,Accepted,F12,American,3.4,750.0,university of southern california,49,University of Southern California,United States of America,49.0
 University Of Southern California (USC),Computer Science (Game Development) Masters,Accepted,F12,American,4.0,169.0,university of southern california,49,University of Southern California,United States of America,49.0
 "University of California, Irvine",Computer Science Masters,Accepted,F12,International,4.0,158.0,university of california irvine,=122,University of California. Irvine,United States of America,122.0
-University Of Southern California (USC),Computer Science Masters,Accepted,F12,International,3.3,800.0,university of southern california,49,University of Southern California,United States of America,49.0
 University Of Pennsylvania (UPenn),Computer Science: CGGT Masters,Accepted,F12,International,3.14,166.0,university of pennsylvania,=41,University of Pennsylvania,United States of America,41.0
-McGill University,Computer Science Masters,Accepted,F12,International,3.5,800.0,mcgill university,48,McGill University,Canada,48.0
 University of Pennsylvania,Computer Science Masters,Accepted,F12,International,3.41,161.0,university of pennsylvania,=41,University of Pennsylvania,United States of America,41.0
 University Of Southern California(USC),Computer Science Masters,Accepted,F12,International,3.4,160.0,university of southern california,49,University of Southern California,United States of America,49.0
-University of Florida,Computer Science Masters,Accepted,F12,International,3.3,800.0,university of florida,=161,University of Florida,United States of America,161.0
-"University Of Southern California (USC), Washington University in St. Louis (WashU/WUSTL)",Computer Science Masters,Accepted,F12,International,3.9,780.0,university of southern california,49,University of Southern California,United States of America,49.0
 University of Southern California,Computer Science Masters,Accepted,F12,American,3.34,159.0,university of southern california,49,University of Southern California,United States of America,49.0
 Northeastern University,Computer Science Masters,Accepted,F12,American,3.7,164.0,northeastern university,=197,Northeastern University,United States of America,197.0
 "Rochester Institute Of Technology, RIT",Computer Science Masters,Accepted,F12,International,3.18,154.0,rochester institute of technology rit,501-550,Rochester Institute of Technology (RIT),United States of America,525.5
-Colorado State University,Computer Science Masters,Accepted,F12,International,3.81,630.0,colorado state university,701-750,Colorado State University,United States of America,725.5
 University Of Waterloo,Computer Science Masters,Accepted,F12,International,3.8,164.0,university of waterloo,33,University of Waterloo,Canada,33.0
 Carnegie Mellon University,Computer Science Masters,Accepted,F12,American,3.73,164.0,carnegie mellon university,3,Carnegie Mellon University,United States of America,3.0
-Shenzhen University,Computer Science Masters,Accepted,F12,International,3.65,760.0,shenzhen university,451-500,Shenzhen University,China (Mainland),475.5
-Northeastern University,Computer Science Masters,Accepted,F12,International,3.8,600.0,northeastern university,=197,Northeastern University,United States of America,197.0
-Georgia Institute of Technology,Computer Science Masters,Accepted,F12,International,3.8,800.0,georgia institute of technology,40,Georgia Institute of Technology,United States of America,40.0
-University Of Alberta,Computer Science Masters,Accepted,F12,International,3.83,780.0,university of alberta,=105,University of Alberta,Canada,105.0
-University of Southern California,Computer Science Masters,Accepted,F12,International,4.0,800.0,university of southern california,49,University of Southern California,United States of America,49.0
 University of Dallas,Computer Science Masters,Accepted,F12,International,3.72,158.0,university of texas dallas,251-300,University of Texas Dallas,United States of America,275.5
-University Of British Columbia,Computer Science Masters,Accepted,F12,International,3.89,800.0,university of british columbia,=31,University of British Columbia,Canada,31.0
 Johns Hopkins University,Computer Science Masters,Accepted,F12,International,4.0,166.0,johns hopkins university,66,Johns Hopkins University,United States of America,66.0
-University Of British Columbia,Computer Science Masters,Accepted,F12,International,3.89,800.0,university of british columbia,=31,University of British Columbia,Canada,31.0
-Syracuse University,Computer Science Masters,Accepted,F12,American,3.19,740.0,syracuse university,501-550,Syracuse University,United States of America,525.5
-Dalhousie University,Computer Science Masters,Accepted,F12,International,3.89,800.0,dalhousie university,451-500,Dalhousie University,Canada,475.5
 Columbia University,Computer Science Masters,Accepted,F12,International,3.73,157.0,columbia university,=27,Columbia University,United States of America,27.0
-SUNY-Stony Brook University,Computer Science Masters,Accepted,F12,International,3.46,800.0,stony brook university state university of new york,351-400,Stony Brook University. State University of New York,United States of America,375.5
-Columbia University,Computer Science Masters,Accepted,F12,American,3.49,770.0,columbia university,=27,Columbia University,United States of America,27.0
 McGill University,Computer Science Masters,Accepted,F12,International,3.4,165.0,mcgill university,48,McGill University,Canada,48.0
 University Of Wisconsin At Madison,Computer Science Masters,Accepted,F12,American,3.4,163.0,university of wisconsin,=110,University of Wisconsin-Madison,United States of America,110.0
 Cornell University,Computer Science Masters,Accepted,F12,American,3.64,163.0,cornell university,18,Cornell University,United States of America,18.0
 University of Iowa,Computer Science Masters,Accepted,F12,International,3.0,165.0,university of iowa,751-850,University of Iowa,United States of America,800.5
 University of Southern California,"Computer Science, Game Development Spec ( CSGD) Masters",Accepted,F12,International,3.11,168.0,university of southern california,49,University of Southern California,United States of America,49.0
-Stony Brook University-SUNY,Computer Science Masters,Accepted,F12,International,3.67,800.0,stony brook university state university of new york,351-400,Stony Brook University. State University of New York,United States of America,375.5
-Cornell College,Computer Science Masters,Accepted,F12,International,3.74,700.0,cornell university,18,Cornell University,United States of America,18.0
-Cornell College,Computer Science Masters,Accepted,F12,International,3.76,800.0,cornell university,18,Cornell University,United States of America,18.0
-Columbia University,Computer Science Masters,Accepted,F12,International,3.2,800.0,columbia university,=27,Columbia University,United States of America,27.0
-Georgia Institute of Technology,Computer Science Masters,Accepted,F12,International,3.6,800.0,georgia institute of technology,40,Georgia Institute of Technology,United States of America,40.0
-Colorado State University,Computer Science Masters,Accepted,F12,International,3.82,630.0,colorado state university,701-750,Colorado State University,United States of America,725.5
-University Of Alberta,Computer Science Masters,Accepted,F12,International,3.83,780.0,university of alberta,=105,University of Alberta,Canada,105.0
 Columbia University,Computer Science Masters,Accepted,F12,American,3.64,163.0,columbia university,=27,Columbia University,United States of America,27.0
 University of Pennsylvania,Computer Science Masters,Accepted,F12,American,3.45,158.0,university of pennsylvania,=41,University of Pennsylvania,United States of America,41.0
-Vanderbilt University,Computer Science Masters,Accepted,F12,International,3.82,630.0,vanderbilt university,301-350,Vanderbilt University,United States of America,325.5
 Stony Brook University,Computer Science Masters,Accepted,F12,American,3.64,160.0,stony brook university state university of new york,351-400,Stony Brook University. State University of New York,United States of America,375.5
 Georgia Institute of Technology,Computer Science Masters,Accepted,F12,American,3.38,156.0,georgia institute of technology,40,Georgia Institute of Technology,United States of America,40.0
 University of California (UCLA),Computer Science Masters,Accepted,F12,American,3.8,163.0,university of california ucla,16,University of California. Los Angeles (UCLA),United States of America,16.0
 University of Calgary,Computer Science Masters,Accepted,F12,International,3.54,166.0,university of calgary,201-250,University of Calgary,Canada,225.5
-Georgia Institute of Technology,Computer Science Masters,Accepted,F12,International,3.3,800.0,georgia institute of technology,40,Georgia Institute of Technology,United States of America,40.0
-Brown University,Computer Science Masters,Accepted,F12,International,3.3,800.0,brown university,=107,Brown University,United States of America,107.0
 University of California (UCLA),Computer Science Masters,Accepted,F12,International,3.63,164.0,university of california ucla,16,University of California. Los Angeles (UCLA),United States of America,16.0
 University Of Toronto,Computer Science Masters,Accepted,F12,International,3.97,159.0,university of toronto,12,University of Toronto,Canada,12.0
 University of Oxford,Computer Science Masters,Accepted,F12,International,3.6,166.0,university of oxford,5,University of Oxford,United Kingdom,5.0
 Georgia Institute of Technology,Computer Science (CS) Masters,Accepted,F12,American,3.76,159.0,georgia institute of technology,40,Georgia Institute of Technology,United States of America,40.0
 Georgia Institute of Technology,Computer Science Masters,Accepted,F12,American,3.64,163.0,georgia institute of technology,40,Georgia Institute of Technology,United States of America,40.0
-Brown University,Computer Science Masters,Accepted,F12,International,3.96,620.0,brown university,=107,Brown University,United States of America,107.0
-Georgia Institute of Technology,Computer Science Masters,Accepted,F12,International,3.35,800.0,georgia institute of technology,40,Georgia Institute of Technology,United States of America,40.0
 University Of California - Los Angeles (UCLA),"Computer Science (CS), MS Masters",Accepted,F12,American,3.85,88.0,university of california ucla,16,University of California. Los Angeles (UCLA),United States of America,16.0
-Stanford University,Computer Science Masters,Accepted,F12,International,4.0,800.0,stanford university,2,Stanford University,United States of America,2.0
-Stanford University,Computer Science Masters,Accepted,F12,International,3.71,800.0,stanford university,2,Stanford University,United States of America,2.0
-Carnegie Mellon University,Computer Science Masters,Accepted,F12,International,3.8,770.0,carnegie mellon university,3,Carnegie Mellon University,United States of America,3.0
 New York University ( NYU),Computer Science Masters,Accepted,F12,American,3.64,163.0,new york university nyu,17,New York University (NYU),United States of America,17.0
 Stanford University,Computer Science Masters,Accepted,F12,American,3.48,167.0,stanford university,2,Stanford University,United States of America,2.0
-Cornell College,Computer Science Masters,Accepted,F12,International,4.0,800.0,cornell university,18,Cornell University,United States of America,18.0
-Stanford University,Computer Science Masters,Accepted,F12,International,4.0,800.0,stanford university,2,Stanford University,United States of America,2.0
-Stanford University,Computer Science Masters,Accepted,F12,International,3.6,800.0,stanford university,2,Stanford University,United States of America,2.0
 Stanford University,Computer Science Masters,Accepted,F12,International,3.83,162.0,stanford university,2,Stanford University,United States of America,2.0
-Stanford University,Computer Science Masters,Accepted,F12,American,3.78,780.0,stanford university,2,Stanford University,United States of America,2.0
 Stanford University,Computer Science Masters,Accepted,F12,American,3.86,169.0,stanford university,2,Stanford University,United States of America,2.0
 Cornell University,Computer Science Masters,Accepted,F12,American,3.73,164.0,cornell university,18,Cornell University,United States of America,18.0
 New York University ( NYU),Computer Science Masters,Accepted,F12,American,3.73,164.0,new york university nyu,17,New York University (NYU),United States of America,17.0
 Brown University,Computer Science Masters,Accepted,F12,American,3.73,164.0,brown university,=107,Brown University,United States of America,107.0
-University of Texas at Austin,Computer Science Masters,Accepted,F12,International,3.75,800.0,university of texas at austin,=41,University of Texas at Austin,United States of America,41.0
 Worcester Polytechnic Institute,"Computer Science (CS), MS Masters",Accepted,F12,American,3.85,88.0,worcester polytechnic institute,751-850,Worcester Polytechnic Institute,United States of America,800.5
 University Of Massachusetts Amherst,Computer Science Masters,Accepted,F12,American,3.64,163.0,university of massachusetts amherst,=127,University of Massachusetts Amherst,United States of America,127.0
 Georgetown University,Computer Science Masters,Accepted,F12,American,4.0,161.0,georgetown university,501-550,Georgetown University,United States of America,525.5
-Penn (University Of Pennsylvania),Computer Science Masters,Accepted,F12,International,3.8,800.0,university of pennsylvania,=41,University of Pennsylvania,United States of America,41.0
 George Mason University,Computer Science Masters,Accepted,F12,American,3.82,166.0,george mason university,501-550,George Mason University,United States of America,525.5
 University Of Manitoba,Computer Science Masters,Accepted,F12,International,3.8,156.0,university of manitoba,501-550,University of Manitoba,Canada,525.5
 Columbia University,Computer Science Masters,Accepted,F12,American,3.52,157.0,columbia university,=27,Columbia University,United States of America,27.0
-Syracuse University,Computer Science Masters,Accepted,F12,International,3.42,760.0,syracuse university,501-550,Syracuse University,United States of America,525.5
-Carnegie Mellon University,"Computer Science, Robotics Institute Masters",Accepted,F12,International,3.84,780.0,carnegie mellon university,3,Carnegie Mellon University,United States of America,3.0
 University Of Alberta,Computer Science Masters,Accepted,F12,International,3.07,162.0,university of alberta,=105,University of Alberta,Canada,105.0
-University of Pennsylvania,Computer Science Masters,Accepted,F12,International,3.6,800.0,university of pennsylvania,=41,University of Pennsylvania,United States of America,41.0
 Brown University,Computer Science Masters,Accepted,F12,American,3.25,169.0,brown university,=107,Brown University,United States of America,107.0
-Brown University,Computer Science Masters,Accepted,F12,International,3.75,720.0,brown university,=107,Brown University,United States of America,107.0
 ีUniversity Of Maryland - College Park,Computer Science Masters,Accepted,F12,American,3.91,161.0,university of maryland college park,=74,University of Maryland. College Park,United States of America,74.0
 Carnegie Mellon University,Computer Science Robotics Institute Masters,Accepted,F12,International,3.9,169.0,carnegie mellon university,3,Carnegie Mellon University,United States of America,3.0
 Carnegie Mellon,"Computer Science, The Robotics Institute Masters",Accepted,F12,American,3.88,80.0,carnegie mellon university,3,Carnegie Mellon University,United States of America,3.0
-Princeton University,Computer Science Masters,Accepted,F12,International,3.8,800.0,princeton university,13,Princeton University,United States of America,13.0
-Purdue University,Computer Science Masters,Accepted,F12,American,3.3,800.0,purdue university,73,Purdue University,United States of America,73.0
-Carnegie Mellon University,Computer Science (Robotics) Masters,Accepted,F12,International,3.6,800.0,carnegie mellon university,3,Carnegie Mellon University,United States of America,3.0
-Brown University,Computer Science Masters,Accepted,F12,International,3.25,800.0,brown university,=107,Brown University,United States of America,107.0
-Princeton University,Computer Science Masters,Accepted,F12,American,3.78,780.0,princeton university,13,Princeton University,United States of America,13.0
-Princeton University,Computer Science Masters,Accepted,F12,American,3.6,700.0,princeton university,13,Princeton University,United States of America,13.0
-University of Central Florida,Computer Science Masters,Accepted,F12,International,3.4,790.0,university of central florida,301-350,University of Central Florida,United States of America,325.5
-Yale University,Computer Science Masters,Accepted,F12,International,3.46,800.0,yale university,26,Yale University,United States of America,26.0
-Carnegie Mellon University,Computer Science Masters,Accepted,F12,American,3.9,800.0,carnegie mellon university,3,Carnegie Mellon University,United States of America,3.0
-Carnegie Mellon University,Computer Science Masters,Accepted,F12,International,3.56,800.0,carnegie mellon university,3,Carnegie Mellon University,United States of America,3.0
-Purdue University,Computer Science Masters,Accepted,F12,International,3.8,770.0,purdue university,73,Purdue University,United States of America,73.0
-Carnegie Mellon University,Computer Science Masters,Accepted,F12,American,3.78,780.0,carnegie mellon university,3,Carnegie Mellon University,United States of America,3.0
-Carnegie Mellon University,Computer Science - VLIS Masters,Accepted,F12,International,3.66,710.0,carnegie mellon university,3,Carnegie Mellon University,United States of America,3.0
-University Of British Columbia,Computer Science Masters,Accepted,F12,International,3.72,700.0,university of british columbia,=31,University of British Columbia,Canada,31.0
-University Of Pennsylvania (UPenn),Computer Science Masters,Accepted,F12,International,3.66,710.0,university of pennsylvania,=41,University of Pennsylvania,United States of America,41.0
 ีืUniversity Of Central Florida,Computer Science Masters,Accepted,F12,International,3.2,160.0,university of central florida,301-350,University of Central Florida,United States of America,325.5
-Carnegie Mellon University,Computer Science Masters,Accepted,F12,American,3.6,650.0,carnegie mellon university,3,Carnegie Mellon University,United States of America,3.0
-Carnegie Mellon University,Computer Science Masters,Accepted,F12,American,3.95,790.0,carnegie mellon university,3,Carnegie Mellon University,United States of America,3.0
 ETH Zurich,"Computer Science (CS), MS Masters",Accepted,F12,International,4.0,166.0,eth zurich,10,ETH Zurich - Swiss Federal Institute of Technology,Switzerland,10.0
-University Of Toronto,Computer Science Masters,Accepted,F12,International,4.0,800.0,university of toronto,12,University of Toronto,Canada,12.0
-University Of Utah,Computer Science - Graphics And Visualization Masters,Accepted,F12,International,3.8,800.0,university of utah,301-350,University of Utah,United States of America,325.5
-ETH Zurich,Computer Science Masters,Accepted,F12,International,3.6,760.0,eth zurich,10,ETH Zurich - Swiss Federal Institute of Technology,Switzerland,10.0
-ETH Zurich,Computer Science Masters,Accepted,F12,International,3.5,400.0,eth zurich,10,ETH Zurich - Swiss Federal Institute of Technology,Switzerland,10.0
 York University,Computer Science Masters,Accepted,F12,International,3.7,163.0,york university,401-450,York University,Canada,425.5
 University of Chicago,"Computer Science (CS), MS Masters",Accepted,F12,American,3.64,160.0,university of chicago,50,University of Chicago,United States of America,50.0
-University of Southern California,Computer Science Masters,Accepted,S12,International,3.7,800.0,university of southern california,49,University of Southern California,United States of America,49.0
-University Of Southern California (USC),Computer Science Masters,Accepted,F11,International,3.97,740.0,university of southern california,49,University of Southern California,United States of America,49.0
-University Of Southern California (USC),Computer Science Masters,Accepted,F11,International,3.4,770.0,university of southern california,49,University of Southern California,United States of America,49.0
-University Of Calgary,Computer Science Masters,Accepted,F11,International,3.55,750.0,university of calgary,201-250,University of Calgary,Canada,225.5
-Michigan State University (MSU),Computer Science Masters,Accepted,F11,International,3.97,400.0,michigan state university,=136,Michigan State University,United States of America,136.0
-McGill University,Computer Science Masters,Accepted,F11,International,3.8,800.0,mcgill university,48,McGill University,Canada,48.0
-New York University (NYU),Computer Science Masters,Accepted,F11,International,3.7,780.0,new york university nyu,17,New York University (NYU),United States of America,17.0
-Northeastern University,Computer Science Masters,Accepted,F11,International,3.12,740.0,northeastern university,=197,Northeastern University,United States of America,197.0
-University of Copenhagen,Computer Science Masters,Accepted,F11,International,3.2,740.0,university of copenhagen,104,University of Copenhagen,Denmark,104.0
-University Of Alberta,Computer Science Masters,Accepted,F11,International,3.5,760.0,university of alberta,=105,University of Alberta,Canada,105.0
-New York University (NYU),Computer Science Masters,Accepted,F11,International,3.1,800.0,new york university nyu,17,New York University (NYU),United States of America,17.0
-University of Florida,Computer Science Masters,Accepted,F11,International,3.1,640.0,university of florida,=161,University of Florida,United States of America,161.0
-Johns Hopkins University,Computer Science Masters,Accepted,F11,International,3.0,710.0,johns hopkins university,66,Johns Hopkins University,United States of America,66.0
-Johns Hopkins University,"Computer Science, Information Security Institute Masters",Accepted,F11,International,3.1,800.0,johns hopkins university,66,Johns Hopkins University,United States of America,66.0
-Cornell University,Computer Science (CS) Masters,Accepted,F11,International,3.6,800.0,cornell university,18,Cornell University,United States of America,18.0
-Michigan State University (MSU),Computer Science Masters,Accepted,F11,American,3.5,590.0,michigan state university,=136,Michigan State University,United States of America,136.0
-Cornell University,Computer Science (CS) Masters,Accepted,F11,International,3.8,800.0,cornell university,18,Cornell University,United States of America,18.0
-Dartmouth College,Computer Science Masters,Accepted,F11,International,3.0,710.0,dartmouth college,401-450,Dartmouth College,United States of America,425.5
-University of Colorado Boulder,Computer Science Masters,Accepted,F11,International,3.0,710.0,university of colorado boulder,351-400,University of Colorado Boulder,United States of America,375.5
-Cornell University,Computer Science Masters,Accepted,F11,American,3.7,750.0,cornell university,18,Cornell University,United States of America,18.0
-Stanford University,Computer Science Masters,Accepted,F11,American,3.74,800.0,stanford university,2,Stanford University,United States of America,2.0
-Cornell University,Computer Science Masters,Accepted,F11,American,3.83,770.0,cornell university,18,Cornell University,United States of America,18.0
-Cornell University,Computer Science Masters,Accepted,F11,American,3.7,780.0,cornell university,18,Cornell University,United States of America,18.0
-McGill University,Computer Science Masters,Accepted,F11,International,3.2,800.0,mcgill university,48,McGill University,Canada,48.0
-University Of Waterloo,Computer Science Masters,Accepted,F11,International,3.52,790.0,university of waterloo,33,University of Waterloo,Canada,33.0
-"University of California, Irvine",Computer Science (Networked Systems) Masters,Accepted,F11,International,3.1,800.0,university of california irvine,=122,University of California. Irvine,United States of America,122.0
-New York University (NYU),Computer Science Masters,Accepted,F11,International,3.1,800.0,new york university nyu,17,New York University (NYU),United States of America,17.0
-Texas A&M University,Computer Science Masters,Accepted,F11,American,3.71,780.0,texas am university,=146,Texas A&M University,United States of America,146.0
-Stony Brook University ( SUNY-SB),Computer Science Masters,Accepted,F11,International,3.8,800.0,stony brook university state university of new york,351-400,Stony Brook University. State University of New York,United States of America,375.5
-"University Of Californa, Los Angeles (UCLA)","Computer Science (CS), MS Masters",Accepted,F11,International,3.5,800.0,university of california ucla,16,University of California. Los Angeles (UCLA),United States of America,16.0
-"University Of Californa, Los Angeles (UCLA)",Computer Science Masters,Accepted,F11,International,3.91,700.0,university of california ucla,16,University of California. Los Angeles (UCLA),United States of America,16.0
-University Of California - Los Angeles (UCLA),Computer Science Masters,Accepted,F11,International,3.98,740.0,university of california ucla,16,University of California. Los Angeles (UCLA),United States of America,16.0
-University Of California - Los Angeles (UCLA),Computer Science Masters,Accepted,F11,International,3.5,790.0,university of california ucla,16,University of California. Los Angeles (UCLA),United States of America,16.0
-McGill University,Computer Science Masters,Accepted,F11,International,3.52,800.0,mcgill university,48,McGill University,Canada,48.0
-Georgia Institute Of Technology,Computer Science Masters,Accepted,F11,International,3.44,800.0,georgia institute of technology,40,Georgia Institute of Technology,United States of America,40.0
-Georgia Institute Of Technology,Computer Science Masters,Accepted,F11,International,3.87,800.0,georgia institute of technology,40,Georgia Institute of Technology,United States of America,40.0
-"The State University Of New York, Stony Brook",Computer Science Masters,Accepted,F11,International,3.6,800.0,stony brook university state university of new york,351-400,Stony Brook University. State University of New York,United States of America,375.5
-University of Texas at Austin,Computer Science & Engineering (CSE) Masters,Accepted,F11,International,3.6,800.0,university of texas at austin,=41,University of Texas at Austin,United States of America,41.0
-North Carolina State University,Computer Science Masters,Accepted,F11,International,3.7,310.0,north carolina state university,201-250,North Carolina State University,United States of America,225.5
-Stanford University,Computer Science Masters,Accepted,F11,International,3.61,800.0,stanford university,2,Stanford University,United States of America,2.0
-Stanford University,Computer Scienced Computer Science Masters,Accepted,F11,International,3.87,800.0,stanford university,2,Stanford University,United States of America,2.0
-Stanford University,Computer Science Masters,Accepted,F11,American,3.8,800.0,stanford university,2,Stanford University,United States of America,2.0
-Stanford University,Computer Science Masters,Accepted,F11,American,3.99,790.0,stanford university,2,Stanford University,United States of America,2.0
-Stanford University,Computer Science Masters,Accepted,F11,International,3.9,800.0,stanford university,2,Stanford University,United States of America,2.0
-"University of California, Irvine",Computer Science Masters,Accepted,F11,International,3.34,800.0,university of california irvine,=122,University of California. Irvine,United States of America,122.0
-"University Of California, San Diego (UCSD)",Computer Science Masters,Accepted,F11,International,3.65,800.0,university of california san diego ucsd,=37,University of California. San Diego (UCSD),United States of America,37.0
-University Of Alberta,Computer Science Masters,Accepted,F11,International,3.96,800.0,university of alberta,=105,University of Alberta,Canada,105.0
-University Of Alberta,Computer Science Masters,Accepted,F11,International,3.52,790.0,university of alberta,=105,University of Alberta,Canada,105.0
-Georgia Institute of Technology,Computer Science Masters,Accepted,F11,American,3.9,800.0,georgia institute of technology,40,Georgia Institute of Technology,United States of America,40.0
-University of Texas at Austin,Computer Science Masters,Accepted,F11,International,3.82,800.0,university of texas at austin,=41,University of Texas at Austin,United States of America,41.0
-University Of Southern California (USC),Computer Science (game Development) Masters,Accepted,F11,American,3.3,800.0,university of southern california,49,University of Southern California,United States of America,49.0
-University of Colorado Boulder,Computer Science Masters,Accepted,F11,International,3.3,500.0,university of colorado boulder,351-400,University of Colorado Boulder,United States of America,375.5
-Dartmouth College,Computer Science Masters,Accepted,F11,International,3.8,800.0,dartmouth college,401-450,Dartmouth College,United States of America,425.5
-University of Texas at Austin,Computer Science Masters,Accepted,F11,International,3.99,800.0,university of texas at austin,=41,University of Texas at Austin,United States of America,41.0
-"University of California, Irvine",Computer Science Masters,Accepted,F11,International,3.59,790.0,university of california irvine,=122,University of California. Irvine,United States of America,122.0
-"University Of Wisconsin, Madison",Computer Science Masters,Accepted,F11,International,3.7,790.0,university of wisconsin,=110,University of Wisconsin-Madison,United States of America,110.0
-University of Texas at Austin,Computer Science Masters,Accepted,F11,American,3.71,770.0,university of texas at austin,=41,University of Texas at Austin,United States of America,41.0
-"University Of Wisconsin, Madison",Computer Science Masters,Accepted,F11,International,3.82,800.0,university of wisconsin,=110,University of Wisconsin-Madison,United States of America,110.0
-Brown University,Computer Science Masters,Accepted,F11,International,3.8,800.0,brown university,=107,Brown University,United States of America,107.0
-Brown University,Computer Science Masters,Accepted,F11,American,3.71,770.0,brown university,=107,Brown University,United States of America,107.0
-University of California (UCSB),Computer Science Masters,Accepted,F11,International,3.59,790.0,university of california santa barbara ucsb,201-250,University of California. Santa Barbara (UCSB),United States of America,225.5
-University Of Maryland (College Park),Computer Science Masters,Accepted,F11,American,3.8,770.0,university of maryland college park,=74,University of Maryland. College Park,United States of America,74.0
-University Of Southern California (USC),Computer Science Masters,Accepted,F11,International,3.57,800.0,university of southern california,49,University of Southern California,United States of America,49.0
-University of Chicago,Computer Science Masters,Accepted,F11,American,3.54,800.0,university of chicago,50,University of Chicago,United States of America,50.0
-Yale University,Computer Science Masters,Accepted,F11,American,3.9,800.0,yale university,26,Yale University,United States of America,26.0
-Brown University,Computer Science Masters,Accepted,F11,American,3.54,800.0,brown university,=107,Brown University,United States of America,107.0
-Yale University,Computer Science Masters,Accepted,F11,International,4.0,800.0,yale university,26,Yale University,United States of America,26.0
-University Of Alberta,Computer Science Masters,Accepted,F11,International,3.5,800.0,university of alberta,=105,University of Alberta,Canada,105.0
-"University of California, Irvine",Computer Science Masters,Accepted,F11,International,3.2,750.0,university of california irvine,=122,University of California. Irvine,United States of America,122.0
-"University Of California, San Diego (UCSD)",Computer Science And Engineering (CSE) Masters,Accepted,F11,American,3.8,770.0,university of california san diego ucsd,=37,University of California. San Diego (UCSD),United States of America,37.0
-Princeton University,Computer Science Masters,Accepted,F11,International,3.4,800.0,princeton university,13,Princeton University,United States of America,13.0
-"University of California, Irvine",Computer Science Masters,Accepted,F11,International,3.2,800.0,university of california irvine,=122,University of California. Irvine,United States of America,122.0
-"University of California, Irvine",Computer Science Masters,Accepted,F11,International,3.1,800.0,university of california irvine,=122,University of California. Irvine,United States of America,122.0
-Northeastern University,Computer Science Masters,Accepted,F11,International,3.1,800.0,northeastern university,=197,Northeastern University,United States of America,197.0
-"University Of California, San Diego (UCSD)",Computer Science Masters,Accepted,F11,International,3.91,700.0,university of california san diego ucsd,=37,University of California. San Diego (UCSD),United States of America,37.0
-"University of California, Irvine",Computer Science Masters,Accepted,F11,International,3.86,800.0,university of california irvine,=122,University of California. Irvine,United States of America,122.0
-University Of South Carolina,Computer Science Masters,Accepted,F11,American,3.0,800.0,university of south carolina,501-550,University of South Carolina,United States of America,525.5
-Carnegie Mellon University,Computer Science (LTI) Masters,Accepted,F11,International,3.73,770.0,carnegie mellon university,3,Carnegie Mellon University,United States of America,3.0
-Syracuse University,Computer Science Masters,Accepted,F11,International,3.19,350.0,syracuse university,501-550,Syracuse University,United States of America,525.5
-"University of California, Irvine",Computer Science Masters,Accepted,F10,International,3.55,800.0,university of california irvine,=122,University of California. Irvine,United States of America,122.0
-University of Houston,Computer Science Masters,Accepted,F10,International,3.42,800.0,university of houston,401-450,University of Houston,United States of America,425.5
-New York University (NYU),Computer Science Masters,Accepted,F10,International,3.9,520.0,new york university nyu,17,New York University (NYU),United States of America,17.0
-Georgia Institute of Technology,Computer Science Masters,Accepted,F10,International,3.85,790.0,georgia institute of technology,40,Georgia Institute of Technology,United States of America,40.0
-University Of Southern California (USC),Computer Science Masters,Accepted,F10,International,3.5,800.0,university of southern california,49,University of Southern California,United States of America,49.0
-University of California (UCSB),Computer Science Masters,Accepted,F10,International,3.3,680.0,university of california santa barbara ucsb,201-250,University of California. Santa Barbara (UCSB),United States of America,225.5
-University of California (UCSB),Computer Science Masters,Accepted,F10,International,3.3,680.0,university of california santa barbara ucsb,201-250,University of California. Santa Barbara (UCSB),United States of America,225.5
-"University Of California, Los Angeles (UCLA)",Computer Science Masters,Accepted,F10,American,4.0,610.0,university of california ucla,16,University of California. Los Angeles (UCLA),United States of America,16.0
-"University of California, Irvine",Computer Science Masters,Accepted,F10,American,3.11,760.0,university of california irvine,=122,University of California. Irvine,United States of America,122.0
-Carnegie Mellon University,Computer Science - Information Networking Masters,Accepted,F10,American,3.4,800.0,carnegie mellon university,3,Carnegie Mellon University,United States of America,3.0
-New York University (NYU),Computer Science Masters,Accepted,F10,International,3.5,800.0,new york university nyu,17,New York University (NYU),United States of America,17.0
-SUNY Stony Brook,Computer Science Masters,Accepted,F10,American,3.11,760.0,stony brook university state university of new york,351-400,Stony Brook University. State University of New York,United States of America,375.5
-"University Of California, San Diego (UCSD)",Computer Science Masters,Accepted,F10,International,3.5,770.0,university of california san diego ucsd,=37,University of California. San Diego (UCSD),United States of America,37.0
-"University of California, Irvine",Computer Science Masters,Accepted,F10,International,3.4,800.0,university of california irvine,=122,University of California. Irvine,United States of America,122.0
-Cornell University,Computer Science Masters,Accepted,F10,International,3.7,800.0,cornell university,18,Cornell University,United States of America,18.0
-University of Michigan,Computer Science Masters,Accepted,F10,American,3.68,720.0,michigan state university,=136,Michigan State University,United States of America,136.0
-University of Texas at Austin,Computer Science Masters,Accepted,F10,International,3.58,790.0,university of texas at austin,=41,University of Texas at Austin,United States of America,41.0
-University of Texas at Austin,Computer Science Masters,Accepted,F10,International,3.85,790.0,university of texas at austin,=41,University of Texas at Austin,United States of America,41.0
-University of Texas at Austin,Computer Science Masters,Accepted,F10,International,4.0,800.0,university of texas at austin,=41,University of Texas at Austin,United States of America,41.0
-Johns Hopkins University,Computer Science Masters,Accepted,F10,American,3.93,790.0,johns hopkins university,66,Johns Hopkins University,United States of America,66.0
-"University Of California, Los Angeles (UCLA)",Computer Science Masters,Accepted,F10,American,3.8,800.0,university of california ucla,16,University of California. Los Angeles (UCLA),United States of America,16.0
-"University Of California, Los Angeles (UCLA)","Computer Science (CS), MS Masters",Accepted,F10,American,3.6,800.0,university of california ucla,16,University of California. Los Angeles (UCLA),United States of America,16.0
-Stanford University,Computer Science Masters,Accepted,F10,International,3.8,800.0,stanford university,2,Stanford University,United States of America,2.0
-Stanford University,Computer Science Masters,Accepted,F10,International,3.86,800.0,stanford university,2,Stanford University,United States of America,2.0
-Stanford University,Computer Science Masters,Accepted,F10,International,3.7,800.0,stanford university,2,Stanford University,United States of America,2.0
-Stanford University,Computer Science Masters,Accepted,F10,International,3.78,800.0,stanford university,2,Stanford University,United States of America,2.0
-Georgia Institute Of Technology,Computer Science Masters,Accepted,F10,American,3.86,800.0,georgia institute of technology,40,Georgia Institute of Technology,United States of America,40.0
-Carnegie Mellon University,Computer Science-Entertainment Technology Masters,Accepted,F10,American,3.85,760.0,carnegie mellon university,3,Carnegie Mellon University,United States of America,3.0
-Cornell University,Computer Science Masters,Accepted,F10,International,3.85,790.0,cornell university,18,Cornell University,United States of America,18.0
-Columbia University,Computer Science Masters,Accepted,F10,American,3.93,790.0,columbia university,=27,Columbia University,United States of America,27.0
-Georgia Institute of Technology,Computer Science Masters,Accepted,F10,American,3.93,790.0,georgia institute of technology,40,Georgia Institute of Technology,United States of America,40.0
-McGill University,Computer Science Masters,Accepted,F10,International,3.56,790.0,mcgill university,48,McGill University,Canada,48.0
-"University Of California, San Diego (UCSD)","Computer Science (CS), MS Masters",Accepted,F10,American,3.65,800.0,university of california san diego ucsd,=37,University of California. San Diego (UCSD),United States of America,37.0
-Dartmouth College,Computer Science Masters,Accepted,F10,International,2.0,800.0,dartmouth college,401-450,Dartmouth College,United States of America,425.5
-Brown University,Computer Science Masters,Accepted,F10,International,3.6,770.0,brown university,=107,Brown University,United States of America,107.0
-Northeastern University,"Computer Science (CS), MS Masters",Accepted,F10,International,3.8,720.0,northeastern university,=197,Northeastern University,United States of America,197.0
-University Of Waterloo,Computer Science Masters,Accepted,F10,International,3.7,800.0,university of waterloo,33,University of Waterloo,Canada,33.0
-Massachusetts Institute Of Technology (MIT),"Computer Science (CS), MS Masters",Accepted,F10,International,4.0,800.0,massachusetts institute of technology mit,1,Massachusetts Institute of Technology (MIT),United States of America,1.0
-Purdue University,Computer Science Masters,Accepted,F10,International,3.9,790.0,purdue university,73,Purdue University,United States of America,73.0
-University Of Pennsylvania (UPenn),Computer Science (Game Development) Masters,Accepted,F10,American,3.8,760.0,university of pennsylvania,=41,University of Pennsylvania,United States of America,41.0
-Stanford University,Computer Science Masters,Accepted,F10,International,3.9,790.0,stanford university,2,Stanford University,United States of America,2.0
-Purdue University,Computer Science Masters,Accepted,F10,International,3.8,800.0,purdue university,73,Purdue University,United States of America,73.0
-Carnegie Mellon University,Computer Science (Language Technologies Institute) Masters,Accepted,F10,International,3.55,800.0,carnegie mellon university,3,Carnegie Mellon University,United States of America,3.0
-University Of Toronto,Computer Science Masters,Accepted,F10,International,4.0,800.0,university of toronto,12,University of Toronto,Canada,12.0
-University Of Alberta,Computer Science Masters,Accepted,F10,International,3.56,790.0,university of alberta,=105,University of Alberta,Canada,105.0
-"University Of California, Berkeley (UCB)",Computer Science Masters,Accepted,F10,International,3.86,800.0,university of california berkeley ucb,8,University of California. Berkeley (UCB),United States of America,8.0
-Carnegie Mellon University,Computer Science Language Technologies Institute Masters,Accepted,F10,International,3.8,800.0,carnegie mellon university,3,Carnegie Mellon University,United States of America,3.0
-Carnegie Mellon University,Computer Science (Language Technologies Institute) Masters,Accepted,F10,American,3.84,760.0,carnegie mellon university,3,Carnegie Mellon University,United States of America,3.0
-Northeastern University,Computer Science Masters,Accepted,F10,American,3.93,790.0,northeastern university,=197,Northeastern University,United States of America,197.0
-University Of Southern California (USC),Computer Science Masters,Accepted,F10,American,3.93,790.0,university of southern california,49,University of Southern California,United States of America,49.0
-University Of Southern California (USC),Computer Science (Game Development) Masters,Accepted,F10,American,3.7,790.0,university of southern california,49,University of Southern California,United States of America,49.0
-University Of Southern California (USC),Computer Science Masters,Accepted,F10,International,3.56,770.0,university of southern california,49,University of Southern California,United States of America,49.0
 University of Southern California,Computer Science (Scientists And Engineers) Masters,Accepted,F18,American,3.6,169.0,university of southern california,49,University of Southern California,United States of America,49.0
 Columbia College,Computer Science Masters,Accepted,F15,International,3.9,168.0,columbia university,=27,Columbia University,United States of America,27.0
 University of Minnesota Twin Cities,Computer Science Masters,Accepted,F16,International,3.7,165.0,university of minnesota twin cities,201-250,University of Minnesota Twin Cities,United States of America,225.5
@@ -2188,7 +1890,6 @@ University of Michigan,Computer Science Masters,Accepted,F18,American,3.7,157.0,
 University of Waterloo,Computer Science (MMath) Coursework Masters,Accepted,F18,International,3.47,170.0,university of waterloo,33,University of Waterloo,Canada,33.0
 University of Southern California,Computer Science Masters,Accepted,F19,American,3.85,165.0,university of southern california,49,University of Southern California,United States of America,49.0
 University of Pennsylvania,Computer Science Masters,Accepted,F19,American,3.66,166.0,university of pennsylvania,=41,University of Pennsylvania,United States of America,41.0
-University of Southern California,Computer Science Masters,Accepted,F20,American,3.83,359.0,university of southern california,49,University of Southern California,United States of America,49.0
 North Carolina State University,Computer Science Masters,Accepted,F16,International,3.6,153.0,north carolina state university,201-250,North Carolina State University,United States of America,225.5
 University of California (UCLA),Computer Science Masters,Accepted,F15,International,3.1,156.0,university of california ucla,16,University of California. Los Angeles (UCLA),United States of America,16.0
 Stanford University,Computer Science Masters,Accepted,F15,American,3.96,158.0,stanford university,2,Stanford University,United States of America,2.0
@@ -2232,7 +1933,6 @@ ETH Zurich,Computer Science Masters,Accepted,F15,International,3.69,168.0,eth zu
 Brown University,Computer Science Masters,Accepted,F16,International,4.0,167.0,brown university,=107,Brown University,United States of America,107.0
 University of Florida,Computer Science Masters,Accepted,F19,International,3.9,167.0,university of florida,=161,University of Florida,United States of America,161.0
 Arizona State University,Computer Science Masters,Accepted,F18,International,3.25,170.0,arizona state university,=134,Arizona State University,United States of America,134.0
-University of Houston,Computer Science Masters,Accepted,Spring 2020,International,2.6,320.0,university of houston,401-450,University of Houston,United States of America,425.5
 Georgia Institute of Technology,Computer Science Masters,Accepted,F16,International,3.59,167.0,georgia institute of technology,40,Georgia Institute of Technology,United States of America,40.0
 University of Waterloo,"Computer Science, MMath Thesis Masters",Accepted,F17,International,3.1,167.0,university of waterloo,33,University of Waterloo,Canada,33.0
 Stony Brook University,Computer Science Masters,Accepted,F19,International,3.57,165.0,stony brook university state university of new york,351-400,Stony Brook University. State University of New York,United States of America,375.5
@@ -2332,7 +2032,6 @@ University of Virginia,Computer Science Masters,Accepted,F15,International,3.5,1
 Yale University,Computer Science Masters,Accepted,F15,International,3.9,168.0,yale university,26,Yale University,United States of America,26.0
 "University of California, Irvine",Computer Science (Networked Systems) Masters,Accepted,F18,International,3.56,162.0,university of california irvine,=122,University of California. Irvine,United States of America,122.0
 University of Wisconsin,Computer Science Masters,Accepted,F18,American,3.99,164.0,university of wisconsin,=110,University of Wisconsin-Madison,United States of America,110.0
-Arizona State University,Computer Science Masters,Accepted,F16,International,3.1,312.0,arizona state university,=134,Arizona State University,United States of America,134.0
 Arizona State University,Computer Science Masters,Accepted,F20,International,3.3,165.0,arizona state university,=134,Arizona State University,United States of America,134.0
 Stony Brook University,Computer Science Masters,Accepted,F16,International,3.6,164.0,stony brook university state university of new york,351-400,Stony Brook University. State University of New York,United States of America,375.5
 Brown University,Computer Science Masters,Accepted,F17,International,3.4,160.0,brown university,=107,Brown University,United States of America,107.0
@@ -2374,7 +2073,6 @@ University of Colorado Boulder,Computer Science Masters,Accepted,S18,Internation
 University of Massachusetts Amherst,Computer Science Masters,Accepted,Spring 2019,International,3.63,166.0,university of massachusetts amherst,=127,University of Massachusetts Amherst,United States of America,127.0
 Dalhousie University,Computer Science Masters,Accepted,F20,International,3.6,1.0,dalhousie university,451-500,Dalhousie University,Canada,475.5
 Cornell University,Computer Science Masters,Accepted,F15,American,3.8,163.0,cornell university,18,Cornell University,United States of America,18.0
-University of Southern California,Computer Science Masters,Accepted,F20,International,3.54,323.0,university of southern california,49,University of Southern California,United States of America,49.0
 Carnegie Mellon University,Computer Science Masters,Accepted,F16,International,3.76,166.0,carnegie mellon university,3,Carnegie Mellon University,United States of America,3.0
 University of Chicago,Computer Science Masters,Accepted,F19,International,3.55,168.0,university of chicago,50,University of Chicago,United States of America,50.0
 Purdue University,Computer Science Masters,Accepted,F16,International,3.93,170.0,purdue university,73,Purdue University,United States of America,73.0
@@ -2432,49 +2130,13 @@ Cornell University,Computer Science Masters,Accepted,F20,International,3.86,170.
 Princeton University,Computer Science Masters,Rejected,F20,International,3.7,165.0,princeton university,13,Princeton University,United States of America,13.0
 University of Pennsylvania,Computer Science Masters,Rejected,F15,International,3.77,167.0,university of pennsylvania,=41,University of Pennsylvania,United States of America,41.0
 Stanford University,Computer Science Masters,Rejected,F19,American,3.84,170.0,stanford university,2,Stanford University,United States of America,2.0
-"University of California, Davis",Computer Science Masters,Rejected,Fall 2025,International,3.8,326.0,university of california davis,201-250,University of California. Davis,United States of America,225.5
-University of California (UCLA),Computer Science Masters,Rejected,Fall 2025,International,3.8,326.0,university of california ucla,16,University of California. Los Angeles (UCLA),United States of America,16.0
-Georgia Institute of Technology,Computer Science Masters,Rejected,Fall 2025,International,3.6,330.0,georgia institute of technology,40,Georgia Institute of Technology,United States of America,40.0
-Georgia Institute of Technology,Computer Science Masters,Rejected,Fall 2025,American,3.56,316.0,georgia institute of technology,40,Georgia Institute of Technology,United States of America,40.0
-University of Wisconsin - Madison,Computer Science Masters,Rejected,Fall 2025,International,3.8,320.0,university of wisconsin,=110,University of Wisconsin-Madison,United States of America,110.0
 Georgia Institute of Technology,Computer Science Masters,Rejected,Fall 2025,International,3.9,168.0,georgia institute of technology,40,Georgia Institute of Technology,United States of America,40.0
-McGill University,Computer Science Masters,Rejected,Fall 2025,International,3.8,326.0,mcgill university,48,McGill University,Canada,48.0
-SUNY Stony Brook,Computer Science Masters,Rejected,Fall 2025,International,4.0,314.0,stony brook university state university of new york,351-400,Stony Brook University. State University of New York,United States of America,375.5
-Stony Brook University,Computer Science Masters,Rejected,Fall 2025,International,3.97,317.0,stony brook university state university of new york,351-400,Stony Brook University. State University of New York,United States of America,375.5
-Stony Brook University,Computer Science Masters,Rejected,Fall 2025,International,3.6,318.0,stony brook university state university of new york,351-400,Stony Brook University. State University of New York,United States of America,375.5
-"University of California, Irvine",Computer Science Masters,Rejected,Fall 2025,International,3.44,317.0,university of california irvine,=122,University of California. Irvine,United States of America,122.0
-University of Massachusetts Amherst,Computer Science Masters,Rejected,Fall 2025,International,3.52,318.0,university of massachusetts amherst,=127,University of Massachusetts Amherst,United States of America,127.0
-"University of California, Berkeley",Computer Science Masters,Rejected,Fall 2025,International,3.8,326.0,university of california berkeley ucb,8,University of California. Berkeley (UCB),United States of America,8.0
 Cornell University,Computer Science Masters,Rejected,Fall 2025,International,3.5,163.0,cornell university,18,Cornell University,United States of America,18.0
-"University of California, Irvine",Computer Science Masters,Rejected,Fall 2025,International,3.76,324.0,university of california irvine,=122,University of California. Irvine,United States of America,122.0
-University of Texas at Austin,Computer Science and Engineering Masters,Rejected,Fall 2025,International,3.7,340.0,university of texas at austin,=41,University of Texas at Austin,United States of America,41.0
-Stanford University,Computer Science Masters,Rejected,Fall 2025,International,3.7,321.0,stanford university,2,Stanford University,United States of America,2.0
-Princeton University,Computer Science Masters,Rejected,Fall 2025,International,3.7,321.0,princeton university,13,Princeton University,United States of America,13.0
-Princeton University,Computer Science Masters,Rejected,Fall 2025,International,3.7,321.0,princeton university,13,Princeton University,United States of America,13.0
-Carnegie Mellon University,Computer Science Masters,Rejected,Fall 2025,International,3.7,312.0,carnegie mellon university,3,Carnegie Mellon University,United States of America,3.0
-Stanford University,Computer Science Masters,Rejected,Fall 2025,International,3.93,324.0,stanford university,2,Stanford University,United States of America,2.0
-Stanford University,Computer Science Masters,Rejected,Fall 2025,International,4.0,331.0,stanford university,2,Stanford University,United States of America,2.0
-Carnegie Mellon University,Computer Science Masters,Rejected,Fall 2025,International,3.87,336.0,carnegie mellon university,3,Carnegie Mellon University,United States of America,3.0
-Yale University,Computer Science Masters,Rejected,Fall 2025,International,3.94,315.0,yale university,26,Yale University,United States of America,26.0
 Dartmouth College,Computer Science Masters,Rejected,Fall 2025,International,3.7,170.0,dartmouth college,401-450,Dartmouth College,United States of America,425.5
 Carnegie Mellon University,Computer Science Masters,Rejected,Fall 2025,International,2.8,170.0,carnegie mellon university,3,Carnegie Mellon University,United States of America,3.0
-University of Virginia,Computer Science Masters,Rejected,Fall 2025,International,3.76,324.0,university of virginia,201-250,University of Virginia,United States of America,225.5
-Carnegie Mellon University,Computer Science Masters,Rejected,Fall 2025,International,3.91,316.0,carnegie mellon university,3,Carnegie Mellon University,United States of America,3.0
-Princeton University,Computer Science Masters,Rejected,Fall 2025,International,3.92,328.0,princeton university,13,Princeton University,United States of America,13.0
-Princeton University,Computer Science Masters,Rejected,Fall 2025,American,3.55,324.0,princeton university,13,Princeton University,United States of America,13.0
-Princeton University,Computer Science Masters,Rejected,Fall 2025,International,4.0,331.0,princeton university,13,Princeton University,United States of America,13.0
-Princeton University,Computer Science Masters,Rejected,Fall 2025,International,3.7,340.0,princeton university,13,Princeton University,United States of America,13.0
-Carnegie Mellon University,Computer Science Masters,Rejected,Fall 2025,International,3.6,321.0,carnegie mellon university,3,Carnegie Mellon University,United States of America,3.0
-Imperial College London,Computer Science Masters,Rejected,Fall 2025,International,3.18,326.0,imperial college london,22,Imperial College London,United Kingdom,22.0
-Carnegie Mellon University,Computer Science Masters,Rejected,Fall 2025,International,3.62,319.0,carnegie mellon university,3,Carnegie Mellon University,United States of America,3.0
-Carnegie Mellon University,Computer Science Masters,Rejected,Fall 2025,International,3.4,327.0,carnegie mellon university,3,Carnegie Mellon University,United States of America,3.0
-Carnegie Mellon University,Computer Science Masters,Rejected,Fall 2025,American,3.94,330.0,carnegie mellon university,3,Carnegie Mellon University,United States of America,3.0
 University of Gothenburg,Computer Science Masters,Rejected,Fall 2025,American,3.2,164.0,university of gothenburg,401-450,University of Gothenburg,Sweden,425.5
-University of California (UCLA),Computer Science Masters,Rejected,Fall 2025,International,3.92,333.0,university of california ucla,16,University of California. Los Angeles (UCLA),United States of America,16.0
 Northwestern University,Computer Science Masters,Rejected,Fall 2025,International,3.7,170.0,northwestern university,118,Northwestern University,United States of America,118.0
-University of Wisconsin,Computer Science Masters,Rejected,Fall 2025,International,3.72,336.0,university of wisconsin,=110,University of Wisconsin-Madison,United States of America,110.0
 University of Wisconsin,Computer Science Masters,Rejected,Fall 2025,International,3.58,167.0,university of wisconsin,=110,University of Wisconsin-Madison,United States of America,110.0
-Northwestern University,Computer Science Masters,Rejected,Fall 2025,International,3.72,318.0,northwestern university,118,Northwestern University,United States of America,118.0
 North Carolina State University,Computer Science Masters,Rejected,Fall 2025,International,3.55,165.0,north carolina state university,201-250,North Carolina State University,United States of America,225.5
 McGill University,Computer Science Masters,Rejected,Fall 2024,International,3.95,169.0,mcgill university,48,McGill University,Canada,48.0
 Purdue University,Computer Science Masters,Rejected,Fall 2024,International,3.34,165.0,purdue university,73,Purdue University,United States of America,73.0
@@ -2715,7 +2377,6 @@ Stanford University,Computer Science Masters,Rejected,Fall 2022,International,3.
 University of Pennsylvania,Computer Science Masters,Rejected,Fall 2022,International,3.5,167.0,university of pennsylvania,=41,University of Pennsylvania,United States of America,41.0
 Washington State University,Computer Science Masters,Rejected,Fall 2022,International,2.9,157.0,washington state university,351-400,Washington State University,United States of America,375.5
 Yale University,Computer Science Masters,Rejected,Fall 2022,International,3.78,167.0,yale university,26,Yale University,United States of America,26.0
-Arizona State University,Computer Science Masters,Rejected,Fall 2022,International,3.75,305.0,arizona state university,=134,Arizona State University,United States of America,134.0
 Carnegie Mellon University,Computer Science Masters,Rejected,Fall 2022,American,3.94,163.0,carnegie mellon university,3,Carnegie Mellon University,United States of America,3.0
 Princeton University,Computer Science Masters,Rejected,Fall 2022,American,4.0,168.0,princeton university,13,Princeton University,United States of America,13.0
 University of Pennsylvania,Computer Science Masters,Rejected,Fall 2022,International,3.74,168.0,university of pennsylvania,=41,University of Pennsylvania,United States of America,41.0
@@ -2814,7 +2475,6 @@ University of Wisconsin,Computer Science Masters,Rejected,Fall 2022,Internationa
 University of Wisconsin,Computer Science Masters,Rejected,Fall 2022,International,3.9,164.0,university of wisconsin,=110,University of Wisconsin-Madison,United States of America,110.0
 University of Wisconsin,Computer Science Masters,Rejected,Fall 2022,International,3.75,169.0,university of wisconsin,=110,University of Wisconsin-Madison,United States of America,110.0
 University of Wisconsin,Computer Science Masters,Rejected,Fall 2022,International,3.17,170.0,university of wisconsin,=110,University of Wisconsin-Madison,United States of America,110.0
-University of Wisconsin,Computer Science Masters,Rejected,Fall 2022,International,3.8,320.0,university of wisconsin,=110,University of Wisconsin-Madison,United States of America,110.0
 University of Wisconsin,Computer Science Masters,Rejected,Fall 2022,International,3.94,170.0,university of wisconsin,=110,University of Wisconsin-Madison,United States of America,110.0
 University of Wisconsin,Computer Science Masters,Rejected,Fall 2022,International,3.88,170.0,university of wisconsin,=110,University of Wisconsin-Madison,United States of America,110.0
 University of Wisconsin,Computer Science Masters,Rejected,Fall 2022,International,3.1,163.0,university of wisconsin,=110,University of Wisconsin-Madison,United States of America,110.0
@@ -2838,7 +2498,6 @@ Carnegie Mellon University,Computer Science Masters,Rejected,Fall 2022,Internati
 University Of Ottawa,Computer Science Masters,Rejected,Fall 2022,International,3.11,167.0,university of ottawa,251-300,University of Ottawa,Canada,275.5
 Carnegie Mellon University,Computer Science Masters,Rejected,Fall 2022,International,3.65,167.0,carnegie mellon university,3,Carnegie Mellon University,United States of America,3.0
 Carnegie Mellon University,Computer Science Masters,Rejected,Fall 2022,International,3.17,161.0,carnegie mellon university,3,Carnegie Mellon University,United States of America,3.0
-Carnegie Mellon University,Computer Science Masters,Rejected,Fall 2022,International,4.0,322.0,carnegie mellon university,3,Carnegie Mellon University,United States of America,3.0
 Carnegie Mellon University,Computer Science Masters,Rejected,Fall 2022,International,3.88,168.0,carnegie mellon university,3,Carnegie Mellon University,United States of America,3.0
 Carnegie Mellon University,Computer Science Masters,Rejected,Fall 2022,American,4.0,170.0,carnegie mellon university,3,Carnegie Mellon University,United States of America,3.0
 Carnegie Mellon University,Computer Science (MS ML) Masters,Rejected,Fall 2022,International,3.88,169.0,carnegie mellon university,3,Carnegie Mellon University,United States of America,3.0
@@ -2868,7 +2527,6 @@ University of Pennsylvania,Computer Science Masters,Rejected,Fall 2022,Internati
 University of Pennsylvania,Computer Science Masters,Rejected,Fall 2022,International,3.3,169.0,university of pennsylvania,=41,University of Pennsylvania,United States of America,41.0
 University of Pennsylvania,Computer Science Masters,Rejected,Fall 2022,International,3.89,167.0,university of pennsylvania,=41,University of Pennsylvania,United States of America,41.0
 Arizona State University,Computer Science Masters,Rejected,Fall 2022,International,3.6,166.0,arizona state university,=134,Arizona State University,United States of America,134.0
-University of Pennsylvania,Computer Science Masters,Rejected,Fall 2022,International,3.61,328.0,university of pennsylvania,=41,University of Pennsylvania,United States of America,41.0
 University of Pennsylvania,Computer Science Masters,Rejected,Fall 2022,International,3.76,167.0,university of pennsylvania,=41,University of Pennsylvania,United States of America,41.0
 University of Pennsylvania,Computer Science Masters,Rejected,Fall 2022,American,3.8,165.0,university of pennsylvania,=41,University of Pennsylvania,United States of America,41.0
 University of Pennsylvania,Computer Science Masters,Rejected,Fall 2022,International,3.4,160.0,university of pennsylvania,=41,University of Pennsylvania,United States of America,41.0
@@ -2903,7 +2561,6 @@ ETH Zurich,Computer Science Masters,Rejected,Fall 2021,International,3.69,168.0,
 Northeastern University,Computer Science Masters,Rejected,Fall 2021,International,3.79,169.0,northeastern university,=197,Northeastern University,United States of America,197.0
 University of Wisconsin,Computer Science Masters,Rejected,Fall 2021,International,3.1,162.0,university of wisconsin,=110,University of Wisconsin-Madison,United States of America,110.0
 Syracuse University,Computer Science Masters,Rejected,Fall 2021,American,3.03,159.0,syracuse university,501-550,Syracuse University,United States of America,525.5
-Northeastern University,Computer Science Masters,Rejected,Fall 2021,International,3.2,327.0,northeastern university,=197,Northeastern University,United States of America,197.0
 McGill University,Computer Science (Thesis) Masters,Rejected,F20,International,3.4,170.0,mcgill university,48,McGill University,Canada,48.0
 University of Southern California,Computer Science Masters,Rejected,F20,International,3.48,162.0,university of southern california,49,University of Southern California,United States of America,49.0
 University of Wisconsin,Computer Science PMP Masters,Rejected,F20,American,3.04,167.0,university of wisconsin,=110,University of Wisconsin-Madison,United States of America,110.0
@@ -2927,7 +2584,6 @@ University of Massachusetts Amherst,Computer Science Masters,Rejected,F20,Intern
 Georgia Institute of Technology,Computer Science Masters,Rejected,F20,American,3.98,169.0,georgia institute of technology,40,Georgia Institute of Technology,United States of America,40.0
 University of Texas at Austin,Computer Science Masters,Rejected,F20,International,3.76,169.0,university of texas at austin,=41,University of Texas at Austin,United States of America,41.0
 University of Texas at Austin,Computer Science Masters,Rejected,F20,International,3.4,170.0,university of texas at austin,=41,University of Texas at Austin,United States of America,41.0
-University of Texas at Austin,Computer Science Masters,Rejected,F20,American,3.87,330.0,university of texas at austin,=41,University of Texas at Austin,United States of America,41.0
 Brown University,Computer Science Masters,Rejected,F20,International,3.53,164.0,brown university,=107,Brown University,United States of America,107.0
 Georgia Institute of Technology,Computer Science Masters,Rejected,F20,International,3.2,169.0,georgia institute of technology,40,Georgia Institute of Technology,United States of America,40.0
 University of Massachusetts Amherst,Computer Science Masters,Rejected,F20,International,3.7,167.0,university of massachusetts amherst,=127,University of Massachusetts Amherst,United States of America,127.0
@@ -3053,7 +2709,6 @@ Dalhousie University,Computer Science Masters,Rejected,F14,International,2.85,16
 University of Chicago,Computer Science Masters,Rejected,F14,American,3.4,157.0,university of chicago,50,University of Chicago,United States of America,50.0
 University of Southern California,Computer Science (Game Development) Masters,Rejected,F14,International,3.4,164.0,university of southern california,49,University of Southern California,United States of America,49.0
 Columbia University,Computer Science Masters,Rejected,F14,International,3.97,165.0,columbia university,=27,Columbia University,United States of America,27.0
-Simon Fraser University,Computer Science Masters,Rejected,F14,International,3.82,500.0,simon fraser university,201-250,Simon Fraser University,Canada,225.5
 "University Of Minnesota, Twin Cities",Computer Science Masters,Rejected,F14,International,3.86,161.0,university of minnesota twin cities,201-250,University of Minnesota Twin Cities,United States of America,225.5
 "University Of Minnesota, Twin Cities",Computer Science Masters,Rejected,F14,International,3.0,168.0,university of minnesota twin cities,201-250,University of Minnesota Twin Cities,United States of America,225.5
 University Of Minnesota Twin Cities,Computer Science Masters,Rejected,F14,International,3.2,161.0,university of minnesota twin cities,201-250,University of Minnesota Twin Cities,United States of America,225.5
@@ -3063,10 +2718,8 @@ University Of Alberta,Computer Science Masters,Rejected,F14,International,3.6,16
 "University of California, Irvine",Computer Science Masters,Rejected,F14,American,3.89,158.0,university of california irvine,=122,University of California. Irvine,United States of America,122.0
 "University of California, Irvine",Computer Science Masters,Rejected,F14,International,3.82,158.0,university of california irvine,=122,University of California. Irvine,United States of America,122.0
 University Of Minnesota Twin Cities,Computer Science Masters,Rejected,F14,International,3.66,158.0,university of minnesota twin cities,201-250,University of Minnesota Twin Cities,United States of America,225.5
-State University Of New York At Stony Brook,Computer Science Masters,Rejected,F14,International,3.76,780.0,stony brook university state university of new york,351-400,Stony Brook University. State University of New York,United States of America,375.5
 "University of California, Irvine",Computer Science Masters,Rejected,F14,American,3.0,161.0,university of california irvine,=122,University of California. Irvine,United States of America,122.0
 North Carolina State University,Computer Science Masters,Rejected,F14,International,3.9,157.0,north carolina state university,201-250,North Carolina State University,United States of America,225.5
-Columbia University,Computer Science Masters,Rejected,F13,American,3.87,680.0,columbia university,=27,Columbia University,United States of America,27.0
 University of Oregon,Computer Science Masters,Rejected,F14,American,3.85,152.0,university of oregon,651-700,University of Oregon,United States of America,675.5
 Stony Brook University,Computer Science Masters,Rejected,F14,International,3.4,165.0,stony brook university state university of new york,351-400,Stony Brook University. State University of New York,United States of America,375.5
 "University Of California, San Diego (UCSD)",Computer Science Masters,Rejected,F14,American,3.5,150.0,university of california san diego ucsd,=37,University of California. San Diego (UCSD),United States of America,37.0
@@ -3075,7 +2728,6 @@ Stony Brook University,Computer Science Masters,Rejected,F14,International,3.4,1
 University of Notre Dame,Computer Science Masters,Rejected,F14,International,3.54,156.0,university of notre dame,301-350,University of Notre Dame,United States of America,325.5
 University of Notre Dame,Computer Science Masters,Rejected,F14,International,3.3,170.0,university of notre dame,301-350,University of Notre Dame,United States of America,325.5
 University of California (UCLA),Computer Science Masters,Rejected,F14,International,3.3,169.0,university of california ucla,16,University of California. Los Angeles (UCLA),United States of America,16.0
-University Of Calgary,Computer Science Masters,Rejected,F14,International,3.82,800.0,university of calgary,201-250,University of Calgary,Canada,225.5
 Georgia Institute Of Technology,Computer Science Masters,Rejected,F14,International,4.0,163.0,georgia institute of technology,40,Georgia Institute of Technology,United States of America,40.0
 University of California (UCLA),Computer Science Masters,Rejected,F14,International,3.8,168.0,university of california ucla,16,University of California. Los Angeles (UCLA),United States of America,16.0
 Georgia Institute of Technology,Computer Science Masters,Rejected,F14,International,3.8,168.0,georgia institute of technology,40,Georgia Institute of Technology,United States of America,40.0
@@ -3118,7 +2770,6 @@ University of Texas at Austin,Computer Science Masters,Rejected,F14,Internationa
 University of Texas at Austin,Computer Science Masters,Rejected,F14,American,3.42,165.0,university of texas at austin,=41,University of Texas at Austin,United States of America,41.0
 University of California (UCSB),Computer Science Masters,Rejected,F14,International,3.8,168.0,university of california santa barbara ucsb,201-250,University of California. Santa Barbara (UCSB),United States of America,225.5
 University of California (UCSB),Computer Science Masters,Rejected,F14,International,3.88,164.0,university of california santa barbara ucsb,201-250,University of California. Santa Barbara (UCSB),United States of America,225.5
-University of California (UCSB),Computer Science Masters,Rejected,F14,International,3.76,780.0,university of california santa barbara ucsb,201-250,University of California. Santa Barbara (UCSB),United States of America,225.5
 Brown University,Computer Science Masters,Rejected,F14,American,3.61,163.0,brown university,=107,Brown University,United States of America,107.0
 Stanford University,Computer Science Masters,Rejected,F14,International,4.0,164.0,stanford university,2,Stanford University,United States of America,2.0
 Stanford University,Computer Science Masters,Rejected,F14,American,3.86,164.0,stanford university,2,Stanford University,United States of America,2.0
@@ -3126,7 +2777,6 @@ Case Western Reserve University,Computer Science Masters,Rejected,F14,Internatio
 Stanford University,Computer Science Masters,Rejected,F14,International,3.9,166.0,stanford university,2,Stanford University,United States of America,2.0
 Stanford University,Computer Science Masters,Rejected,F14,International,3.89,164.0,stanford university,2,Stanford University,United States of America,2.0
 Stanford University,Computer Science Masters,Rejected,F14,International,4.0,164.0,stanford university,2,Stanford University,United States of America,2.0
-Stanford University,Computer Science Masters,Rejected,F14,International,3.88,800.0,stanford university,2,Stanford University,United States of America,2.0
 Stanford University,Computer Science Masters,Rejected,F14,American,3.72,167.0,stanford university,2,Stanford University,United States of America,2.0
 Stanford University,Computer Science Masters,Rejected,F14,International,3.8,166.0,stanford university,2,Stanford University,United States of America,2.0
 University Of Massachusetts Amherst,Computer Science Masters,Rejected,F14,International,3.95,166.0,university of massachusetts amherst,=127,University of Massachusetts Amherst,United States of America,127.0
@@ -3148,7 +2798,6 @@ Mcgill University,Computer Science Masters,Rejected,F14,International,3.75,157.0
 University Of British Columbia,Computer Science Masters,Rejected,F14,International,3.5,164.0,university of british columbia,=31,University of British Columbia,Canada,31.0
 Harvard University,Computer Science Masters,Rejected,F14,American,3.26,164.0,harvard university,7,Harvard University,United States of America,7.0
 Harvard University,Computer Science Masters,Rejected,F14,American,3.86,164.0,harvard university,7,Harvard University,United States of America,7.0
-Rensselaer Polytechnic Institute,Computer Science Masters,Rejected,F14,International,3.5,800.0,rensselaer polytechnic institute,501-550,Rensselaer Polytechnic Institute,United States of America,525.5
 Yale University,Computer Science Masters,Rejected,F14,American,3.7,163.0,yale university,26,Yale University,United States of America,26.0
 University of Chicago,Computer Science Masters,Rejected,F14,International,3.0,165.0,university of chicago,50,University of Chicago,United States of America,50.0
 University Of Virginia,Computer Science Masters,Rejected,F14,International,3.25,164.0,university of virginia,201-250,University of Virginia,United States of America,225.5
@@ -3167,7 +2816,6 @@ Princeton University,Computer Science Masters,Rejected,F14,American,3.54,162.0,p
 Princeton University,Computer Science Masters,Rejected,F14,American,3.86,164.0,princeton university,13,Princeton University,United States of America,13.0
 Carnegie Mellon University,Computer Science Masters,Rejected,F14,International,3.88,165.0,carnegie mellon university,3,Carnegie Mellon University,United States of America,3.0
 Carnegie Mellon University,Computer Science Masters,Rejected,F14,International,3.85,166.0,carnegie mellon university,3,Carnegie Mellon University,United States of America,3.0
-Carnegie Mellon University,Computer Science Masters,Rejected,F14,International,3.5,800.0,carnegie mellon university,3,Carnegie Mellon University,United States of America,3.0
 "University Of Wisconsin, Madison",Computer Science Masters,Rejected,F14,International,4.0,165.0,university of wisconsin,=110,University of Wisconsin-Madison,United States of America,110.0
 Carnegie Mellon University,Computer Science Masters,Rejected,F14,International,3.97,147.0,carnegie mellon university,3,Carnegie Mellon University,United States of America,3.0
 Carnegie Mellon University,Computer Science Masters,Rejected,S14,American,3.54,162.0,carnegie mellon university,3,Carnegie Mellon University,United States of America,3.0
@@ -3202,10 +2850,8 @@ Simon Fraser University,Computer Science Masters,Rejected,F13,International,3.2,
 Michigan State University,Computer Science Masters,Rejected,F13,International,3.8,161.0,michigan state university,=136,Michigan State University,United States of America,136.0
 University Of Waterloo,Computer Science Masters,Rejected,F13,International,3.9,170.0,university of waterloo,33,University of Waterloo,Canada,33.0
 "University of California, Irvine",Computer Science Masters,Rejected,F13,International,3.9,170.0,university of california irvine,=122,University of California. Irvine,United States of America,122.0
-Brown University,Computer Science Masters,Rejected,F13,American,3.65,800.0,brown university,=107,Brown University,United States of America,107.0
 University Of Waterloo,Computer Science Masters,Rejected,F13,International,3.5,154.0,university of waterloo,33,University of Waterloo,Canada,33.0
 University Of Alberta,Computer Science Masters,Rejected,F13,International,3.68,161.0,university of alberta,=105,University of Alberta,Canada,105.0
-University of California (UCLA),Computer Science Masters,Rejected,F13,International,3.6,800.0,university of california ucla,16,University of California. Los Angeles (UCLA),United States of America,16.0
 University of California (UCLA),Computer Science Masters,Rejected,F13,International,3.33,159.0,university of california ucla,16,University of California. Los Angeles (UCLA),United States of America,16.0
 University of California (UCLA),Computer Science Masters,Rejected,F13,International,3.52,169.0,university of california ucla,16,University of California. Los Angeles (UCLA),United States of America,16.0
 Oregon State University,Computer Science Masters,Rejected,F13,International,3.9,170.0,oregon state university,751-850,Oregon State University,United States of America,800.5
@@ -3219,8 +2865,6 @@ University of California (UCLA),Computer Science Masters,Rejected,F13,Internatio
 Dartmouth College,Computer Science Masters,Rejected,F13,International,3.95,170.0,dartmouth college,401-450,Dartmouth College,United States of America,425.5
 Boston University,Computer Science Masters,Rejected,F13,International,3.95,170.0,boston university,=107,Boston University,United States of America,107.0
 University of California (UCLA),Computer Science Masters,Rejected,F13,International,3.0,157.0,university of california ucla,16,University of California. Los Angeles (UCLA),United States of America,16.0
-Cornell University,Computer Science Masters,Rejected,F13,American,3.65,800.0,cornell university,18,Cornell University,United States of America,18.0
-Cornell University,Computer Science Masters,Rejected,F13,International,3.2,800.0,cornell university,18,Cornell University,United States of America,18.0
 Cornell College,Computer Science Masters,Rejected,F13,International,3.0,170.0,cornell university,18,Cornell University,United States of America,18.0
 University of Massachusetts Amherst,Computer Science Masters,Rejected,F13,International,3.0,170.0,university of massachusetts amherst,=127,University of Massachusetts Amherst,United States of America,127.0
 Georgia Institute of Technology,Computer Science Masters,Rejected,F13,International,3.0,167.0,georgia institute of technology,40,Georgia Institute of Technology,United States of America,40.0
@@ -3232,12 +2876,10 @@ Duke University,Computer Science Masters,Rejected,F13,International,3.4,170.0,du
 Georgia Institute Of Technology,Computer Science Masters,Rejected,F13,International,3.9,167.0,georgia institute of technology,40,Georgia Institute of Technology,United States of America,40.0
 Georgia Institute Of Technology,Computer Science Masters,Rejected,F13,American,3.2,95.0,georgia institute of technology,40,Georgia Institute of Technology,United States of America,40.0
 University of Texas at Austin,Computer Science Masters,Rejected,F13,International,3.5,154.0,university of texas at austin,=41,University of Texas at Austin,United States of America,41.0
-University of Texas at Austin,Computer Science Masters,Rejected,F13,International,3.88,800.0,university of texas at austin,=41,University of Texas at Austin,United States of America,41.0
 University of Chicago,Computer Science Masters,Rejected,F13,International,3.0,170.0,university of chicago,50,University of Chicago,United States of America,50.0
 Purdue University,Computer Science Masters,Rejected,F13,International,3.0,170.0,purdue university,73,Purdue University,United States of America,73.0
 Columbia University,Computer Science Masters,Rejected,F13,International,3.52,169.0,columbia university,=27,Columbia University,United States of America,27.0
 Harvard University,Computer Science Masters,Rejected,F13,International,3.9,165.0,harvard university,7,Harvard University,United States of America,7.0
-Stanford University,Computer Science Masters,Rejected,F13,International,3.87,800.0,stanford university,2,Stanford University,United States of America,2.0
 Stanford University,Computer Science Masters,Rejected,F13,American,3.33,170.0,stanford university,2,Stanford University,United States of America,2.0
 Stanford University,Computer Science Masters,Rejected,F13,American,3.3,166.0,stanford university,2,Stanford University,United States of America,2.0
 Stanford University,Computer Science Masters,Rejected,F13,International,3.89,168.0,stanford university,2,Stanford University,United States of America,2.0
@@ -3253,7 +2895,6 @@ Princeton University,Computer Science Masters,Rejected,S13,International,3.7,170
 University Of California Berkeley (UCB),Computer Science Masters,Rejected,F13,International,3.8,167.0,university of california berkeley ucb,8,University of California. Berkeley (UCB),United States of America,8.0
 University of California (UCSB),Computer Science Masters,Rejected,F13,American,3.38,154.0,university of california santa barbara ucsb,201-250,University of California. Santa Barbara (UCSB),United States of America,225.5
 University of California (UCSB),Computer Science Masters,Rejected,F13,International,3.5,167.0,university of california santa barbara ucsb,201-250,University of California. Santa Barbara (UCSB),United States of America,225.5
-University of California (UCSB),Computer Science Masters,Rejected,F13,International,3.66,800.0,university of california santa barbara ucsb,201-250,University of California. Santa Barbara (UCSB),United States of America,225.5
 University Of British Columbia,Computer Science Masters,Rejected,F13,American,3.81,164.0,university of british columbia,=31,University of British Columbia,Canada,31.0
 University of Texas at Austin,Computer Science Masters,Rejected,F13,International,3.5,170.0,university of texas at austin,=41,University of Texas at Austin,United States of America,41.0
 University of Texas at Austin,Computer Science Masters,Rejected,F13,International,3.3,168.0,university of texas at austin,=41,University of Texas at Austin,United States of America,41.0
@@ -3262,7 +2903,6 @@ University of Texas at Austin,Computer Science Masters,Rejected,F13,Internationa
 University of Texas at Austin,Computer Science Masters,Rejected,F13,International,3.6,165.0,university of texas at austin,=41,University of Texas at Austin,United States of America,41.0
 University of Texas at Austin,Computer Science Masters,Rejected,F13,International,3.89,168.0,university of texas at austin,=41,University of Texas at Austin,United States of America,41.0
 University of Texas at Austin,Computer Science Masters,Rejected,F13,International,3.84,167.0,university of texas at austin,=41,University of Texas at Austin,United States of America,41.0
-University of Texas at Austin,Computer Science Masters,Rejected,F13,American,3.76,740.0,university of texas at austin,=41,University of Texas at Austin,United States of America,41.0
 Columbia University,Computer Science Masters,Rejected,F13,International,3.44,158.0,columbia university,=27,Columbia University,United States of America,27.0
 Penn State University,Computer Science Masters,Rejected,F13,International,3.44,158.0,pennsylvania state university,=102,Pennsylvania State University,United States of America,102.0
 University of Texas at Austin,Computer Science Masters,Rejected,F13,American,3.97,164.0,university of texas at austin,=41,University of Texas at Austin,United States of America,41.0
@@ -3292,168 +2932,44 @@ University Of Waterloo,Computer Science Masters,Rejected,F13,International,3.54,
 Carnegie Mellon University,Computer Science Masters,Rejected,F13,American,3.5,170.0,carnegie mellon university,3,Carnegie Mellon University,United States of America,3.0
 Carnegie Mellon University,Computer Science Masters,Rejected,F13,International,3.95,170.0,carnegie mellon university,3,Carnegie Mellon University,United States of America,3.0
 Carnegie Mellon University,Computer Science Masters,Rejected,F13,International,3.84,165.0,carnegie mellon university,3,Carnegie Mellon University,United States of America,3.0
-Purdue University,Computer Science Masters,Rejected,F13,American,3.65,800.0,purdue university,73,Purdue University,United States of America,73.0
 Purdue University,Computer Science Masters,Rejected,F13,International,3.8,162.0,purdue university,73,Purdue University,United States of America,73.0
-Purdue University,Computer Science Masters,Rejected,F13,International,3.8,510.0,purdue university,73,Purdue University,United States of America,73.0
 Northwestern University,Computer Science Masters,Rejected,S13,American,3.9,170.0,northwestern university,118,Northwestern University,United States of America,118.0
 George Mason University,Computer Science Masters,Rejected,S13,International,3.85,159.0,george mason university,501-550,George Mason University,United States of America,525.5
 Columbia University,Computer Science Masters,Rejected,F12,American,3.5,163.0,columbia university,=27,Columbia University,United States of America,27.0
-Northwestern University,Computer Science Masters,Rejected,F12,International,2.9,770.0,northwestern university,118,Northwestern University,United States of America,118.0
 "University of California, Irvine",Computer Science Masters,Rejected,F12,American,4.0,169.0,university of california irvine,=122,University of California. Irvine,United States of America,122.0
 Columbia University,Computer Science Masters,Rejected,F12,International,3.14,166.0,columbia university,=27,Columbia University,United States of America,27.0
 "University of California, Irvine",Computer Science Masters,Rejected,F12,International,3.7,154.0,university of california irvine,=122,University of California. Irvine,United States of America,122.0
 "University of California, Irvine",Computer Science Masters,Rejected,F12,International,3.3,168.0,university of california irvine,=122,University of California. Irvine,United States of America,122.0
-University of Florida,Computer Science Masters,Rejected,F12,International,3.83,770.0,university of florida,=161,University of Florida,United States of America,161.0
 Simon Fraser University,Computer Science Masters,Rejected,F12,International,3.8,164.0,simon fraser university,201-250,Simon Fraser University,Canada,225.5
 New York University (NYU),Computer Science Masters,Rejected,F12,International,3.6,158.0,new york university nyu,17,New York University (NYU),United States of America,17.0
 New York University (NYU),Computer Science Masters,Rejected,F12,International,3.6,147.0,new york university nyu,17,New York University (NYU),United States of America,17.0
 Stony Brook University,Computer Science Masters,Rejected,F12,International,3.81,165.0,stony brook university state university of new york,351-400,Stony Brook University. State University of New York,United States of America,375.5
-Georgia Institute of Technology,Computer Science Masters,Rejected,F12,International,4.0,800.0,georgia institute of technology,40,Georgia Institute of Technology,United States of America,40.0
-University of California (UCLA),Computer Science Masters,Rejected,F12,International,4.0,800.0,university of california ucla,16,University of California. Los Angeles (UCLA),United States of America,16.0
-Stanford University,Computer Science Masters,Rejected,F12,International,4.0,800.0,stanford university,2,Stanford University,United States of America,2.0
-University Of Toronto,Computer Science Masters,Rejected,F12,International,4.0,800.0,university of toronto,12,University of Toronto,Canada,12.0
-Carnegie Mellon University,Computer Science Masters,Rejected,F12,International,4.0,800.0,carnegie mellon university,3,Carnegie Mellon University,United States of America,3.0
 Georgia Institute of Technology,Computer Science Masters,Rejected,F12,International,3.11,168.0,georgia institute of technology,40,Georgia Institute of Technology,United States of America,40.0
 Boston University,Computer Science Masters,Rejected,F12,International,3.35,166.0,boston university,=107,Boston University,United States of America,107.0
 Boston University,Computer Science Masters,Rejected,F12,International,3.6,166.0,boston university,=107,Boston University,United States of America,107.0
 Boston University,Computer Science Masters,Rejected,F12,American,3.53,168.0,boston university,=107,Boston University,United States of America,107.0
-Georgia Institute of Technology,Computer Science Masters,Rejected,F12,International,3.2,800.0,georgia institute of technology,40,Georgia Institute of Technology,United States of America,40.0
-University of California (UCSB),Computer Science Masters,Rejected,F12,International,3.1,560.0,university of california santa barbara ucsb,201-250,University of California. Santa Barbara (UCSB),United States of America,225.5
-University Of Virginia,Computer Science Masters,Rejected,F12,International,3.89,800.0,university of virginia,201-250,University of Virginia,United States of America,225.5
 Duke University,Computer Science Masters,Rejected,F12,International,3.11,168.0,duke university,72,Duke University,United States of America,72.0
 SUNY Stony Brook,Computer Science Masters,Rejected,F12,International,3.8,160.0,stony brook university state university of new york,351-400,Stony Brook University. State University of New York,United States of America,375.5
-University of California (UCSB),Computer Science Masters,Rejected,F12,International,3.2,800.0,university of california santa barbara ucsb,201-250,University of California. Santa Barbara (UCSB),United States of America,225.5
-Pennsylvania State University,Computer Science Masters,Rejected,F12,International,3.2,800.0,pennsylvania state university,=102,Pennsylvania State University,United States of America,102.0
-Duke University,Computer Science Masters,Rejected,F12,International,3.4,790.0,duke university,72,Duke University,United States of America,72.0
-SUNY Stony Brook,Computer Science Masters,Rejected,F12,International,3.3,780.0,stony brook university state university of new york,351-400,Stony Brook University. State University of New York,United States of America,375.5
 University of Wisconsin,Computer Science Masters,Rejected,F12,International,3.2,139.0,university of wisconsin,=110,University of Wisconsin-Madison,United States of America,110.0
 University of California (UCSB),Computer Science Masters,Rejected,F12,American,3.76,159.0,university of california santa barbara ucsb,201-250,University of California. Santa Barbara (UCSB),United States of America,225.5
-University Of California - Los Angeles,Computer Science Masters,Rejected,F12,International,3.4,780.0,university of california ucla,16,University of California. Los Angeles (UCLA),United States of America,16.0
-University of Wisconsin,Computer Science Masters,Rejected,F12,International,3.4,780.0,university of wisconsin,=110,University of Wisconsin-Madison,United States of America,110.0
 Harvard University,Computer Science Masters,Rejected,F12,International,3.7,138.0,harvard university,7,Harvard University,United States of America,7.0
-"University Of California, Los Angeles (UCLA)",Computer Science Masters,Rejected,F12,International,3.73,800.0,university of california ucla,16,University of California. Los Angeles (UCLA),United States of America,16.0
 Cornell University,Computer Science Masters,Rejected,F12,International,3.6,158.0,cornell university,18,Cornell University,United States of America,18.0
 University of California (UCLA),Computer Science Masters,Rejected,F12,International,3.71,163.0,university of california ucla,16,University of California. Los Angeles (UCLA),United States of America,16.0
 University of California (UCLA),Computer Science Masters,Rejected,F12,International,3.3,170.0,university of california ucla,16,University of California. Los Angeles (UCLA),United States of America,16.0
-"University Of California, Los Angeles (UCLA)",Computer Science Masters,Rejected,F12,International,3.3,800.0,university of california ucla,16,University of California. Los Angeles (UCLA),United States of America,16.0
-University of California (UCLA),Computer Science Masters,Rejected,F12,International,3.54,790.0,university of california ucla,16,University of California. Los Angeles (UCLA),United States of America,16.0
-University of Texas at Austin,Computer Science Masters,Rejected,F12,International,3.5,800.0,university of texas at austin,=41,University of Texas at Austin,United States of America,41.0
 University Of California Riverside.,Computer Science Masters,Rejected,F12,International,3.6,154.0,university of california riverside,451-500,University of California. Riverside,United States of America,475.5
-Carnegie Mellon University,Computer Science - VLIS Masters,Rejected,F12,International,3.73,800.0,carnegie mellon university,3,Carnegie Mellon University,United States of America,3.0
-University of California (UCSB),Computer Science Masters,Rejected,F12,International,3.73,480.0,university of california santa barbara ucsb,201-250,University of California. Santa Barbara (UCSB),United States of America,225.5
 Columbia University,Computer Science Masters,Rejected,F12,International,3.3,163.0,columbia university,=27,Columbia University,United States of America,27.0
 Stanford University,Computer Science Masters,Rejected,F12,International,3.71,163.0,stanford university,2,Stanford University,United States of America,2.0
 Stanford University,Computer Science Masters,Rejected,F12,American,3.6,163.0,stanford university,2,Stanford University,United States of America,2.0
 University of California (UCLA),Computer Science Masters,Rejected,F12,International,3.8,170.0,university of california ucla,16,University of California. Los Angeles (UCLA),United States of America,16.0
-"University Of Wisconsin, Madison (UW-Madison)",Computer Science Masters,Rejected,F12,International,3.6,800.0,university of wisconsin,=110,University of Wisconsin-Madison,United States of America,110.0
 UC Berkeley,"Computer Science (CS), MS Masters",Rejected,F12,American,3.85,88.0,university of california berkeley ucb,8,University of California. Berkeley (UCB),United States of America,8.0
-University of Massachusetts Amherst,Computer Science Masters,Rejected,F12,International,3.17,800.0,university of massachusetts amherst,=127,University of Massachusetts Amherst,United States of America,127.0
 University Of Toronto,Computer Science Masters,Rejected,F12,International,3.8,156.0,university of toronto,12,University of Toronto,Canada,12.0
-U Of Wisconsin Madison,Computer Science Masters,Rejected,F12,International,3.6,740.0,university of wisconsin,=110,University of Wisconsin-Madison,United States of America,110.0
-U Of Wisconsin Madison,Computer Science Masters,Rejected,F12,International,3.7,800.0,university of wisconsin,=110,University of Wisconsin-Madison,United States of America,110.0
-University of California (UCSB),Computer Science Masters,Rejected,F12,International,3.3,800.0,university of california santa barbara ucsb,201-250,University of California. Santa Barbara (UCSB),United States of America,225.5
-UC Berkeley (UCB),Computer Science Masters,Rejected,F12,International,3.7,800.0,university of california berkeley ucb,8,University of California. Berkeley (UCB),United States of America,8.0
-University Of California - Berkeley (UCB),Computer Science Masters,Rejected,F12,American,3.9,800.0,university of california berkeley ucb,8,University of California. Berkeley (UCB),United States of America,8.0
 UC Berkeley (UCB),Computer Science Masters,Rejected,F12,American,3.6,157.0,university of california berkeley ucb,8,University of California. Berkeley (UCB),United States of America,8.0
 UC Berkeley (UCB),Computer Science Masters,Rejected,F12,International,3.8,170.0,university of california berkeley ucb,8,University of California. Berkeley (UCB),United States of America,8.0
-UC Berkeley (UCB),Computer Science Masters,Rejected,F12,American,3.97,800.0,university of california berkeley ucb,8,University of California. Berkeley (UCB),United States of America,8.0
-University of Wisconsin,Computer Science Masters,Rejected,F12,International,3.3,800.0,university of wisconsin,=110,University of Wisconsin-Madison,United States of America,110.0
 University of California (UCSC),Computer Science Masters,Rejected,F12,International,3.3,168.0,university of california santa cruz,501-550,University of California. Santa Cruz,United States of America,525.5
 University Of Toronto,Computer Science Masters,Rejected,F12,American,3.31,164.0,university of toronto,12,University of Toronto,Canada,12.0
-University Of Toronto,Computer Science Masters,Rejected,F12,International,3.8,800.0,university of toronto,12,University of Toronto,Canada,12.0
-University Of Toronto,Computer Science Masters,Rejected,F12,International,3.35,800.0,university of toronto,12,University of Toronto,Canada,12.0
-University Of Toronto,Computer Science Masters,Rejected,F12,International,3.5,800.0,university of toronto,12,University of Toronto,Canada,12.0
-University of California (UCSC),Computer Science Masters,Rejected,F12,International,3.42,600.0,university of california santa cruz,501-550,University of California. Santa Cruz,United States of America,525.5
-Princeton University,Computer Science Masters,Rejected,F12,International,3.75,800.0,princeton university,13,Princeton University,United States of America,13.0
 Princeton University,Computer Science Masters,Rejected,F12,American,3.73,164.0,princeton university,13,Princeton University,United States of America,13.0
-Yale University,Computer Science Masters,Rejected,F12,International,3.46,800.0,yale university,26,Yale University,United States of America,26.0
-Princeton University,Computer Science Masters,Rejected,F12,International,3.66,790.0,princeton university,13,Princeton University,United States of America,13.0
 Princeton University,Computer Science Masters,Rejected,F12,American,3.9,161.0,princeton university,13,Princeton University,United States of America,13.0
-Princeton University,Computer Science Masters,Rejected,F12,International,3.75,800.0,princeton university,13,Princeton University,United States of America,13.0
-Carnegie Mellon University,Computer Science Masters,Rejected,F12,International,3.3,800.0,carnegie mellon university,3,Carnegie Mellon University,United States of America,3.0
 Carnegie Mellon University,Computer Science Masters,Rejected,F12,International,3.4,162.0,carnegie mellon university,3,Carnegie Mellon University,United States of America,3.0
-Carnegie Mellon University,Computer Science Masters,Rejected,F12,International,3.8,770.0,carnegie mellon university,3,Carnegie Mellon University,United States of America,3.0
-Carnegie Mellon University,Computer Science Masters,Rejected,F12,International,3.75,800.0,carnegie mellon university,3,Carnegie Mellon University,United States of America,3.0
-University Of Waterloo,Computer Science Masters,Rejected,F12,International,3.4,760.0,university of waterloo,33,University of Waterloo,Canada,33.0
-ETH Zurich,Computer Science Masters,Rejected,F12,International,3.8,800.0,eth zurich,10,ETH Zurich - Swiss Federal Institute of Technology,Switzerland,10.0
-Northeastern University,Computer Science Masters,Rejected,F12,International,3.2,790.0,northeastern university,=197,Northeastern University,United States of America,197.0
-University Of Southern California (USC),Computer Science Masters,Rejected,F11,International,3.5,800.0,university of southern california,49,University of Southern California,United States of America,49.0
-Northeastern University,Computer Science Masters,Rejected,F11,International,2.87,620.0,northeastern university,=197,Northeastern University,United States of America,197.0
-University Of Waterloo,Computer Science Masters,Rejected,F11,International,3.6,800.0,university of waterloo,33,University of Waterloo,Canada,33.0
-University Of Saskatchewan,Computer Science Masters,Rejected,F11,International,3.97,800.0,university of saskatchewan,601-650,University of Saskatchewan,Canada,625.5
-Georgia Institute of Technology,Computer Science Masters,Rejected,F11,International,3.6,800.0,georgia institute of technology,40,Georgia Institute of Technology,United States of America,40.0
-Georgia Institute of Technology,Computer Science Masters,Rejected,F11,International,3.77,770.0,georgia institute of technology,40,Georgia Institute of Technology,United States of America,40.0
-Cornell University,Computer Science Masters,Rejected,F11,International,3.1,780.0,cornell university,18,Cornell University,United States of America,18.0
-University of California (UCSB),Computer Science Masters,Rejected,F11,International,3.0,710.0,university of california santa barbara ucsb,201-250,University of California. Santa Barbara (UCSB),United States of America,225.5
-University Of California - Los Angeles (UCLA),Computer Science Masters,Rejected,F11,International,3.92,800.0,university of california ucla,16,University of California. Los Angeles (UCLA),United States of America,16.0
-Purdue University,Computer Science Masters,Rejected,F11,International,3.97,400.0,purdue university,73,Purdue University,United States of America,73.0
-Purdue University,Computer Science Masters,Rejected,F11,International,3.77,770.0,purdue university,73,Purdue University,United States of America,73.0
-"University Of Californa, Los Angeles (UCLA)",Computer Science Masters,Rejected,F11,International,3.77,770.0,university of california ucla,16,University of California. Los Angeles (UCLA),United States of America,16.0
-University Of Toronto,Computer Science Masters,Rejected,F11,International,3.9,800.0,university of toronto,12,University of Toronto,Canada,12.0
-SUNY Stony Brook,Computer Science and Engineering Masters,Rejected,F11,International,3.3,750.0,stony brook university state university of new york,351-400,Stony Brook University. State University of New York,United States of America,375.5
-"University Of California, San Diego (UCSD)",Computer Science and Engineering Masters,Rejected,S11,International,3.1,580.0,university of california san diego ucsd,=37,University of California. San Diego (UCSD),United States of America,37.0
-Duke University,Computer Science Masters,Rejected,F11,International,3.4,800.0,duke university,72,Duke University,United States of America,72.0
-"University Of Californa, Los Angeles (UCLA)",Computer Science Masters,Rejected,F11,International,3.4,800.0,university of california ucla,16,University of California. Los Angeles (UCLA),United States of America,16.0
-"University Of Californa, Los Angeles (UCLA)",Computer Science Masters,Rejected,F11,International,3.6,800.0,university of california ucla,16,University of California. Los Angeles (UCLA),United States of America,16.0
-"University Of Californa, Los Angeles (UCLA)",Computer Science Masters,Rejected,F11,International,3.6,800.0,university of california ucla,16,University of California. Los Angeles (UCLA),United States of America,16.0
-University of California (UCSB),Computer Science Masters,Rejected,F11,International,3.66,800.0,university of california santa barbara ucsb,201-250,University of California. Santa Barbara (UCSB),United States of America,225.5
-Georgia Institute Of Technology,Computer Science Masters,Rejected,F11,International,3.9,800.0,georgia institute of technology,40,Georgia Institute of Technology,United States of America,40.0
-Georgia Institute Of Technology,Computer Science Masters,Rejected,F11,International,3.2,770.0,georgia institute of technology,40,Georgia Institute of Technology,United States of America,40.0
-University Of Wisconsin -Madison,Computer Science Masters,Rejected,F11,International,3.6,800.0,university of wisconsin,=110,University of Wisconsin-Madison,United States of America,110.0
-Stanford University,Computer Science Masters,Rejected,F11,International,3.95,790.0,stanford university,2,Stanford University,United States of America,2.0
-Stony Brook University,Computer Science Masters,Rejected,F11,International,3.98,740.0,stony brook university state university of new york,351-400,Stony Brook University. State University of New York,United States of America,375.5
-Stanford University,Computer Science Masters,Rejected,F11,International,3.77,770.0,stanford university,2,Stanford University,United States of America,2.0
-Stanford University,"Computer Science (CS), MS Masters",Rejected,F11,International,3.7,800.0,stanford university,2,Stanford University,United States of America,2.0
-Stanford University,Computer Science Masters,Rejected,F11,American,3.71,770.0,stanford university,2,Stanford University,United States of America,2.0
-Stanford University,Computer Scienced Computer Science Masters,Rejected,F11,International,3.7,470.0,stanford university,2,Stanford University,United States of America,2.0
-Stanford University,Computer Science Masters,Rejected,S11,American,3.3,740.0,stanford university,2,Stanford University,United States of America,2.0
-Stanford University,Computer Science Masters,Rejected,F11,International,3.67,800.0,stanford university,2,Stanford University,United States of America,2.0
-Stanford University,Computer Science Masters,Rejected,F11,International,3.92,700.0,stanford university,2,Stanford University,United States of America,2.0
-Stanford University,Computer Science Masters,Rejected,F11,American,3.9,800.0,stanford university,2,Stanford University,United States of America,2.0
-University Of Toronto,Computer Science Masters,Rejected,F11,International,3.52,790.0,university of toronto,12,University of Toronto,Canada,12.0
-University Of Toronto,Computer Science Masters,Rejected,F11,International,3.8,790.0,university of toronto,12,University of Toronto,Canada,12.0
-University Of Toronto,Computer Science Masters,Rejected,F11,International,3.6,800.0,university of toronto,12,University of Toronto,Canada,12.0
-University Of Toronto,Computer Science Masters,Rejected,F11,International,3.5,760.0,university of toronto,12,University of Toronto,Canada,12.0
-University of Texas at Austin,Computer Science Masters,Rejected,F11,International,3.2,800.0,university of texas at austin,=41,University of Texas at Austin,United States of America,41.0
-University of Texas at Austin,Computer Science Masters,Rejected,F11,International,3.6,800.0,university of texas at austin,=41,University of Texas at Austin,United States of America,41.0
-"University Of Wisconsin, Madison",Computer Science Masters,Rejected,F11,International,3.8,790.0,university of wisconsin,=110,University of Wisconsin-Madison,United States of America,110.0
-University of Texas at Austin,Computer Science Masters,Rejected,F11,International,3.65,800.0,university of texas at austin,=41,University of Texas at Austin,United States of America,41.0
-University of Texas at Austin,Computer Science Masters,Rejected,F11,American,3.92,700.0,university of texas at austin,=41,University of Texas at Austin,United States of America,41.0
-"University Of Wisconsin, Madison",Computer Science Masters,Rejected,F11,International,3.22,450.0,university of wisconsin,=110,University of Wisconsin-Madison,United States of America,110.0
-"University Of Wisconsin, Madison",Computer Science Masters,Rejected,F11,International,3.4,760.0,university of wisconsin,=110,University of Wisconsin-Madison,United States of America,110.0
-University Of British Columbia,Computer Science Masters,Rejected,F11,International,3.2,800.0,university of british columbia,=31,University of British Columbia,Canada,31.0
-University Of Waterloo,Computer Science Masters,Rejected,F11,International,3.45,770.0,university of waterloo,33,University of Waterloo,Canada,33.0
-"University Of California, Berkeley (UCB)",Computer Science Masters,Rejected,F11,American,3.99,790.0,university of california berkeley ucb,8,University of California. Berkeley (UCB),United States of America,8.0
-Yale University,Computer Science Masters,Rejected,F11,International,3.92,480.0,yale university,26,Yale University,United States of America,26.0
-Carnegie Mellon University,Computer Science (LTI) Masters,Rejected,F11,American,3.3,800.0,carnegie mellon university,3,Carnegie Mellon University,United States of America,3.0
-Carnegie Mellon University,Computer Science (Language Technologies Institute) Masters,Rejected,F11,American,3.3,800.0,carnegie mellon university,3,Carnegie Mellon University,United States of America,3.0
-Massachusetts Institute Of Technology (MIT),Computer Science Masters,Rejected,S11,American,3.71,770.0,massachusetts institute of technology mit,1,Massachusetts Institute of Technology (MIT),United States of America,1.0
-University of Washington,Computer Science Masters,Rejected,F11,International,3.2,710.0,university of washington,19,University of Washington,United States of America,19.0
-Princeton University,Computer Science Masters,Rejected,F11,International,3.7,790.0,princeton university,13,Princeton University,United States of America,13.0
-Princeton University,Computer Science (MSE) Masters,Rejected,F11,International,3.8,800.0,princeton university,13,Princeton University,United States of America,13.0
-Swiss Federal Institute Of Technology Zurich,Computer Science Masters,Rejected,F11,International,3.2,770.0,eth zurich,10,ETH Zurich - Swiss Federal Institute of Technology,Switzerland,10.0
-Cornell University,Computer Science Masters,Rejected,F10,International,3.5,800.0,cornell university,18,Cornell University,United States of America,18.0
-"University Of California, San Diego (UCSD)",Computer Science Masters,Rejected,F10,International,3.85,790.0,university of california san diego ucsd,=37,University of California. San Diego (UCSD),United States of America,37.0
-"University Of California, San Diego (UCSD)",Computer Science Masters,Rejected,F10,American,3.11,760.0,university of california san diego ucsd,=37,University of California. San Diego (UCSD),United States of America,37.0
-Stanford University,Computer Science Masters,Rejected,F10,American,3.75,780.0,stanford university,2,Stanford University,United States of America,2.0
-Stanford University,Computer Science Masters,Rejected,F10,International,3.5,800.0,stanford university,2,Stanford University,United States of America,2.0
-Stanford University,Computer Science Masters,Rejected,F10,American,3.93,800.0,stanford university,2,Stanford University,United States of America,2.0
-Stanford University,Computer Science Masters,Rejected,F09,American,3.86,800.0,stanford university,2,Stanford University,United States of America,2.0
-Stanford University,Computer Science Masters,Rejected,F10,American,3.48,800.0,stanford university,2,Stanford University,United States of America,2.0
-Stanford University,Computer Science Masters,Rejected,F10,International,3.83,790.0,stanford university,2,Stanford University,United States of America,2.0
-Iowa State University,Computer Science MS Masters,Rejected,F10,International,3.5,800.0,iowa state university,351-400,Iowa State University,United States of America,375.5
-"University Of Wisconsin, Madison",Computer Science Masters,Rejected,F10,American,3.87,800.0,university of wisconsin,=110,University of Wisconsin-Madison,United States of America,110.0
-"University Of Wisconsin, Madison",Computer Science Masters,Rejected,F10,International,3.85,790.0,university of wisconsin,=110,University of Wisconsin-Madison,United States of America,110.0
-Massachusetts Institute Of Technology (MIT),Computer Science Masters,Rejected,F10,American,3.68,740.0,massachusetts institute of technology mit,1,Massachusetts Institute of Technology (MIT),United States of America,1.0
-Massachusetts Institute Of Technology (MIT),Computer Science Masters,Rejected,F10,International,3.45,800.0,massachusetts institute of technology mit,1,Massachusetts Institute of Technology (MIT),United States of America,1.0
-"University Of California, Berkeley (UCB)",Computer Science Masters,Rejected,F10,International,3.45,800.0,university of california berkeley ucb,8,University of California. Berkeley (UCB),United States of America,8.0
-University Of Washington,Computer Science Masters,Rejected,F10,International,3.6,570.0,university of washington,19,University of Washington,United States of America,19.0
-"University Of California, Berkeley (UCB)",Computer Science Masters,Rejected,F10,International,3.0,780.0,university of california berkeley ucb,8,University of California. Berkeley (UCB),United States of America,8.0
-"University Of California, Berkeley (UCB)",Computer Science Masters,Rejected,F10,American,3.95,800.0,university of california berkeley ucb,8,University of California. Berkeley (UCB),United States of America,8.0
-University Of Toronto,Computer Science Masters,Rejected,F10,International,3.4,800.0,university of toronto,12,University of Toronto,Canada,12.0
-Princeton University,Computer Science Masters,Rejected,F10,International,3.85,790.0,princeton university,13,Princeton University,United States of America,13.0
-University Of Toronto,Computer Science Masters,Rejected,F10,International,3.86,800.0,university of toronto,12,University of Toronto,Canada,12.0
-University Of Toronto,Computer Science Masters,Rejected,F10,International,3.88,790.0,university of toronto,12,University of Toronto,Canada,12.0
 North Carolina State University,Computer Science Masters,Rejected,F15,International,3.5,170.0,north carolina state university,201-250,North Carolina State University,United States of America,225.5
 Yale University,Computer Science Masters,Rejected,F16,American,3.64,168.0,yale university,26,Yale University,United States of America,26.0
 Stanford University,Computer Science Masters,Rejected,F15,American,3.76,170.0,stanford university,2,Stanford University,United States of America,2.0
@@ -3479,7 +2995,6 @@ University of Minnesota Twin Cities,Computer Science Masters,Rejected,F15,Intern
 University of Alberta,Computer Science Masters,Rejected,F16,International,3.28,163.0,university of alberta,=105,University of Alberta,Canada,105.0
 University of Wisconsin,Computer Science Masters,Rejected,F17,International,4.0,163.0,university of wisconsin,=110,University of Wisconsin-Madison,United States of America,110.0
 University of Wisconsin,Computer Science Masters,Rejected,F17,International,3.57,155.0,university of wisconsin,=110,University of Wisconsin-Madison,United States of America,110.0
-University of Pennsylvania,Computer Science Masters,Rejected,F19,International,3.2,319.0,university of pennsylvania,=41,University of Pennsylvania,United States of America,41.0
 University of Wisconsin,Computer Science Masters,Rejected,F20,International,3.9,169.0,university of wisconsin,=110,University of Wisconsin-Madison,United States of America,110.0
 Princeton University,Computer Science Masters,Rejected,F20,American,3.93,168.0,princeton university,13,Princeton University,United States of America,13.0
 Stanford University,Computer Science Masters,Rejected,F17,American,3.88,168.0,stanford university,2,Stanford University,United States of America,2.0
@@ -3547,7 +3062,6 @@ Penn State University,Computer Science Masters,Rejected,Spring 2019,Internationa
 Princeton University,Computer Science Masters,Rejected,F19,International,3.4,170.0,princeton university,13,Princeton University,United States of America,13.0
 Columbia College,Computer Science Masters,Rejected,F17,American,3.4,165.0,columbia university,=27,Columbia University,United States of America,27.0
 University of Colorado Boulder,Computer Science Masters,Rejected,F15,American,3.8,160.0,university of colorado boulder,351-400,University of Colorado Boulder,United States of America,375.5
-Columbia College,Computer Science Masters,Rejected,F15,International,3.83,800.0,columbia university,=27,Columbia University,United States of America,27.0
 University of Colorado Boulder,Computer Science Masters,Rejected,F19,International,3.4,166.0,university of colorado boulder,351-400,University of Colorado Boulder,United States of America,375.5
 University of Wisconsin,Computer Science Masters,Rejected,F17,International,3.93,170.0,university of wisconsin,=110,University of Wisconsin-Madison,United States of America,110.0
 University of Southern California,Computer Science (Game Development) Masters,Rejected,F15,International,3.5,168.0,university of southern california,49,University of Southern California,United States of America,49.0

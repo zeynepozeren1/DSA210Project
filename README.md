@@ -195,7 +195,9 @@ To make the prediction part easy to use, I built a small Streamlit interface tha
 ![top-k uni with highest acceptance rate](/Images/user_interaction2.png)
 
 If you want to try the Streamlit interface yourself, you can install the dependencies and start the app locally by running the commands below:
+
 pip install -r requirements.txt
+
 streamlit run app_local.py
 
 

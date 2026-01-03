@@ -182,7 +182,20 @@ So I reject H0, but the direction is the opposite of the original expectation—
 
 ### Predictive Modeling
 Calibrated Logistic Regression achieved the best results with Accuracy = 0.731, F1 = 0.809, and ROC-AUC = 0.761, making it the most reliable model in terms of balanced classification and probability quality. Calibrated Linear SVM followed closely (Acc = 0.726, F1 = 0.808, ROC-AUC = 0.757). Tree-based models (Gradient Boosting / Random Forest / HistGradientBoosting) performed competitively but slightly behind in ROC-AUC and F1. Based on these comparisons, the project continues with Calibrated Logistic Regression as the main predictive model.
-![ML scores1](Images/MLscores1.png)
+- ML Models: QS rank
+![ML scores](Images/MLscores1.png)
+
+To make the prediction part easy to use, I built a small Streamlit interface that loads our trained best model (saved_model_hgb/best_model_hgb.joblib) and predicts the probability of acceptance, P(ACCEPT), based on a user profile. User provides GPA, GRE, citizenship,intended application term (e.g., F20, S24), and then chooses a mode. In One University mode, the user selects a single university from a dropdown list and the app returns the predicted acceptance probability for that school. In Top-K mode, the app scores all universities listed in uni_table.csv, sorts them by predicted probability, and displays the top results in a table.
+
+![user inputs](/Images/user_interaction3.png)
+![specific uni acceptance](/Images/user_interaction1.png)
+![top-k uni with highest acceptance rate](/Images/user_interaction2.png)
+
+If you want to try the Streamlit interface yourself, you can install the dependencies and start the app locally by running the commands below:
+pip install -r requirements.txt
+streamlit run app_local.py
+
+
 ---
 
 ## Challenges Encountered

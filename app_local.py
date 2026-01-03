@@ -76,4 +76,4 @@ else:
             "p_accept": probs
         }).sort_values("p_accept", ascending=False).head(top_k)
 
-        st.dataframe(out, use_container_width=True)
+        st.dataframe(out.reset_index(drop=True), use_container_width=True)

@@ -1,0 +1,22 @@
+# Core data stack
+numpy==2.4.0
+pandas==2.3.3
+
+# Stats / econometrics
+statsmodels==0.14.6
+
+# Plotting
+matplotlib==3.10.8
+
+# ML
+scikit-learn==1.8.0
+joblib==1.5.3
+
+# App
+streamlit==1.52.2
+
+# Web scraping (GradCafe rejected scraper)
+selenium==4.39.0
+
+# Optional (usually installed as dependencies)
+scipy>=1.16
